@@ -1,0 +1,1032 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 20:53:06.397"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busRouteStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "가평"
+                    },
+                    "stationId": {
+                        "_text": "277101680"
+                    },
+                    "stationName": {
+                        "_text": "대성리차고지(경유)"
+                    },
+                    "x": {
+                        "_text": "127.3782667"
+                    },
+                    "y": {
+                        "_text": "37.6805333"
+                    },
+                    "stationSeq": {
+                        "_text": "1"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "49395"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222001467"
+                    },
+                    "stationName": {
+                        "_text": "월산지구부영1.2단지입구"
+                    },
+                    "x": {
+                        "_text": "127.3424333"
+                    },
+                    "y": {
+                        "_text": "37.657"
+                    },
+                    "stationSeq": {
+                        "_text": "2"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23667"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000016"
+                    },
+                    "stationName": {
+                        "_text": "화광중학교.월산리"
+                    },
+                    "x": {
+                        "_text": "127.3366833"
+                    },
+                    "y": {
+                        "_text": "37.6562333"
+                    },
+                    "stationSeq": {
+                        "_text": "3"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23665"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000015"
+                    },
+                    "stationName": {
+                        "_text": "지현마을.남양주공고.화도동부출장소"
+                    },
+                    "x": {
+                        "_text": "127.3304333"
+                    },
+                    "y": {
+                        "_text": "37.6542833"
+                    },
+                    "stationSeq": {
+                        "_text": "4"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23650"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000014"
+                    },
+                    "stationName": {
+                        "_text": "모란공원.마석그랜드힐아파트"
+                    },
+                    "x": {
+                        "_text": "127.32095"
+                    },
+                    "y": {
+                        "_text": "37.6515833"
+                    },
+                    "stationSeq": {
+                        "_text": "5"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23631"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000010"
+                    },
+                    "stationName": {
+                        "_text": "마석역"
+                    },
+                    "x": {
+                        "_text": "127.3113333"
+                    },
+                    "y": {
+                        "_text": "37.6520833"
+                    },
+                    "stationSeq": {
+                        "_text": "6"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23625"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000009"
+                    },
+                    "stationName": {
+                        "_text": "청소년도움센터"
+                    },
+                    "x": {
+                        "_text": "127.3075667"
+                    },
+                    "y": {
+                        "_text": "37.6523333"
+                    },
+                    "stationSeq": {
+                        "_text": "7"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23580"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000149"
+                    },
+                    "stationName": {
+                        "_text": "중흥아파트"
+                    },
+                    "x": {
+                        "_text": "127.3027"
+                    },
+                    "y": {
+                        "_text": "37.6577333"
+                    },
+                    "stationSeq": {
+                        "_text": "8"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "49134"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000243"
+                    },
+                    "stationName": {
+                        "_text": "두산1차아파트"
+                    },
+                    "x": {
+                        "_text": "127.3021333"
+                    },
+                    "y": {
+                        "_text": "37.6478167"
+                    },
+                    "stationSeq": {
+                        "_text": "9"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "277103334"
+                    },
+                    "stationName": {
+                        "_text": "화도TG(경유)"
+                    },
+                    "x": {
+                        "_text": "127.3105833"
+                    },
+                    "y": {
+                        "_text": "37.6368167"
+                    },
+                    "stationSeq": {
+                        "_text": "10"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "277103344"
+                    },
+                    "stationName": {
+                        "_text": "남양주TG(경유)"
+                    },
+                    "x": {
+                        "_text": "127.2415833"
+                    },
+                    "y": {
+                        "_text": "37.5982667"
+                    },
+                    "stationSeq": {
+                        "_text": "11"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "277103347"
+                    },
+                    "stationName": {
+                        "_text": "덕소삼패IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.2077833"
+                    },
+                    "y": {
+                        "_text": "37.5927667"
+                    },
+                    "stationSeq": {
+                        "_text": "12"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103350"
+                    },
+                    "stationName": {
+                        "_text": "강일JC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.1654"
+                    },
+                    "y": {
+                        "_text": "37.5736167"
+                    },
+                    "stationSeq": {
+                        "_text": "13"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103348"
+                    },
+                    "stationName": {
+                        "_text": "암사IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.1352"
+                    },
+                    "y": {
+                        "_text": "37.5662"
+                    },
+                    "stationSeq": {
+                        "_text": "14"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103352"
+                    },
+                    "stationName": {
+                        "_text": "천호대교남단(경유)"
+                    },
+                    "x": {
+                        "_text": "127.1182167"
+                    },
+                    "y": {
+                        "_text": "37.5414333"
+                    },
+                    "stationSeq": {
+                        "_text": "15"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277102840"
+                    },
+                    "stationName": {
+                        "_text": "올림픽대교남단(경유)"
+                    },
+                    "x": {
+                        "_text": "127.1085333"
+                    },
+                    "y": {
+                        "_text": "37.5299667"
+                    },
+                    "stationSeq": {
+                        "_text": "16"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "123000611"
+                    },
+                    "stationName": {
+                        "_text": "잠실광역환승센터"
+                    },
+                    "x": {
+                        "_text": "127.1006667"
+                    },
+                    "y": {
+                        "_text": "37.51235"
+                    },
+                    "stationSeq": {
+                        "_text": "17"
+                    },
+                    "turnYn": {
+                        "_text": "Y"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277102842"
+                    },
+                    "stationName": {
+                        "_text": "올림픽대교남단(경유)"
+                    },
+                    "x": {
+                        "_text": "127.1087833"
+                    },
+                    "y": {
+                        "_text": "37.5289667"
+                    },
+                    "stationSeq": {
+                        "_text": "18"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103353"
+                    },
+                    "stationName": {
+                        "_text": "천호대교남단(경유)"
+                    },
+                    "x": {
+                        "_text": "127.11825"
+                    },
+                    "y": {
+                        "_text": "37.5408"
+                    },
+                    "stationSeq": {
+                        "_text": "19"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103349"
+                    },
+                    "stationName": {
+                        "_text": "암사IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.1344667"
+                    },
+                    "y": {
+                        "_text": "37.5653333"
+                    },
+                    "stationSeq": {
+                        "_text": "20"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103351"
+                    },
+                    "stationName": {
+                        "_text": "강일JC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.1646833"
+                    },
+                    "y": {
+                        "_text": "37.5725833"
+                    },
+                    "stationSeq": {
+                        "_text": "21"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "277103346"
+                    },
+                    "stationName": {
+                        "_text": "덕소삼패IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.2076667"
+                    },
+                    "y": {
+                        "_text": "37.5922667"
+                    },
+                    "stationSeq": {
+                        "_text": "22"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "277103345"
+                    },
+                    "stationName": {
+                        "_text": "남양주TG(경유)"
+                    },
+                    "x": {
+                        "_text": "127.2407"
+                    },
+                    "y": {
+                        "_text": "37.5968333"
+                    },
+                    "stationSeq": {
+                        "_text": "23"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "277103335"
+                    },
+                    "stationName": {
+                        "_text": "화도TG(경유)"
+                    },
+                    "x": {
+                        "_text": "127.3115"
+                    },
+                    "y": {
+                        "_text": "37.6364667"
+                    },
+                    "stationSeq": {
+                        "_text": "24"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23703"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000095"
+                    },
+                    "stationName": {
+                        "_text": "창현초등학교"
+                    },
+                    "x": {
+                        "_text": "127.3033167"
+                    },
+                    "y": {
+                        "_text": "37.64455"
+                    },
+                    "stationSeq": {
+                        "_text": "25"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23908"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222001296"
+                    },
+                    "stationName": {
+                        "_text": "신명아파트"
+                    },
+                    "x": {
+                        "_text": "127.3027"
+                    },
+                    "y": {
+                        "_text": "37.6469333"
+                    },
+                    "stationSeq": {
+                        "_text": "26"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23578"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000148"
+                    },
+                    "stationName": {
+                        "_text": "중흥아파트"
+                    },
+                    "x": {
+                        "_text": "127.3026"
+                    },
+                    "y": {
+                        "_text": "37.6575833"
+                    },
+                    "stationSeq": {
+                        "_text": "27"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23753"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222001660"
+                    },
+                    "stationName": {
+                        "_text": "마석장터.청소년도움센터"
+                    },
+                    "x": {
+                        "_text": "127.30665"
+                    },
+                    "y": {
+                        "_text": "37.6530333"
+                    },
+                    "stationSeq": {
+                        "_text": "28"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23632"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000742"
+                    },
+                    "stationName": {
+                        "_text": "마석역"
+                    },
+                    "x": {
+                        "_text": "127.3121167"
+                    },
+                    "y": {
+                        "_text": "37.652"
+                    },
+                    "stationSeq": {
+                        "_text": "29"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23645"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000034"
+                    },
+                    "stationName": {
+                        "_text": "모란공원.마석그랜드힐아파트"
+                    },
+                    "x": {
+                        "_text": "127.3220667"
+                    },
+                    "y": {
+                        "_text": "37.6513667"
+                    },
+                    "stationSeq": {
+                        "_text": "30"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23666"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000032"
+                    },
+                    "stationName": {
+                        "_text": "화광중학교"
+                    },
+                    "x": {
+                        "_text": "127.3361833"
+                    },
+                    "y": {
+                        "_text": "37.6559667"
+                    },
+                    "stationSeq": {
+                        "_text": "31"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "49728"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000822"
+                    },
+                    "stationName": {
+                        "_text": "월산지구부영1.2단지입구"
+                    },
+                    "x": {
+                        "_text": "127.3415833"
+                    },
+                    "y": {
+                        "_text": "37.65675"
+                    },
+                    "stationSeq": {
+                        "_text": "32"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "가평"
+                    },
+                    "stationId": {
+                        "_text": "277101680"
+                    },
+                    "stationName": {
+                        "_text": "대성리차고지(경유)"
+                    },
+                    "x": {
+                        "_text": "127.3782667"
+                    },
+                    "y": {
+                        "_text": "37.6805333"
+                    },
+                    "stationSeq": {
+                        "_text": "33"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:06.097"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "14207"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "113000116"
+                    },
+                    "stationName": {
+                        "_text": "이화여대입구"
+                    },
+                    "x": {
+                        "_text": "126.9447667"
+                    },
+                    "y": {
+                        "_text": "37.5565333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "14208"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "113000117"
+                    },
+                    "stationName": {
+                        "_text": "이화여대입구"
+                    },
+                    "x": {
+                        "_text": "126.94575"
+                    },
+                    "y": {
+                        "_text": "37.5559667"
+                    }
+                }
+            ]
+        }
+    }
+}

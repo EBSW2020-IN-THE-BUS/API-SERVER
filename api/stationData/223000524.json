@@ -1,0 +1,51 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:18.347"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": "24118"
+                },
+                "regionName": {
+                    "_text": "오산"
+                },
+                "stationId": {
+                    "_text": "223000524"
+                },
+                "stationName": {
+                    "_text": "갈곶동.동부아파트"
+                },
+                "x": {
+                    "_text": "127.0692167"
+                },
+                "y": {
+                    "_text": "37.13285"
+                }
+            }
+        }
+    }
+}

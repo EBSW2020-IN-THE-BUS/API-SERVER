@@ -1,0 +1,87 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:02:36.315"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busRouteInfoItem": {
+                "companyId": {
+                    "_text": "4102100"
+                },
+                "companyName": {
+                    "_text": "삼영운수"
+                },
+                "companyTel": {
+                    "_text": "031-472-9111"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "downFirstTime": {
+                    "_text": "05:55"
+                },
+                "downLastTime": {
+                    "_text": "23:30"
+                },
+                "endMobileNo": {
+                    "_text": "92022"
+                },
+                "endStationId": {
+                    "_text": "123000045"
+                },
+                "endStationName": {
+                    "_text": "잠실역1번.11번출구"
+                },
+                "peekAlloc": {
+                    "_text": "12"
+                },
+                "regionName": {
+                    "_text": "서울,안양"
+                },
+                "routeId": {
+                    "_text": "208000063"
+                },
+                "routeName": {
+                    "_text": "M5333"
+                },
+                "routeTypeCd": {
+                    "_text": "14"
+                },
+                "routeTypeName": {
+                    "_text": "광역급행형시내버스"
+                },
+                "startStationId": {
+                    "_text": "277103100"
+                },
+                "startStationName": {
+                    "_text": "평촌차고지(경유)"
+                },
+                "upFirstTime": {
+                    "_text": "05:00"
+                },
+                "upLastTime": {
+                    "_text": "22:30"
+                },
+                "nPeekAlloc": {
+                    "_text": "25"
+                }
+            }
+        }
+    }
+}

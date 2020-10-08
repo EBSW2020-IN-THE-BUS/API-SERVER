@@ -1,0 +1,79 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:07.331"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "24013"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "123000013"
+                    },
+                    "stationName": {
+                        "_text": "문정법조단지.건영아파트(중)"
+                    },
+                    "x": {
+                        "_text": "127.1245667"
+                    },
+                    "y": {
+                        "_text": "37.48195"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "24014"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "123000014"
+                    },
+                    "stationName": {
+                        "_text": "문정법조단지.건영아파트(중)"
+                    },
+                    "x": {
+                        "_text": "127.1238"
+                    },
+                    "y": {
+                        "_text": "37.48315"
+                    }
+                }
+            ]
+        }
+    }
+}

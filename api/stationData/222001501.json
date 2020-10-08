@@ -1,0 +1,72 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:18.393"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23239"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222001500"
+                    },
+                    "stationName": {
+                        "_text": "별가람고등학교.대원칸타빌"
+                    },
+                    "x": {
+                        "_text": "127.1236167"
+                    },
+                    "y": {
+                        "_text": "37.6612833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23241"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222001501"
+                    },
+                    "stationName": {
+                        "_text": "별가람고등학교.대원칸타빌"
+                    },
+                    "x": {
+                        "_text": "127.1235"
+                    },
+                    "y": {
+                        "_text": "37.6607833"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:06.706"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22019"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000019"
+                    },
+                    "stationName": {
+                        "_text": "고속터미널(중)"
+                    },
+                    "x": {
+                        "_text": "127.0052667"
+                    },
+                    "y": {
+                        "_text": "37.5063333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22020"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000020"
+                    },
+                    "stationName": {
+                        "_text": "고속터미널(중)"
+                    },
+                    "x": {
+                        "_text": "127.0037833"
+                    },
+                    "y": {
+                        "_text": "37.5057833"
+                    }
+                }
+            ]
+        }
+    }
+}

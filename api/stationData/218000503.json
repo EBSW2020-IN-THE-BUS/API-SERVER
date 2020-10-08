@@ -1,0 +1,51 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:09.659"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": "19415"
+                },
+                "regionName": {
+                    "_text": "고양"
+                },
+                "stationId": {
+                    "_text": "218000503"
+                },
+                "stationName": {
+                    "_text": "원당대림아파트"
+                },
+                "x": {
+                    "_text": "126.8397833"
+                },
+                "y": {
+                    "_text": "37.66"
+                }
+            }
+        }
+    }
+}

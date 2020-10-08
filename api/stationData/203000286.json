@@ -1,0 +1,79 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:08.269"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "04277"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "203000287"
+                    },
+                    "stationName": {
+                        "_text": "상현역"
+                    },
+                    "x": {
+                        "_text": "127.069"
+                    },
+                    "y": {
+                        "_text": "37.2970333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "04300"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "203000286"
+                    },
+                    "stationName": {
+                        "_text": "상현역"
+                    },
+                    "x": {
+                        "_text": "127.0693167"
+                    },
+                    "y": {
+                        "_text": "37.2969167"
+                    }
+                }
+            ]
+        }
+    }
+}

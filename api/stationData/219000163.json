@@ -1,0 +1,79 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:09.815"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20352"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000386"
+                    },
+                    "stationName": {
+                        "_text": "백석동.요진와이시티(중)"
+                    },
+                    "x": {
+                        "_text": "126.7910667"
+                    },
+                    "y": {
+                        "_text": "37.6408333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20353"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000163"
+                    },
+                    "stationName": {
+                        "_text": "백석동.요진와이시티(중)"
+                    },
+                    "x": {
+                        "_text": "126.7905333"
+                    },
+                    "y": {
+                        "_text": "37.6409833"
+                    }
+                }
+            ]
+        }
+    }
+}

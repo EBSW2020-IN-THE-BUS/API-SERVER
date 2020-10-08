@@ -1,0 +1,209 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:07.878"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "04332"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "203000354"
+                    },
+                    "stationName": {
+                        "_text": "동수원세무소.영통역2번출구"
+                    },
+                    "x": {
+                        "_text": "127.0727"
+                    },
+                    "y": {
+                        "_text": "37.25065"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "04149"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "203000135"
+                    },
+                    "stationName": {
+                        "_text": "살구골공원.영통역3번출구"
+                    },
+                    "x": {
+                        "_text": "127.0735"
+                    },
+                    "y": {
+                        "_text": "37.2499"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "04135"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "203000156"
+                    },
+                    "stationName": {
+                        "_text": "살구골현대아파트.영통역4번출구"
+                    },
+                    "x": {
+                        "_text": "127.0704"
+                    },
+                    "y": {
+                        "_text": "37.2502"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "04150"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "203000123"
+                    },
+                    "stationName": {
+                        "_text": "영통역"
+                    },
+                    "x": {
+                        "_text": "127.0739"
+                    },
+                    "y": {
+                        "_text": "37.2537667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "04133"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "203000136"
+                    },
+                    "stationName": {
+                        "_text": "영통역6번출구.영덕고등학교"
+                    },
+                    "x": {
+                        "_text": "127.0698333"
+                    },
+                    "y": {
+                        "_text": "37.2521333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "04132"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "203000018"
+                    },
+                    "stationName": {
+                        "_text": "영통역7번출구.영덕고등학교"
+                    },
+                    "x": {
+                        "_text": "127.0697"
+                    },
+                    "y": {
+                        "_text": "37.2525"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "04141"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "203000074"
+                    },
+                    "stationName": {
+                        "_text": "영통역8번출구"
+                    },
+                    "x": {
+                        "_text": "127.0719167"
+                    },
+                    "y": {
+                        "_text": "37.25235"
+                    }
+                }
+            ]
+        }
+    }
+}

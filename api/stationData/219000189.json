@@ -1,0 +1,72 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:09.831"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20135"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000189"
+                    },
+                    "stationName": {
+                        "_text": "주엽역(중)"
+                    },
+                    "x": {
+                        "_text": "126.7616"
+                    },
+                    "y": {
+                        "_text": "37.6700333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20136"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000363"
+                    },
+                    "stationName": {
+                        "_text": "주엽역(중)"
+                    },
+                    "x": {
+                        "_text": "126.76085"
+                    },
+                    "y": {
+                        "_text": "37.67025"
+                    }
+                }
+            ]
+        }
+    }
+}

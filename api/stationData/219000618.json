@@ -1,0 +1,72 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:17.081"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20587"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000618"
+                    },
+                    "stationName": {
+                        "_text": "성저마을14단지"
+                    },
+                    "x": {
+                        "_text": "126.7580167"
+                    },
+                    "y": {
+                        "_text": "37.6790833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20561"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000617"
+                    },
+                    "stationName": {
+                        "_text": "성저마을14단지"
+                    },
+                    "x": {
+                        "_text": "126.7583167"
+                    },
+                    "y": {
+                        "_text": "37.68005"
+                    }
+                }
+            ]
+        }
+    }
+}

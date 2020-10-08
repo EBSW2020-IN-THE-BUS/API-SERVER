@@ -1,0 +1,105 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:19.347"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "277103460"
+                    },
+                    "stationName": {
+                        "_text": "자유로진입(경유)"
+                    },
+                    "x": {
+                        "_text": "126.7396167"
+                    },
+                    "y": {
+                        "_text": "37.6530667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "277103480"
+                    },
+                    "stationName": {
+                        "_text": "자유로진입(경유)"
+                    },
+                    "x": {
+                        "_text": "126.6829"
+                    },
+                    "y": {
+                        "_text": "37.6936333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "277103483"
+                    },
+                    "stationName": {
+                        "_text": "자유로진입(경유)"
+                    },
+                    "x": {
+                        "_text": "126.7241667"
+                    },
+                    "y": {
+                        "_text": "37.6607833"
+                    }
+                }
+            ]
+        }
+    }
+}

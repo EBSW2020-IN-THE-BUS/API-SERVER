@@ -1,0 +1,51 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:07.972"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": "04073"
+                },
+                "regionName": {
+                    "_text": "수원"
+                },
+                "stationId": {
+                    "_text": "203000083"
+                },
+                "stationName": {
+                    "_text": "금성아파트.한국1차아파트"
+                },
+                "x": {
+                    "_text": "127.0567167"
+                },
+                "y": {
+                    "_text": "37.2680333"
+                }
+            }
+        }
+    }
+}

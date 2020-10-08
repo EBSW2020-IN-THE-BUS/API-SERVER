@@ -1,0 +1,84 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:02:36.346"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busRouteInfoItem": {
+                "companyId": {
+                    "_text": "4109100"
+                },
+                "companyName": {
+                    "_text": "신성교통"
+                },
+                "companyTel": {
+                    "_text": "02-350-6700"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "downFirstTime": {
+                    "_text": "06:30"
+                },
+                "downLastTime": {
+                    "_text": "01:00"
+                },
+                "endStationId": {
+                    "_text": "101000022"
+                },
+                "endStationName": {
+                    "_text": "숭례문"
+                },
+                "peekAlloc": {
+                    "_text": "12"
+                },
+                "regionName": {
+                    "_text": "서울,파주"
+                },
+                "routeId": {
+                    "_text": "229000102"
+                },
+                "routeName": {
+                    "_text": "M7111"
+                },
+                "routeTypeCd": {
+                    "_text": "14"
+                },
+                "routeTypeName": {
+                    "_text": "광역급행형시내버스"
+                },
+                "startStationId": {
+                    "_text": "277101967"
+                },
+                "startStationName": {
+                    "_text": "교하차고지(경유)"
+                },
+                "upFirstTime": {
+                    "_text": "05:30"
+                },
+                "upLastTime": {
+                    "_text": "23:50"
+                },
+                "nPeekAlloc": {
+                    "_text": "20"
+                }
+            }
+        }
+    }
+}

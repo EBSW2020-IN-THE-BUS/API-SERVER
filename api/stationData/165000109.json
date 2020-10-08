@@ -1,0 +1,79 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:07.425"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "3"
+                    },
+                    "mobileNo": {
+                        "_text": "39114"
+                    },
+                    "regionName": {
+                        "_text": "인천"
+                    },
+                    "stationId": {
+                        "_text": "165000114"
+                    },
+                    "stationName": {
+                        "_text": "소래포구입구.논현프루지오A"
+                    },
+                    "x": {
+                        "_text": "126.74035"
+                    },
+                    "y": {
+                        "_text": "37.4028667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "3"
+                    },
+                    "mobileNo": {
+                        "_text": "39109"
+                    },
+                    "regionName": {
+                        "_text": "인천"
+                    },
+                    "stationId": {
+                        "_text": "165000109"
+                    },
+                    "stationName": {
+                        "_text": "소래포구입구.논현프루지오A"
+                    },
+                    "x": {
+                        "_text": "126.7400167"
+                    },
+                    "y": {
+                        "_text": "37.4018833"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:06:04.782"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busLocationList": {
+                "endBus": {
+                    "_text": "0"
+                },
+                "lowPlate": {
+                    "_text": "0"
+                },
+                "plateNo": {
+                    "_text": "경기76자1007"
+                },
+                "plateType": {
+                    "_text": "3"
+                },
+                "remainSeatCnt": {
+                    "_text": "36"
+                },
+                "routeId": {
+                    "_text": "232000110"
+                },
+                "stationId": {
+                    "_text": "277102199"
+                },
+                "stationSeq": {
+                    "_text": "30"
+                }
+            }
+        }
+    }
+}

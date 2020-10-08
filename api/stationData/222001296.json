@@ -1,0 +1,573 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:21.018"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "04401"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "203000414"
+                    },
+                    "stationName": {
+                        "_text": "동보신명아파트"
+                    },
+                    "x": {
+                        "_text": "127.0641333"
+                    },
+                    "y": {
+                        "_text": "37.2502"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "04402"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "203000415"
+                    },
+                    "stationName": {
+                        "_text": "동보신명아파트"
+                    },
+                    "x": {
+                        "_text": "127.0644333"
+                    },
+                    "y": {
+                        "_text": "37.2502833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "김포"
+                    },
+                    "stationId": {
+                        "_text": "232519100"
+                    },
+                    "stationName": {
+                        "_text": "동양.신명아파트"
+                    },
+                    "x": {
+                        "_text": "126.7212833"
+                    },
+                    "y": {
+                        "_text": "37.6210167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "김포"
+                    },
+                    "stationId": {
+                        "_text": "232519130"
+                    },
+                    "stationName": {
+                        "_text": "동양.신명아파트"
+                    },
+                    "x": {
+                        "_text": "126.7211667"
+                    },
+                    "y": {
+                        "_text": "37.6211167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23910"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222001290"
+                    },
+                    "stationName": {
+                        "_text": "송라초교.신명아파트.푸르지오아파트"
+                    },
+                    "x": {
+                        "_text": "127.3009833"
+                    },
+                    "y": {
+                        "_text": "37.6561833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23909"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222001289"
+                    },
+                    "stationName": {
+                        "_text": "송라초교.신명아파트.푸르지오아파트"
+                    },
+                    "x": {
+                        "_text": "127.3013"
+                    },
+                    "y": {
+                        "_text": "37.6559333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "08477"
+                    },
+                    "regionName": {
+                        "_text": "의정부"
+                    },
+                    "stationId": {
+                        "_text": "207000470"
+                    },
+                    "stationName": {
+                        "_text": "신명아파트"
+                    },
+                    "x": {
+                        "_text": "127.06345"
+                    },
+                    "y": {
+                        "_text": "37.7444"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "01030"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "200000071"
+                    },
+                    "stationName": {
+                        "_text": "신명아파트"
+                    },
+                    "x": {
+                        "_text": "126.98045"
+                    },
+                    "y": {
+                        "_text": "37.3022833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23908"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222001296"
+                    },
+                    "stationName": {
+                        "_text": "신명아파트"
+                    },
+                    "x": {
+                        "_text": "127.3027"
+                    },
+                    "y": {
+                        "_text": "37.6469333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "화성"
+                    },
+                    "stationId": {
+                        "_text": "233002754"
+                    },
+                    "stationName": {
+                        "_text": "신명아파트"
+                    },
+                    "x": {
+                        "_text": "126.9740833"
+                    },
+                    "y": {
+                        "_text": "37.2131167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "01349"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "200000376"
+                    },
+                    "stationName": {
+                        "_text": "신명아파트"
+                    },
+                    "x": {
+                        "_text": "126.9809667"
+                    },
+                    "y": {
+                        "_text": "37.3007"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "55246"
+                    },
+                    "regionName": {
+                        "_text": "화성"
+                    },
+                    "stationId": {
+                        "_text": "233002255"
+                    },
+                    "stationName": {
+                        "_text": "신명아파트"
+                    },
+                    "x": {
+                        "_text": "126.9724"
+                    },
+                    "y": {
+                        "_text": "37.2136"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "25454"
+                    },
+                    "regionName": {
+                        "_text": "시흥"
+                    },
+                    "stationId": {
+                        "_text": "224000383"
+                    },
+                    "stationName": {
+                        "_text": "신명아파트.대우3차아파트"
+                    },
+                    "x": {
+                        "_text": "126.7972667"
+                    },
+                    "y": {
+                        "_text": "37.4436"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "08496"
+                    },
+                    "regionName": {
+                        "_text": "의정부"
+                    },
+                    "stationId": {
+                        "_text": "207000416"
+                    },
+                    "stationName": {
+                        "_text": "신명아파트.백병원앞"
+                    },
+                    "x": {
+                        "_text": "127.0615833"
+                    },
+                    "y": {
+                        "_text": "37.7441667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "29774"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228000904"
+                    },
+                    "stationName": {
+                        "_text": "신명아파트.손곡초등학교"
+                    },
+                    "x": {
+                        "_text": "127.0975833"
+                    },
+                    "y": {
+                        "_text": "37.3357833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "29115"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228000884"
+                    },
+                    "stationName": {
+                        "_text": "신명아파트.손곡초등학교"
+                    },
+                    "x": {
+                        "_text": "127.09795"
+                    },
+                    "y": {
+                        "_text": "37.3357667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "55358"
+                    },
+                    "regionName": {
+                        "_text": "화성"
+                    },
+                    "stationId": {
+                        "_text": "233002753"
+                    },
+                    "stationName": {
+                        "_text": "신명아파트앞"
+                    },
+                    "x": {
+                        "_text": "126.9738833"
+                    },
+                    "y": {
+                        "_text": "37.21315"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23481"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000163"
+                    },
+                    "stationName": {
+                        "_text": "호평동.대주신명아파트"
+                    },
+                    "x": {
+                        "_text": "127.2454833"
+                    },
+                    "y": {
+                        "_text": "37.66085"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23482"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000162"
+                    },
+                    "stationName": {
+                        "_text": "호평동.대주신명아파트"
+                    },
+                    "x": {
+                        "_text": "127.2461333"
+                    },
+                    "y": {
+                        "_text": "37.66095"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "47960"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228002050"
+                    },
+                    "stationName": {
+                        "_text": "효성.신명아파트"
+                    },
+                    "x": {
+                        "_text": "127.0963333"
+                    },
+                    "y": {
+                        "_text": "37.3362167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "47961"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228002051"
+                    },
+                    "stationName": {
+                        "_text": "효성.신명아파트"
+                    },
+                    "x": {
+                        "_text": "127.0962333"
+                    },
+                    "y": {
+                        "_text": "37.33605"
+                    }
+                }
+            ]
+        }
+    }
+}

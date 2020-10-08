@@ -1,0 +1,79 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:15.519"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20765"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219001173"
+                    },
+                    "stationName": {
+                        "_text": "킨텍스꿈에그린.원시티1단지"
+                    },
+                    "x": {
+                        "_text": "126.749"
+                    },
+                    "y": {
+                        "_text": "37.6650333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20764"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219001172"
+                    },
+                    "stationName": {
+                        "_text": "킨텍스꿈에그린.원시티1단지"
+                    },
+                    "x": {
+                        "_text": "126.7489667"
+                    },
+                    "y": {
+                        "_text": "37.6648"
+                    }
+                }
+            ]
+        }
+    }
+}

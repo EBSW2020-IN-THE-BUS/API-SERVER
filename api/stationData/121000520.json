@@ -1,0 +1,79 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:06.940"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22812"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000520"
+                    },
+                    "stationName": {
+                        "_text": "서초아트자이아파트"
+                    },
+                    "x": {
+                        "_text": "127.0111333"
+                    },
+                    "y": {
+                        "_text": "37.4852"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22139"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000063"
+                    },
+                    "stationName": {
+                        "_text": "서초아트자이아파트"
+                    },
+                    "x": {
+                        "_text": "127.01085"
+                    },
+                    "y": {
+                        "_text": "37.4858333"
+                    }
+                }
+            ]
+        }
+    }
+}

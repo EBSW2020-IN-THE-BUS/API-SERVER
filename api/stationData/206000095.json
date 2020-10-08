@@ -1,0 +1,79 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:08.581"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07333"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000087"
+                    },
+                    "stationName": {
+                        "_text": "미금역.청솔마을.2001아울렛"
+                    },
+                    "x": {
+                        "_text": "127.1091833"
+                    },
+                    "y": {
+                        "_text": "37.3509667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07331"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000095"
+                    },
+                    "stationName": {
+                        "_text": "미금역.청솔마을.2001아울렛"
+                    },
+                    "x": {
+                        "_text": "127.1086"
+                    },
+                    "y": {
+                        "_text": "37.3506667"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:20.893"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23460"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000322"
+                    },
+                    "stationName": {
+                        "_text": "평내농협.평내초교.대명루첸"
+                    },
+                    "x": {
+                        "_text": "127.2368333"
+                    },
+                    "y": {
+                        "_text": "37.6498167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23457"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000325"
+                    },
+                    "stationName": {
+                        "_text": "평내농협.평내초교.대명루첸"
+                    },
+                    "x": {
+                        "_text": "127.2372167"
+                    },
+                    "y": {
+                        "_text": "37.6498167"
+                    }
+                }
+            ]
+        }
+    }
+}

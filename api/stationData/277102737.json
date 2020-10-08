@@ -1,0 +1,86 @@
+{
+    "_declaration": {
+        "_attributes": {
+            "version": "1.0",
+            "encoding": "UTF-8",
+            "standalone": "yes"
+        }
+    },
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-03 17:47:58.568"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 00000"
+                    },
+                    "regionName": {
+                        "_text": "김포"
+                    },
+                    "stationId": {
+                        "_text": "277102737"
+                    },
+                    "stationName": {
+                        "_text": "신곡IC(경유)"
+                    },
+                    "x": {
+                        "_text": "126.7833167"
+                    },
+                    "y": {
+                        "_text": "37.605"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 00000"
+                    },
+                    "regionName": {
+                        "_text": "김포"
+                    },
+                    "stationId": {
+                        "_text": "277102738"
+                    },
+                    "stationName": {
+                        "_text": "신곡IC(경유)"
+                    },
+                    "x": {
+                        "_text": "126.7841"
+                    },
+                    "y": {
+                        "_text": "37.6049667"
+                    }
+                }
+            ]
+        }
+    }
+}

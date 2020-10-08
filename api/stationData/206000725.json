@@ -1,0 +1,131 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:08.581"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07051"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000198"
+                    },
+                    "stationName": {
+                        "_text": "정자역"
+                    },
+                    "x": {
+                        "_text": "127.1083167"
+                    },
+                    "y": {
+                        "_text": "37.3658333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07624"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000725"
+                    },
+                    "stationName": {
+                        "_text": "정자역"
+                    },
+                    "x": {
+                        "_text": "127.1082833"
+                    },
+                    "y": {
+                        "_text": "37.3667833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07049"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000189"
+                    },
+                    "stationName": {
+                        "_text": "정자역"
+                    },
+                    "x": {
+                        "_text": "127.1079"
+                    },
+                    "y": {
+                        "_text": "37.3657667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07786"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000908"
+                    },
+                    "stationName": {
+                        "_text": "정자역(마을)"
+                    },
+                    "x": {
+                        "_text": "127.1083167"
+                    },
+                    "y": {
+                        "_text": "37.3662333"
+                    }
+                }
+            ]
+        }
+    }
+}

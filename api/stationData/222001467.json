@@ -1,0 +1,79 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:20.893"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "49395"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222001467"
+                    },
+                    "stationName": {
+                        "_text": "월산지구부영1.2단지입구"
+                    },
+                    "x": {
+                        "_text": "127.3424333"
+                    },
+                    "y": {
+                        "_text": "37.657"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "49728"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000822"
+                    },
+                    "stationName": {
+                        "_text": "월산지구부영1.2단지입구"
+                    },
+                    "x": {
+                        "_text": "127.3415833"
+                    },
+                    "y": {
+                        "_text": "37.65675"
+                    }
+                }
+            ]
+        }
+    }
+}

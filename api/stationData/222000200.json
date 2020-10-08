@@ -1,0 +1,176 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:17.831"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23506"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000189"
+                    },
+                    "stationName": {
+                        "_text": "경성아파트"
+                    },
+                    "x": {
+                        "_text": "127.2713667"
+                    },
+                    "y": {
+                        "_text": "37.65355"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "56307"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228003262"
+                    },
+                    "stationName": {
+                        "_text": "경성아파트"
+                    },
+                    "x": {
+                        "_text": "127.10185"
+                    },
+                    "y": {
+                        "_text": "37.3148667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "56306"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228003261"
+                    },
+                    "stationName": {
+                        "_text": "경성아파트"
+                    },
+                    "x": {
+                        "_text": "127.1017167"
+                    },
+                    "y": {
+                        "_text": "37.3149833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23507"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000200"
+                    },
+                    "stationName": {
+                        "_text": "경성아파트"
+                    },
+                    "x": {
+                        "_text": "127.27175"
+                    },
+                    "y": {
+                        "_text": "37.65335"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "49051"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000788"
+                    },
+                    "stationName": {
+                        "_text": "경성아파트입구"
+                    },
+                    "x": {
+                        "_text": "127.2715333"
+                    },
+                    "y": {
+                        "_text": "37.6525167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "49050"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000789"
+                    },
+                    "stationName": {
+                        "_text": "경성아파트입구"
+                    },
+                    "x": {
+                        "_text": "127.2714"
+                    },
+                    "y": {
+                        "_text": "37.6524667"
+                    }
+                }
+            ]
+        }
+    }
+}

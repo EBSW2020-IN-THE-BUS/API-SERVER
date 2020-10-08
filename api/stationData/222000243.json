@@ -1,0 +1,51 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:20.940"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": "49134"
+                },
+                "regionName": {
+                    "_text": "남양주"
+                },
+                "stationId": {
+                    "_text": "222000243"
+                },
+                "stationName": {
+                    "_text": "두산1차아파트"
+                },
+                "x": {
+                    "_text": "127.3021333"
+                },
+                "y": {
+                    "_text": "37.6478167"
+                }
+            }
+        }
+    }
+}

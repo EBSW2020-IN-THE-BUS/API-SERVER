@@ -1,0 +1,87 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:02:36.518"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busRouteInfoItem": {
+                "companyId": {
+                    "_text": "4108600"
+                },
+                "companyName": {
+                    "_text": "화성여객"
+                },
+                "companyTel": {
+                    "_text": "02-455-2114"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "downFirstTime": {
+                    "_text": "06:20"
+                },
+                "downLastTime": {
+                    "_text": "23:40"
+                },
+                "endStationId": {
+                    "_text": "101000006"
+                },
+                "endStationName": {
+                    "_text": "서울역버스환승센터(6번승강장)(중)"
+                },
+                "peekAlloc": {
+                    "_text": "10"
+                },
+                "regionName": {
+                    "_text": "서울,화성"
+                },
+                "routeId": {
+                    "_text": "234001577"
+                },
+                "routeName": {
+                    "_text": "M4130"
+                },
+                "routeTypeCd": {
+                    "_text": "14"
+                },
+                "routeTypeName": {
+                    "_text": "광역급행형시내버스"
+                },
+                "startMobileNo": {
+                    "_text": "55528"
+                },
+                "startStationId": {
+                    "_text": "233003132"
+                },
+                "startStationName": {
+                    "_text": "자이파밀리에.아이원"
+                },
+                "upFirstTime": {
+                    "_text": "05:20"
+                },
+                "upLastTime": {
+                    "_text": "22:30"
+                },
+                "nPeekAlloc": {
+                    "_text": "20"
+                }
+            }
+        }
+    }
+}

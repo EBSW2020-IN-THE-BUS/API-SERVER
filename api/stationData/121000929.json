@@ -1,0 +1,235 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:06.831"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22825"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000929"
+                    },
+                    "stationName": {
+                        "_text": "교대역"
+                    },
+                    "x": {
+                        "_text": "127.01565"
+                    },
+                    "y": {
+                        "_text": "37.4940833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22134"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000058"
+                    },
+                    "stationName": {
+                        "_text": "교대역3"
+                    },
+                    "x": {
+                        "_text": "127.0129833"
+                    },
+                    "y": {
+                        "_text": "37.49365"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22103"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000027"
+                    },
+                    "stationName": {
+                        "_text": "지하철2호선교대역2"
+                    },
+                    "x": {
+                        "_text": "127.0151833"
+                    },
+                    "y": {
+                        "_text": "37.4939333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22170"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000094"
+                    },
+                    "stationName": {
+                        "_text": "지하철2호선교대역4출구"
+                    },
+                    "x": {
+                        "_text": "127.0158333"
+                    },
+                    "y": {
+                        "_text": "37.4945167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22161"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000085"
+                    },
+                    "stationName": {
+                        "_text": "지하철3호선교대역"
+                    },
+                    "x": {
+                        "_text": "127.01375"
+                    },
+                    "y": {
+                        "_text": "37.4918833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22101"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000025"
+                    },
+                    "stationName": {
+                        "_text": "지하철3호선교대역"
+                    },
+                    "x": {
+                        "_text": "127.0142"
+                    },
+                    "y": {
+                        "_text": "37.4919333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "3"
+                    },
+                    "mobileNo": {
+                        "_text": "41428"
+                    },
+                    "regionName": {
+                        "_text": "인천"
+                    },
+                    "stationId": {
+                        "_text": "167000428"
+                    },
+                    "stationName": {
+                        "_text": "경인교대역입구"
+                    },
+                    "x": {
+                        "_text": "126.7223333"
+                    },
+                    "y": {
+                        "_text": "37.5381"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "3"
+                    },
+                    "mobileNo": {
+                        "_text": "41429"
+                    },
+                    "regionName": {
+                        "_text": "인천"
+                    },
+                    "stationId": {
+                        "_text": "167000429"
+                    },
+                    "stationName": {
+                        "_text": "경인교대역입구"
+                    },
+                    "x": {
+                        "_text": "126.72275"
+                    },
+                    "y": {
+                        "_text": "37.53835"
+                    }
+                }
+            ]
+        }
+    }
+}

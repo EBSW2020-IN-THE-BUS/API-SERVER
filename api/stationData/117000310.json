@@ -1,0 +1,105 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:06.409"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "18777"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "117000015"
+                    },
+                    "stationName": {
+                        "_text": "석수역(중)"
+                    },
+                    "x": {
+                        "_text": "126.9032833"
+                    },
+                    "y": {
+                        "_text": "37.4337667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "18776"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "117000310"
+                    },
+                    "stationName": {
+                        "_text": "석수역(중)"
+                    },
+                    "x": {
+                        "_text": "126.9030167"
+                    },
+                    "y": {
+                        "_text": "37.4346833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "09040"
+                    },
+                    "regionName": {
+                        "_text": "안양"
+                    },
+                    "stationId": {
+                        "_text": "208000037"
+                    },
+                    "stationName": {
+                        "_text": "석수역(중)"
+                    },
+                    "x": {
+                        "_text": "126.9033833"
+                    },
+                    "y": {
+                        "_text": "37.43355"
+                    }
+                }
+            ]
+        }
+    }
+}

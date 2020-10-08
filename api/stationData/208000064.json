@@ -1,0 +1,44 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:08.800"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": "09139"
+                },
+                "regionName": {
+                    "_text": "안양"
+                },
+                "stationId": {
+                    "_text": "208000064"
+                },
+                "stationName": {
+                    "_text": "대동문고"
+                },
+                "x": {
+                    "_text": "126.9195"
+                },
+                "y": {
+                    "_text": "37.4013833"
+                }
+            }
+        }
+    }
+}

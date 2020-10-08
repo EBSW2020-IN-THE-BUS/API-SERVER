@@ -1,0 +1,80 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:02:36.346"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busRouteInfoItem": {
+                "companyId": {
+                    "_text": "4100500"
+                },
+                "companyName": {
+                    "_text": "대원운수"
+                },
+                "companyTel": {
+                    "_text": "02-3436-6366"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "downFirstTime": {
+                    "_text": "06:10"
+                },
+                "downLastTime": {
+                    "_text": "23:50"
+                },
+                "endStationId": {
+                    "_text": "123000611"
+                },
+                "endStationName": {
+                    "_text": "잠실광역환승센터"
+                },
+                "peekAlloc": {
+                    "_text": "25"
+                },
+                "regionName": {
+                    "_text": "남양주,서울"
+                },
+                "routeId": {
+                    "_text": "222000185"
+                },
+                "routeName": {
+                    "_text": "M2344"
+                },
+                "routeTypeCd": {
+                    "_text": "14"
+                },
+                "routeTypeName": {
+                    "_text": "광역급행형시내버스"
+                },
+                "startMobileNo": {
+                    "_text": "23049"
+                },
+                "startStationId": {
+                    "_text": "222000616"
+                },
+                "startStationName": {
+                    "_text": "별내하우스토리.중말사거리"
+                },
+                "upFirstTime": {
+                    "_text": "05:20"
+                },
+                "upLastTime": {
+                    "_text": "23:00"
+                },
+                "nPeekAlloc": {
+                    "_text": "35"
+                }
+            }
+        }
+    }
+}

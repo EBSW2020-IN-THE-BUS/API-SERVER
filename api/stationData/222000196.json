@@ -1,0 +1,79 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:18.534"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23543"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000196"
+                    },
+                    "stationName": {
+                        "_text": "쉼터휴게소.천마산수련장"
+                    },
+                    "x": {
+                        "_text": "127.2905833"
+                    },
+                    "y": {
+                        "_text": "37.6560833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23540"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000192"
+                    },
+                    "stationName": {
+                        "_text": "쉼터휴게소.천마산수련장"
+                    },
+                    "x": {
+                        "_text": "127.28965"
+                    },
+                    "y": {
+                        "_text": "37.6562"
+                    }
+                }
+            ]
+        }
+    }
+}

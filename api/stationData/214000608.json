@@ -1,0 +1,79 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:09.112"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "15554"
+                    },
+                    "regionName": {
+                        "_text": "평택"
+                    },
+                    "stationId": {
+                        "_text": "214000618"
+                    },
+                    "stationName": {
+                        "_text": "광동제약.홈플러스"
+                    },
+                    "x": {
+                        "_text": "127.0630833"
+                    },
+                    "y": {
+                        "_text": "37.0432833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "48358"
+                    },
+                    "regionName": {
+                        "_text": "평택"
+                    },
+                    "stationId": {
+                        "_text": "214000608"
+                    },
+                    "stationName": {
+                        "_text": "광동제약.홈플러스"
+                    },
+                    "x": {
+                        "_text": "127.06255"
+                    },
+                    "y": {
+                        "_text": "37.0432833"
+                    }
+                }
+            ]
+        }
+    }
+}

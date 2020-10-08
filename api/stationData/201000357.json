@@ -1,0 +1,51 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:07.800"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": "02861"
+                },
+                "regionName": {
+                    "_text": "수원"
+                },
+                "stationId": {
+                    "_text": "201000357"
+                },
+                "stationName": {
+                    "_text": "수원은혜교회.한양수자인파크원아파트"
+                },
+                "x": {
+                    "_text": "126.95395"
+                },
+                "y": {
+                    "_text": "37.2659833"
+                }
+            }
+        }
+    }
+}

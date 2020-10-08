@@ -1,0 +1,72 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:20.878"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "50046"
+                    },
+                    "regionName": {
+                        "_text": "파주"
+                    },
+                    "stationId": {
+                        "_text": "229001422"
+                    },
+                    "stationName": {
+                        "_text": "해솔마을6.7단지"
+                    },
+                    "x": {
+                        "_text": "126.7487167"
+                    },
+                    "y": {
+                        "_text": "37.7219667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "50045"
+                    },
+                    "regionName": {
+                        "_text": "파주"
+                    },
+                    "stationId": {
+                        "_text": "229001423"
+                    },
+                    "stationName": {
+                        "_text": "해솔마을6.7단지"
+                    },
+                    "x": {
+                        "_text": "126.7490167"
+                    },
+                    "y": {
+                        "_text": "37.7218667"
+                    }
+                }
+            ]
+        }
+    }
+}

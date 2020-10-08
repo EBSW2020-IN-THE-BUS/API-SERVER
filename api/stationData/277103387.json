@@ -1,0 +1,112 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:18.597"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103387"
+                    },
+                    "stationName": {
+                        "_text": "양재IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0394333"
+                    },
+                    "y": {
+                        "_text": "37.46365"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103388"
+                    },
+                    "stationName": {
+                        "_text": "양재IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.04045"
+                    },
+                    "y": {
+                        "_text": "37.4632833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103049"
+                    },
+                    "stationName": {
+                        "_text": "양재IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0401833"
+                    },
+                    "y": {
+                        "_text": "37.4639333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103050"
+                    },
+                    "stationName": {
+                        "_text": "양재IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.03975"
+                    },
+                    "y": {
+                        "_text": "37.4630667"
+                    }
+                }
+            ]
+        }
+    }
+}

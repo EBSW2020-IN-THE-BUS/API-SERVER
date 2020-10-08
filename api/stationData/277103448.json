@@ -1,0 +1,176 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:17.143"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "오산"
+                    },
+                    "stationId": {
+                        "_text": "277102659"
+                    },
+                    "stationName": {
+                        "_text": "북오산TG(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0544667"
+                    },
+                    "y": {
+                        "_text": "37.1866"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "오산"
+                    },
+                    "stationId": {
+                        "_text": "277102848"
+                    },
+                    "stationName": {
+                        "_text": "북오산TG(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0550167"
+                    },
+                    "y": {
+                        "_text": "37.1868"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "오산"
+                    },
+                    "stationId": {
+                        "_text": "277102845"
+                    },
+                    "stationName": {
+                        "_text": "서오산TG(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0102667"
+                    },
+                    "y": {
+                        "_text": "37.1886333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "오산"
+                    },
+                    "stationId": {
+                        "_text": "277102844"
+                    },
+                    "stationName": {
+                        "_text": "서오산TG(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0095667"
+                    },
+                    "y": {
+                        "_text": "37.1889"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "오산"
+                    },
+                    "stationId": {
+                        "_text": "277103448"
+                    },
+                    "stationName": {
+                        "_text": "오산TG(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0808167"
+                    },
+                    "y": {
+                        "_text": "37.1430167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "오산"
+                    },
+                    "stationId": {
+                        "_text": "277103449"
+                    },
+                    "stationName": {
+                        "_text": "오산TG(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0808"
+                    },
+                    "y": {
+                        "_text": "37.1433167"
+                    }
+                }
+            ]
+        }
+    }
+}

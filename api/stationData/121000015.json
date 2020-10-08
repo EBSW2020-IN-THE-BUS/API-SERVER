@@ -1,0 +1,51 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:06.659"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "Y"
+                },
+                "districtCd": {
+                    "_text": "1"
+                },
+                "mobileNo": {
+                    "_text": "22015"
+                },
+                "regionName": {
+                    "_text": "서울"
+                },
+                "stationId": {
+                    "_text": "121000015"
+                },
+                "stationName": {
+                    "_text": "신사역.푸른저축은행(중)"
+                },
+                "x": {
+                    "_text": "127.02005"
+                },
+                "y": {
+                    "_text": "37.5139833"
+                }
+            }
+        }
+    }
+}

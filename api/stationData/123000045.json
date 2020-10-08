@@ -1,0 +1,44 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:07.362"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "1"
+                },
+                "mobileNo": {
+                    "_text": "24134"
+                },
+                "regionName": {
+                    "_text": "서울"
+                },
+                "stationId": {
+                    "_text": "123000045"
+                },
+                "stationName": {
+                    "_text": "잠실역1번.11번출구"
+                },
+                "x": {
+                    "_text": "127.1029667"
+                },
+                "y": {
+                    "_text": "37.5139667"
+                }
+            }
+        }
+    }
+}

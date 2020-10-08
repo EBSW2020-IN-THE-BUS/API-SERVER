@@ -1,0 +1,80 @@
+{
+    "_declaration": {
+        "_attributes": {
+            "version": "1.0",
+            "encoding": "UTF-8",
+            "standalone": "yes"
+        }
+    },
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-03 17:47:57.568"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103401"
+                    },
+                    "stationName": {
+                        "_text": "88JC(경유)"
+                    },
+                    "x": {
+                        "_text": "126.82095"
+                    },
+                    "y": {
+                        "_text": "37.58395"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277101769"
+                    },
+                    "stationName": {
+                        "_text": "88JC(경유)"
+                    },
+                    "x": {
+                        "_text": "126.8196333"
+                    },
+                    "y": {
+                        "_text": "37.58425"
+                    }
+                }
+            ]
+        }
+    }
+}

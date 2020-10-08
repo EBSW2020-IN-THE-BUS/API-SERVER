@@ -1,0 +1,119 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:19.315"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103895"
+                    },
+                    "stationName": {
+                        "_text": "여의상류IC(경유)"
+                    },
+                    "x": {
+                        "_text": "126.9382167"
+                    },
+                    "y": {
+                        "_text": "37.51595"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103896"
+                    },
+                    "stationName": {
+                        "_text": "여의상류IC(경유)"
+                    },
+                    "x": {
+                        "_text": "126.94065"
+                    },
+                    "y": {
+                        "_text": "37.5167667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103408"
+                    },
+                    "stationName": {
+                        "_text": "여의상류IC(경유)"
+                    },
+                    "x": {
+                        "_text": "126.9408667"
+                    },
+                    "y": {
+                        "_text": "37.5169667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103409"
+                    },
+                    "stationName": {
+                        "_text": "여의상류IC(경유)"
+                    },
+                    "x": {
+                        "_text": "126.9404833"
+                    },
+                    "y": {
+                        "_text": "37.5165667"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:15.534"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "Y"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": "20323"
+                },
+                "regionName": {
+                    "_text": "고양"
+                },
+                "stationId": {
+                    "_text": "219000385"
+                },
+                "stationName": {
+                    "_text": "안산공원(중)"
+                },
+                "x": {
+                    "_text": "126.7848833"
+                },
+                "y": {
+                    "_text": "37.6454833"
+                }
+            }
+        }
+    }
+}

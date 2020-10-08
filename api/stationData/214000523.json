@@ -1,0 +1,79 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:09.144"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "48487"
+                    },
+                    "regionName": {
+                        "_text": "평택"
+                    },
+                    "stationId": {
+                        "_text": "214001484"
+                    },
+                    "stationName": {
+                        "_text": "평택고용센터"
+                    },
+                    "x": {
+                        "_text": "127.0599833"
+                    },
+                    "y": {
+                        "_text": "37.0543833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "48020"
+                    },
+                    "regionName": {
+                        "_text": "평택"
+                    },
+                    "stationId": {
+                        "_text": "214000523"
+                    },
+                    "stationName": {
+                        "_text": "평택고용센터"
+                    },
+                    "x": {
+                        "_text": "127.06015"
+                    },
+                    "y": {
+                        "_text": "37.0533"
+                    }
+                }
+            ]
+        }
+    }
+}

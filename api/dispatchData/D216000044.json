@@ -1,0 +1,87 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:02:36.315"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busRouteInfoItem": {
+                "companyId": {
+                    "_text": "4100700"
+                },
+                "companyName": {
+                    "_text": "경원여객"
+                },
+                "companyTel": {
+                    "_text": "031-492-2260"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "downFirstTime": {
+                    "_text": "06:50"
+                },
+                "downLastTime": {
+                    "_text": "00:30"
+                },
+                "endMobileNo": {
+                    "_text": "90157"
+                },
+                "endStationId": {
+                    "_text": "121000541"
+                },
+                "endStationName": {
+                    "_text": "강남역서초현대타워앞"
+                },
+                "peekAlloc": {
+                    "_text": "8"
+                },
+                "regionName": {
+                    "_text": "과천,서울,시흥,인천"
+                },
+                "routeId": {
+                    "_text": "216000044"
+                },
+                "routeName": {
+                    "_text": "M6410"
+                },
+                "routeTypeCd": {
+                    "_text": "14"
+                },
+                "routeTypeName": {
+                    "_text": "광역급행형시내버스"
+                },
+                "startStationId": {
+                    "_text": "165000924"
+                },
+                "startStationName": {
+                    "_text": "사리울중학교"
+                },
+                "upFirstTime": {
+                    "_text": "05:50"
+                },
+                "upLastTime": {
+                    "_text": "23:30"
+                },
+                "nPeekAlloc": {
+                    "_text": "15"
+                }
+            }
+        }
+    }
+}

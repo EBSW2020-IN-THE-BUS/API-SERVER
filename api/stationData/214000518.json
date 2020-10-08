@@ -1,0 +1,651 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:09.112"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "08173"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "107000083"
+                    },
+                    "stationName": {
+                        "_text": "길음동동부아파트"
+                    },
+                    "x": {
+                        "_text": "127.0232833"
+                    },
+                    "y": {
+                        "_text": "37.6078667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "08174"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "107000084"
+                    },
+                    "stationName": {
+                        "_text": "길음동동부아파트"
+                    },
+                    "x": {
+                        "_text": "127.0235333"
+                    },
+                    "y": {
+                        "_text": "37.6078333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "24118"
+                    },
+                    "regionName": {
+                        "_text": "오산"
+                    },
+                    "stationId": {
+                        "_text": "223000524"
+                    },
+                    "stationName": {
+                        "_text": "갈곶동.동부아파트"
+                    },
+                    "x": {
+                        "_text": "127.0692167"
+                    },
+                    "y": {
+                        "_text": "37.13285"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "29304"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228001063"
+                    },
+                    "stationName": {
+                        "_text": "내대지마을5단지.동부아파트"
+                    },
+                    "x": {
+                        "_text": "127.12515"
+                    },
+                    "y": {
+                        "_text": "37.3297833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "47092"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228000929"
+                    },
+                    "stationName": {
+                        "_text": "동문아파트.삼성2차아파트.동부아파트"
+                    },
+                    "x": {
+                        "_text": "127.09165"
+                    },
+                    "y": {
+                        "_text": "37.3282333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "29757"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228000924"
+                    },
+                    "stationName": {
+                        "_text": "동문아파트.삼성2차아파트.동부아파트"
+                    },
+                    "x": {
+                        "_text": "127.09125"
+                    },
+                    "y": {
+                        "_text": "37.3282167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "29289"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228001328"
+                    },
+                    "stationName": {
+                        "_text": "동부아파트"
+                    },
+                    "x": {
+                        "_text": "127.1219333"
+                    },
+                    "y": {
+                        "_text": "37.2927667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "15552"
+                    },
+                    "regionName": {
+                        "_text": "평택"
+                    },
+                    "stationId": {
+                        "_text": "214000518"
+                    },
+                    "stationName": {
+                        "_text": "동부아파트"
+                    },
+                    "x": {
+                        "_text": "127.0624833"
+                    },
+                    "y": {
+                        "_text": "37.0816667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "29290"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228000838"
+                    },
+                    "stationName": {
+                        "_text": "동부아파트"
+                    },
+                    "x": {
+                        "_text": "127.1221167"
+                    },
+                    "y": {
+                        "_text": "37.2928667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "56261"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228003217"
+                    },
+                    "stationName": {
+                        "_text": "동부아파트"
+                    },
+                    "x": {
+                        "_text": "127.11455"
+                    },
+                    "y": {
+                        "_text": "37.2774167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "화성"
+                    },
+                    "stationId": {
+                        "_text": "233002739"
+                    },
+                    "stationName": {
+                        "_text": "동부아파트"
+                    },
+                    "x": {
+                        "_text": "126.9717833"
+                    },
+                    "y": {
+                        "_text": "37.2121667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "화성"
+                    },
+                    "stationId": {
+                        "_text": "233002740"
+                    },
+                    "stationName": {
+                        "_text": "동부아파트"
+                    },
+                    "x": {
+                        "_text": "126.9718333"
+                    },
+                    "y": {
+                        "_text": "37.21205"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "29298"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228001023"
+                    },
+                    "stationName": {
+                        "_text": "동부아파트"
+                    },
+                    "x": {
+                        "_text": "127.1240667"
+                    },
+                    "y": {
+                        "_text": "37.32965"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "29296"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228001062"
+                    },
+                    "stationName": {
+                        "_text": "동부아파트"
+                    },
+                    "x": {
+                        "_text": "127.1237333"
+                    },
+                    "y": {
+                        "_text": "37.3299333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "56260"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228003216"
+                    },
+                    "stationName": {
+                        "_text": "동부아파트"
+                    },
+                    "x": {
+                        "_text": "127.1145833"
+                    },
+                    "y": {
+                        "_text": "37.27755"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "11414"
+                    },
+                    "regionName": {
+                        "_text": "부천"
+                    },
+                    "stationId": {
+                        "_text": "210000432"
+                    },
+                    "stationName": {
+                        "_text": "동부아파트"
+                    },
+                    "x": {
+                        "_text": "126.8071333"
+                    },
+                    "y": {
+                        "_text": "37.48825"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "56134"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228003082"
+                    },
+                    "stationName": {
+                        "_text": "동부아파트(마을)"
+                    },
+                    "x": {
+                        "_text": "127.0934333"
+                    },
+                    "y": {
+                        "_text": "37.3283833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "56135"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228003084"
+                    },
+                    "stationName": {
+                        "_text": "동부아파트(마을)"
+                    },
+                    "x": {
+                        "_text": "127.0938833"
+                    },
+                    "y": {
+                        "_text": "37.3283833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "11413"
+                    },
+                    "regionName": {
+                        "_text": "부천"
+                    },
+                    "stationId": {
+                        "_text": "210000478"
+                    },
+                    "stationName": {
+                        "_text": "동부아파트입구"
+                    },
+                    "x": {
+                        "_text": "126.8078833"
+                    },
+                    "y": {
+                        "_text": "37.48735"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23409"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000481"
+                    },
+                    "stationName": {
+                        "_text": "오남호수공원.팔현리입구.동부아파트"
+                    },
+                    "x": {
+                        "_text": "127.2146833"
+                    },
+                    "y": {
+                        "_text": "37.69195"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23408"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000512"
+                    },
+                    "stationName": {
+                        "_text": "오남호수공원.팔현리입구.동부아파트"
+                    },
+                    "x": {
+                        "_text": "127.2145833"
+                    },
+                    "y": {
+                        "_text": "37.6922667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07158"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000240"
+                    },
+                    "stationName": {
+                        "_text": "이매촌금강아파트.코오롱아파트.동부아파트"
+                    },
+                    "x": {
+                        "_text": "127.1234167"
+                    },
+                    "y": {
+                        "_text": "37.3913333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07157"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000315"
+                    },
+                    "stationName": {
+                        "_text": "이매촌금강아파트.코오롱아파트.동부아파트"
+                    },
+                    "x": {
+                        "_text": "127.1235333"
+                    },
+                    "y": {
+                        "_text": "37.3911167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20139"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000198"
+                    },
+                    "stationName": {
+                        "_text": "후곡건영동부아파트"
+                    },
+                    "x": {
+                        "_text": "126.7615333"
+                    },
+                    "y": {
+                        "_text": "37.68065"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:18.159"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": "24115"
+                },
+                "regionName": {
+                    "_text": "오산"
+                },
+                "stationId": {
+                    "_text": "223000128"
+                },
+                "stationName": {
+                    "_text": "원동초교"
+                },
+                "x": {
+                    "_text": "127.0690333"
+                },
+                "y": {
+                    "_text": "37.1366"
+                }
+            }
+        }
+    }
+}

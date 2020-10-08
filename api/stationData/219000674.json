@@ -1,0 +1,469 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:15.519"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "58114"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000026"
+                    },
+                    "stationName": {
+                        "_text": "더샵그라비스타.이마트킨텍스점"
+                    },
+                    "x": {
+                        "_text": "126.7450667"
+                    },
+                    "y": {
+                        "_text": "37.6626167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "58123"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000913"
+                    },
+                    "stationName": {
+                        "_text": "더샵그라비스타.이마트킨텍스점"
+                    },
+                    "x": {
+                        "_text": "126.74475"
+                    },
+                    "y": {
+                        "_text": "37.6624667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20649"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000673"
+                    },
+                    "stationName": {
+                        "_text": "킨텍스"
+                    },
+                    "x": {
+                        "_text": "126.7414667"
+                    },
+                    "y": {
+                        "_text": "37.6680167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20650"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000674"
+                    },
+                    "stationName": {
+                        "_text": "킨텍스"
+                    },
+                    "x": {
+                        "_text": "126.7417"
+                    },
+                    "y": {
+                        "_text": "37.6682833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20765"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219001173"
+                    },
+                    "stationName": {
+                        "_text": "킨텍스꿈에그린.원시티1단지"
+                    },
+                    "x": {
+                        "_text": "126.749"
+                    },
+                    "y": {
+                        "_text": "37.6650333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20764"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219001172"
+                    },
+                    "stationName": {
+                        "_text": "킨텍스꿈에그린.원시티1단지"
+                    },
+                    "x": {
+                        "_text": "126.7489667"
+                    },
+                    "y": {
+                        "_text": "37.6648"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20637"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000647"
+                    },
+                    "stationName": {
+                        "_text": "킨텍스삼거리"
+                    },
+                    "x": {
+                        "_text": "126.74695"
+                    },
+                    "y": {
+                        "_text": "37.6710833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20026"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000555"
+                    },
+                    "stationName": {
+                        "_text": "킨텍스원시티2단지"
+                    },
+                    "x": {
+                        "_text": "126.7468333"
+                    },
+                    "y": {
+                        "_text": "37.66185"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20032"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000557"
+                    },
+                    "stationName": {
+                        "_text": "킨텍스원시티2단지"
+                    },
+                    "x": {
+                        "_text": "126.7467"
+                    },
+                    "y": {
+                        "_text": "37.6615833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20040"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000578"
+                    },
+                    "stationName": {
+                        "_text": "킨텍스원시티3단지"
+                    },
+                    "x": {
+                        "_text": "126.7514667"
+                    },
+                    "y": {
+                        "_text": "37.6613667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20034"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000577"
+                    },
+                    "stationName": {
+                        "_text": "킨텍스원시티3단지"
+                    },
+                    "x": {
+                        "_text": "126.7510333"
+                    },
+                    "y": {
+                        "_text": "37.66155"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20659"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219001086"
+                    },
+                    "stationName": {
+                        "_text": "킨텍스제1전시장"
+                    },
+                    "x": {
+                        "_text": "126.7448167"
+                    },
+                    "y": {
+                        "_text": "37.6717333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20638"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000662"
+                    },
+                    "stationName": {
+                        "_text": "킨텍스제1전시장"
+                    },
+                    "x": {
+                        "_text": "126.7449833"
+                    },
+                    "y": {
+                        "_text": "37.6719333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20660"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000676"
+                    },
+                    "stationName": {
+                        "_text": "킨텍스제2전시장"
+                    },
+                    "x": {
+                        "_text": "126.7420667"
+                    },
+                    "y": {
+                        "_text": "37.6668"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20597"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000646"
+                    },
+                    "stationName": {
+                        "_text": "킨텍스후문"
+                    },
+                    "x": {
+                        "_text": "126.74845"
+                    },
+                    "y": {
+                        "_text": "37.6704333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20558"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000603"
+                    },
+                    "stationName": {
+                        "_text": "한국건설기술연구원.킨텍스"
+                    },
+                    "x": {
+                        "_text": "126.7411667"
+                    },
+                    "y": {
+                        "_text": "37.66975"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20557"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000604"
+                    },
+                    "stationName": {
+                        "_text": "한국건설기술연구원.킨텍스"
+                    },
+                    "x": {
+                        "_text": "126.74085"
+                    },
+                    "y": {
+                        "_text": "37.67015"
+                    }
+                }
+            ]
+        }
+    }
+}

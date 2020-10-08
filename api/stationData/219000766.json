@@ -1,0 +1,51 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:15.519"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": "20751"
+                },
+                "regionName": {
+                    "_text": "고양"
+                },
+                "stationId": {
+                    "_text": "219000766"
+                },
+                "stationName": {
+                    "_text": "더샵그라비스타.힐스테이트일산"
+                },
+                "x": {
+                    "_text": "126.74705"
+                },
+                "y": {
+                    "_text": "37.66385"
+                }
+            }
+        }
+    }
+}

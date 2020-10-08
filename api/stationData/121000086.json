@@ -1,0 +1,51 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:06.909"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "1"
+                },
+                "mobileNo": {
+                    "_text": "22162"
+                },
+                "regionName": {
+                    "_text": "서울"
+                },
+                "stationId": {
+                    "_text": "121000086"
+                },
+                "stationName": {
+                    "_text": "KCC사옥"
+                },
+                "x": {
+                    "_text": "127.0202167"
+                },
+                "y": {
+                    "_text": "37.5030167"
+                }
+            }
+        }
+    }
+}

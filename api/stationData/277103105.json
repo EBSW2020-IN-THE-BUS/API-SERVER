@@ -1,0 +1,44 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:17.159"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": "00000"
+                },
+                "regionName": {
+                    "_text": "안양"
+                },
+                "stationId": {
+                    "_text": "277103105"
+                },
+                "stationName": {
+                    "_text": "시청사거리(경유)"
+                },
+                "x": {
+                    "_text": "126.9554667"
+                },
+                "y": {
+                    "_text": "37.39285"
+                }
+            }
+        }
+    }
+}

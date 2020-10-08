@@ -1,0 +1,183 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:05.972"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "02107"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "101000015"
+                    },
+                    "stationName": {
+                        "_text": "종근당.충정로역"
+                    },
+                    "x": {
+                        "_text": "126.9644833"
+                    },
+                    "y": {
+                        "_text": "37.5596167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "13766"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "112000365"
+                    },
+                    "stationName": {
+                        "_text": "충정로역"
+                    },
+                    "x": {
+                        "_text": "126.9645"
+                    },
+                    "y": {
+                        "_text": "37.5596167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "13046"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "112000429"
+                    },
+                    "stationName": {
+                        "_text": "충정로역(중)"
+                    },
+                    "x": {
+                        "_text": "126.9627"
+                    },
+                    "y": {
+                        "_text": "37.56005"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "13045"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "112000430"
+                    },
+                    "stationName": {
+                        "_text": "충정로역(중)"
+                    },
+                    "x": {
+                        "_text": "126.9634833"
+                    },
+                    "y": {
+                        "_text": "37.5611"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "13137"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "112000054"
+                    },
+                    "stationName": {
+                        "_text": "충정로역2호선"
+                    },
+                    "x": {
+                        "_text": "126.9639"
+                    },
+                    "y": {
+                        "_text": "37.5595667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "13253"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "112000170"
+                    },
+                    "stationName": {
+                        "_text": "충정로역2호선"
+                    },
+                    "x": {
+                        "_text": "126.9643"
+                    },
+                    "y": {
+                        "_text": "37.5598"
+                    }
+                }
+            ]
+        }
+    }
+}

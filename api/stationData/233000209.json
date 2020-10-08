@@ -1,0 +1,138 @@
+{
+    "_declaration": {
+        "_attributes": {
+            "version": "1.0",
+            "encoding": "UTF-8",
+            "standalone": "yes"
+        }
+    },
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-03 17:47:57.193"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 55464"
+                    },
+                    "regionName": {
+                        "_text": "화성"
+                    },
+                    "stationId": {
+                        "_text": "233000209"
+                    },
+                    "stationName": {
+                        "_text": "창의고"
+                    },
+                    "x": {
+                        "_text": "127.1220333"
+                    },
+                    "y": {
+                        "_text": "37.1817"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 55465"
+                    },
+                    "regionName": {
+                        "_text": "화성"
+                    },
+                    "stationId": {
+                        "_text": "233000374"
+                    },
+                    "stationName": {
+                        "_text": "창의고"
+                    },
+                    "x": {
+                        "_text": "127.1224667"
+                    },
+                    "y": {
+                        "_text": "37.1818"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 55445"
+                    },
+                    "regionName": {
+                        "_text": "화성"
+                    },
+                    "stationId": {
+                        "_text": "233002006"
+                    },
+                    "stationName": {
+                        "_text": "호반3차.창의고"
+                    },
+                    "x": {
+                        "_text": "127.1197"
+                    },
+                    "y": {
+                        "_text": "37.1797333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 55444"
+                    },
+                    "regionName": {
+                        "_text": "화성"
+                    },
+                    "stationId": {
+                        "_text": "233002373"
+                    },
+                    "stationName": {
+                        "_text": "호반3차.창의고"
+                    },
+                    "x": {
+                        "_text": "127.1188833"
+                    },
+                    "y": {
+                        "_text": "37.1796167"
+                    }
+                }
+            ]
+        }
+    }
+}

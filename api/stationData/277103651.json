@@ -1,0 +1,73 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:16.956"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103651"
+                    },
+                    "stationName": {
+                        "_text": "헌릉IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0906667"
+                    },
+                    "y": {
+                        "_text": "37.4655167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103650"
+                    },
+                    "stationName": {
+                        "_text": "헌릉IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0905667"
+                    },
+                    "y": {
+                        "_text": "37.4657"
+                    }
+                }
+            ]
+        }
+    }
+}

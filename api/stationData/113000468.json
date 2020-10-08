@@ -1,0 +1,209 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:06.206"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "14895"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "113000468"
+                    },
+                    "stationName": {
+                        "_text": "합정역"
+                    },
+                    "x": {
+                        "_text": "126.9148833"
+                    },
+                    "y": {
+                        "_text": "37.5505333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "14219"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "113000128"
+                    },
+                    "stationName": {
+                        "_text": "합정역"
+                    },
+                    "x": {
+                        "_text": "126.9157167"
+                    },
+                    "y": {
+                        "_text": "37.5511333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "14220"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "113000129"
+                    },
+                    "stationName": {
+                        "_text": "합정역"
+                    },
+                    "x": {
+                        "_text": "126.9151333"
+                    },
+                    "y": {
+                        "_text": "37.5501833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "14120"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "113000030"
+                    },
+                    "stationName": {
+                        "_text": "합정역"
+                    },
+                    "x": {
+                        "_text": "126.9146333"
+                    },
+                    "y": {
+                        "_text": "37.5488333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "14119"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "113000029"
+                    },
+                    "stationName": {
+                        "_text": "합정역"
+                    },
+                    "x": {
+                        "_text": "126.9143167"
+                    },
+                    "y": {
+                        "_text": "37.5486333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "14012"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "113000412"
+                    },
+                    "stationName": {
+                        "_text": "합정역(중)"
+                    },
+                    "x": {
+                        "_text": "126.9138333"
+                    },
+                    "y": {
+                        "_text": "37.5495833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "14011"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "113000424"
+                    },
+                    "stationName": {
+                        "_text": "합정역(중)"
+                    },
+                    "x": {
+                        "_text": "126.9129833"
+                    },
+                    "y": {
+                        "_text": "37.5489333"
+                    }
+                }
+            ]
+        }
+    }
+}

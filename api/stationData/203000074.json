@@ -1,0 +1,51 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:07.940"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": "04141"
+                },
+                "regionName": {
+                    "_text": "수원"
+                },
+                "stationId": {
+                    "_text": "203000074"
+                },
+                "stationName": {
+                    "_text": "영통역8번출구"
+                },
+                "x": {
+                    "_text": "127.0719167"
+                },
+                "y": {
+                    "_text": "37.25235"
+                }
+            }
+        }
+    }
+}

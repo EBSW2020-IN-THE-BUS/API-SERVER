@@ -1,0 +1,72 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:15.550"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "29107"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228000679"
+                    },
+                    "stationName": {
+                        "_text": "청현마을.수원신갈IC"
+                    },
+                    "x": {
+                        "_text": "127.0988"
+                    },
+                    "y": {
+                        "_text": "37.2701"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "29104"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228000700"
+                    },
+                    "stationName": {
+                        "_text": "청현마을.수원신갈IC"
+                    },
+                    "x": {
+                        "_text": "127.0972167"
+                    },
+                    "y": {
+                        "_text": "37.2699167"
+                    }
+                }
+            ]
+        }
+    }
+}

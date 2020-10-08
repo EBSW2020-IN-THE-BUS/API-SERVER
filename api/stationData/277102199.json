@@ -1,0 +1,41 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:18.581"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "regionName": {
+                    "_text": "서울"
+                },
+                "stationId": {
+                    "_text": "277102199"
+                },
+                "stationName": {
+                    "_text": "홍대입구역교차로(경유)"
+                },
+                "x": {
+                    "_text": "126.9212333"
+                },
+                "y": {
+                    "_text": "37.5551833"
+                }
+            }
+        }
+    }
+}

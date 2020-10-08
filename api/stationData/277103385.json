@@ -1,0 +1,183 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:17.519"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "하남"
+                    },
+                    "stationId": {
+                        "_text": "277102817"
+                    },
+                    "stationName": {
+                        "_text": "동서울TG(경유)"
+                    },
+                    "x": {
+                        "_text": "127.22025"
+                    },
+                    "y": {
+                        "_text": "37.5168"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "하남"
+                    },
+                    "stationId": {
+                        "_text": "277102818"
+                    },
+                    "stationName": {
+                        "_text": "동서울TG(경유)"
+                    },
+                    "x": {
+                        "_text": "127.22205"
+                    },
+                    "y": {
+                        "_text": "37.5171833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "안산"
+                    },
+                    "stationId": {
+                        "_text": "277103373"
+                    },
+                    "stationName": {
+                        "_text": "서서울TG(경유)"
+                    },
+                    "x": {
+                        "_text": "126.8625"
+                    },
+                    "y": {
+                        "_text": "37.3560667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "안산"
+                    },
+                    "stationId": {
+                        "_text": "277103374"
+                    },
+                    "stationName": {
+                        "_text": "서서울TG(경유)"
+                    },
+                    "x": {
+                        "_text": "126.8643833"
+                    },
+                    "y": {
+                        "_text": "37.3555333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "277103385"
+                    },
+                    "stationName": {
+                        "_text": "서울TG(경유)"
+                    },
+                    "x": {
+                        "_text": "127.1026"
+                    },
+                    "y": {
+                        "_text": "37.36535"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "277103386"
+                    },
+                    "stationName": {
+                        "_text": "서울TG(경유)"
+                    },
+                    "x": {
+                        "_text": "127.1043333"
+                    },
+                    "y": {
+                        "_text": "37.3649667"
+                    }
+                }
+            ]
+        }
+    }
+}

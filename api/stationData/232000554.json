@@ -1,0 +1,44 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:18.019"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": "35501"
+                },
+                "regionName": {
+                    "_text": "김포"
+                },
+                "stationId": {
+                    "_text": "232000554"
+                },
+                "stationName": {
+                    "_text": "장기역.신영아파트"
+                },
+                "x": {
+                    "_text": "126.6677167"
+                },
+                "y": {
+                    "_text": "37.6428"
+                }
+            }
+        }
+    }
+}

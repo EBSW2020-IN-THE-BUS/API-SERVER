@@ -1,0 +1,436 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:07.050"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "23285"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "122000182"
+                    },
+                    "stationName": {
+                        "_text": "강남역"
+                    },
+                    "x": {
+                        "_text": "127.0269333"
+                    },
+                    "y": {
+                        "_text": "37.4998"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22173"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000097"
+                    },
+                    "stationName": {
+                        "_text": "강남역"
+                    },
+                    "x": {
+                        "_text": "127.02625"
+                    },
+                    "y": {
+                        "_text": "37.5001"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "23617"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "122000614"
+                    },
+                    "stationName": {
+                        "_text": "강남역"
+                    },
+                    "x": {
+                        "_text": "127.0296667"
+                    },
+                    "y": {
+                        "_text": "37.4943167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22167"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000091"
+                    },
+                    "stationName": {
+                        "_text": "강남역.강남역사거리"
+                    },
+                    "x": {
+                        "_text": "127.0265333"
+                    },
+                    "y": {
+                        "_text": "37.4978"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "23287"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "122000184"
+                    },
+                    "stationName": {
+                        "_text": "강남역.역삼세무서"
+                    },
+                    "x": {
+                        "_text": "127.02935"
+                    },
+                    "y": {
+                        "_text": "37.4982333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "23284"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "122000181"
+                    },
+                    "stationName": {
+                        "_text": "강남역12번출구"
+                    },
+                    "x": {
+                        "_text": "127.0295167"
+                    },
+                    "y": {
+                        "_text": "37.4987667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22997"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000921"
+                    },
+                    "stationName": {
+                        "_text": "강남역나라빌딩앞"
+                    },
+                    "x": {
+                        "_text": "127.0282667"
+                    },
+                    "y": {
+                        "_text": "37.4958833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22600"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000937"
+                    },
+                    "stationName": {
+                        "_text": "강남역도시에빛"
+                    },
+                    "x": {
+                        "_text": "127.0288"
+                    },
+                    "y": {
+                        "_text": "37.4948167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22652"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000541"
+                    },
+                    "stationName": {
+                        "_text": "강남역서초현대타워앞"
+                    },
+                    "x": {
+                        "_text": "127.0279167"
+                    },
+                    "y": {
+                        "_text": "37.4965833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22653"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000974"
+                    },
+                    "stationName": {
+                        "_text": "강남역우리은행"
+                    },
+                    "x": {
+                        "_text": "127.0283667"
+                    },
+                    "y": {
+                        "_text": "37.4956167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22654"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000973"
+                    },
+                    "stationName": {
+                        "_text": "강남역티월드"
+                    },
+                    "x": {
+                        "_text": "127.0288667"
+                    },
+                    "y": {
+                        "_text": "37.4947"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22348"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000271"
+                    },
+                    "stationName": {
+                        "_text": "강남역하나은행"
+                    },
+                    "x": {
+                        "_text": "127.02775"
+                    },
+                    "y": {
+                        "_text": "37.4968833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22009"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000009"
+                    },
+                    "stationName": {
+                        "_text": "신분당선강남역(중)"
+                    },
+                    "x": {
+                        "_text": "127.02835"
+                    },
+                    "y": {
+                        "_text": "37.49615"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22010"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000010"
+                    },
+                    "stationName": {
+                        "_text": "신분당선강남역(중)"
+                    },
+                    "x": {
+                        "_text": "127.02905"
+                    },
+                    "y": {
+                        "_text": "37.49495"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22012"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000012"
+                    },
+                    "stationName": {
+                        "_text": "지하철2호선.강남역(중)"
+                    },
+                    "x": {
+                        "_text": "127.0263"
+                    },
+                    "y": {
+                        "_text": "37.5008333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22011"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000011"
+                    },
+                    "stationName": {
+                        "_text": "지하철2호선강남역(중)"
+                    },
+                    "x": {
+                        "_text": "127.0256667"
+                    },
+                    "y": {
+                        "_text": "37.5016833"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:20.893"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "24107"
+                    },
+                    "regionName": {
+                        "_text": "오산"
+                    },
+                    "stationId": {
+                        "_text": "223000126"
+                    },
+                    "stationName": {
+                        "_text": "오산역.오산터미널"
+                    },
+                    "x": {
+                        "_text": "127.0686167"
+                    },
+                    "y": {
+                        "_text": "37.1444333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "24200"
+                    },
+                    "regionName": {
+                        "_text": "오산"
+                    },
+                    "stationId": {
+                        "_text": "223000212"
+                    },
+                    "stationName": {
+                        "_text": "오산역.오산터미널"
+                    },
+                    "x": {
+                        "_text": "127.0685667"
+                    },
+                    "y": {
+                        "_text": "37.14535"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "24361"
+                    },
+                    "regionName": {
+                        "_text": "오산"
+                    },
+                    "stationId": {
+                        "_text": "223000401"
+                    },
+                    "stationName": {
+                        "_text": "오산역.오산터미널"
+                    },
+                    "x": {
+                        "_text": "127.06835"
+                    },
+                    "y": {
+                        "_text": "37.1453"
+                    }
+                }
+            ]
+        }
+    }
+}

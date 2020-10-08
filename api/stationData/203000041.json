@@ -1,0 +1,51 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:07.909"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": "04185"
+                },
+                "regionName": {
+                    "_text": "수원"
+                },
+                "stationId": {
+                    "_text": "203000041"
+                },
+                "stationName": {
+                    "_text": "차세대융합기술연구원.푸르지오월드마크"
+                },
+                "x": {
+                    "_text": "127.04785"
+                },
+                "y": {
+                    "_text": "37.2934"
+                }
+            }
+        }
+    }
+}

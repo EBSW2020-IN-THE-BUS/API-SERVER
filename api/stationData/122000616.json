@@ -1,0 +1,391 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:07.159"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "23580"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "122000654"
+                    },
+                    "stationName": {
+                        "_text": "신논현역"
+                    },
+                    "x": {
+                        "_text": "127.0259667"
+                    },
+                    "y": {
+                        "_text": "37.5020167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "23266"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "122000163"
+                    },
+                    "stationName": {
+                        "_text": "신논현역"
+                    },
+                    "x": {
+                        "_text": "127.0257833"
+                    },
+                    "y": {
+                        "_text": "37.5046833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "23641"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "122000616"
+                    },
+                    "stationName": {
+                        "_text": "신논현역"
+                    },
+                    "x": {
+                        "_text": "127.0264333"
+                    },
+                    "y": {
+                        "_text": "37.5010667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22407"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000945"
+                    },
+                    "stationName": {
+                        "_text": "신논현역.BSX빌딩"
+                    },
+                    "x": {
+                        "_text": "127.0257"
+                    },
+                    "y": {
+                        "_text": "37.5013333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "23286"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "122000183"
+                    },
+                    "stationName": {
+                        "_text": "신논현역.구교보타워사거리"
+                    },
+                    "x": {
+                        "_text": "127.0258167"
+                    },
+                    "y": {
+                        "_text": "37.5023167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22193"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000117"
+                    },
+                    "stationName": {
+                        "_text": "신논현역.구교보타워사거리"
+                    },
+                    "x": {
+                        "_text": "127.0230667"
+                    },
+                    "y": {
+                        "_text": "37.5042167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22172"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000096"
+                    },
+                    "stationName": {
+                        "_text": "신논현역.구교보타워사거리"
+                    },
+                    "x": {
+                        "_text": "127.02465"
+                    },
+                    "y": {
+                        "_text": "37.5033667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22409"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000946"
+                    },
+                    "stationName": {
+                        "_text": "신논현역.금강빌딩"
+                    },
+                    "x": {
+                        "_text": "127.0254833"
+                    },
+                    "y": {
+                        "_text": "37.5017833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22413"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000940"
+                    },
+                    "stationName": {
+                        "_text": "신논현역.씨티은행"
+                    },
+                    "x": {
+                        "_text": "127.0249833"
+                    },
+                    "y": {
+                        "_text": "37.5028167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22412"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000941"
+                    },
+                    "stationName": {
+                        "_text": "신논현역.영신빌딩"
+                    },
+                    "x": {
+                        "_text": "127.0251667"
+                    },
+                    "y": {
+                        "_text": "37.5024333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22410"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000943"
+                    },
+                    "stationName": {
+                        "_text": "신논현역.우신빌딩"
+                    },
+                    "x": {
+                        "_text": "127.02535"
+                    },
+                    "y": {
+                        "_text": "37.50205"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22408"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000947"
+                    },
+                    "stationName": {
+                        "_text": "신논현역.유화빌딩"
+                    },
+                    "x": {
+                        "_text": "127.0255667"
+                    },
+                    "y": {
+                        "_text": "37.5015833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22411"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000942"
+                    },
+                    "stationName": {
+                        "_text": "신논현역.인터파크"
+                    },
+                    "x": {
+                        "_text": "127.0252667"
+                    },
+                    "y": {
+                        "_text": "37.5022167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22406"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000944"
+                    },
+                    "stationName": {
+                        "_text": "신논현역.주류성빌딩"
+                    },
+                    "x": {
+                        "_text": "127.0258"
+                    },
+                    "y": {
+                        "_text": "37.5011167"
+                    }
+                }
+            ]
+        }
+    }
+}

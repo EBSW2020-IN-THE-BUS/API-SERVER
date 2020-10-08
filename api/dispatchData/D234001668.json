@@ -1,0 +1,87 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:02:36.737"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busRouteInfoItem": {
+                "companyId": {
+                    "_text": "4100300"
+                },
+                "companyName": {
+                    "_text": "대원고속"
+                },
+                "companyTel": {
+                    "_text": "02-455-2114"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "downFirstTime": {
+                    "_text": "06:10"
+                },
+                "downLastTime": {
+                    "_text": "23:30"
+                },
+                "endStationId": {
+                    "_text": "123000611"
+                },
+                "endStationName": {
+                    "_text": "잠실광역환승센터"
+                },
+                "peekAlloc": {
+                    "_text": "20"
+                },
+                "regionName": {
+                    "_text": "서울,수원"
+                },
+                "routeId": {
+                    "_text": "234001668"
+                },
+                "routeName": {
+                    "_text": "M5342"
+                },
+                "routeTypeCd": {
+                    "_text": "14"
+                },
+                "routeTypeName": {
+                    "_text": "광역급행형시내버스"
+                },
+                "startMobileNo": {
+                    "_text": "2219"
+                },
+                "startStationId": {
+                    "_text": "201000212"
+                },
+                "startStationName": {
+                    "_text": "수원버스터미널"
+                },
+                "upFirstTime": {
+                    "_text": "05:00"
+                },
+                "upLastTime": {
+                    "_text": "22:20"
+                },
+                "nPeekAlloc": {
+                    "_text": "40"
+                }
+            }
+        }
+    }
+}

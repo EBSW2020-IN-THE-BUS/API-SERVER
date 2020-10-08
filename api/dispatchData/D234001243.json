@@ -1,0 +1,77 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:02:36.377"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busRouteInfoItem": {
+                "companyId": {
+                    "_text": "4100200"
+                },
+                "companyName": {
+                    "_text": "경기고속"
+                },
+                "companyTel": {
+                    "_text": "02-455-2114"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "downFirstTime": {
+                    "_text": "06:00"
+                },
+                "downLastTime": {
+                    "_text": "00:00"
+                },
+                "endStationId": {
+                    "_text": "101000006"
+                },
+                "endStationName": {
+                    "_text": "서울역버스환승센터(6번승강장)(중)"
+                },
+                "peekAlloc": {
+                    "_text": "5"
+                },
+                "regionName": {
+                    "_text": "서울,수원,용인"
+                },
+                "routeId": {
+                    "_text": "234001243"
+                },
+                "routeName": {
+                    "_text": "M5107"
+                },
+                "routeTypeCd": {
+                    "_text": "14"
+                },
+                "routeTypeName": {
+                    "_text": "광역급행형시내버스"
+                },
+                "startStationId": {
+                    "_text": "277103088"
+                },
+                "startStationName": {
+                    "_text": "경희대차고지(경유)"
+                },
+                "upFirstTime": {
+                    "_text": "05:00"
+                },
+                "upLastTime": {
+                    "_text": "22:50"
+                },
+                "nPeekAlloc": {
+                    "_text": "10"
+                }
+            }
+        }
+    }
+}

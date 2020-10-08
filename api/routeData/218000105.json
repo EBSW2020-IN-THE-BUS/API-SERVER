@@ -1,0 +1,1293 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 20:53:06.381"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busRouteStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20641"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000667"
+                    },
+                    "stationName": {
+                        "_text": "하이파크시티3.5단지"
+                    },
+                    "x": {
+                        "_text": "126.75375"
+                    },
+                    "y": {
+                        "_text": "37.6992333"
+                    },
+                    "stationSeq": {
+                        "_text": "1"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20151"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000317"
+                    },
+                    "stationName": {
+                        "_text": "탄현큰마을.쌍용아파트"
+                    },
+                    "x": {
+                        "_text": "126.7639"
+                    },
+                    "y": {
+                        "_text": "37.6991"
+                    },
+                    "stationSeq": {
+                        "_text": "2"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20626"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000692"
+                    },
+                    "stationName": {
+                        "_text": "경남아너스빌.탄현역"
+                    },
+                    "x": {
+                        "_text": "126.7639333"
+                    },
+                    "y": {
+                        "_text": "37.69335"
+                    },
+                    "stationSeq": {
+                        "_text": "3"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20122"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000135"
+                    },
+                    "stationName": {
+                        "_text": "서울도시가스"
+                    },
+                    "x": {
+                        "_text": "126.7591833"
+                    },
+                    "y": {
+                        "_text": "37.68865"
+                    },
+                    "stationSeq": {
+                        "_text": "4"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20561"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000617"
+                    },
+                    "stationName": {
+                        "_text": "성저마을14단지"
+                    },
+                    "x": {
+                        "_text": "126.7583167"
+                    },
+                    "y": {
+                        "_text": "37.68005"
+                    },
+                    "stationSeq": {
+                        "_text": "5"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20086"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000193"
+                    },
+                    "stationName": {
+                        "_text": "대화역"
+                    },
+                    "x": {
+                        "_text": "126.7475"
+                    },
+                    "y": {
+                        "_text": "37.6763667"
+                    },
+                    "stationSeq": {
+                        "_text": "6"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20649"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000673"
+                    },
+                    "stationName": {
+                        "_text": "킨텍스"
+                    },
+                    "x": {
+                        "_text": "126.7414667"
+                    },
+                    "y": {
+                        "_text": "37.6680167"
+                    },
+                    "stationSeq": {
+                        "_text": "7"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20751"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000766"
+                    },
+                    "stationName": {
+                        "_text": "더샵그라비스타.힐스테이트일산"
+                    },
+                    "x": {
+                        "_text": "126.74705"
+                    },
+                    "y": {
+                        "_text": "37.66385"
+                    },
+                    "stationSeq": {
+                        "_text": "8"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "277103460"
+                    },
+                    "stationName": {
+                        "_text": "자유로진입(경유)"
+                    },
+                    "x": {
+                        "_text": "126.7396167"
+                    },
+                    "y": {
+                        "_text": "37.6530667"
+                    },
+                    "stationSeq": {
+                        "_text": "9"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "277103458"
+                    },
+                    "stationName": {
+                        "_text": "장항IC(경유)"
+                    },
+                    "x": {
+                        "_text": "126.7573333"
+                    },
+                    "y": {
+                        "_text": "37.6400833"
+                    },
+                    "stationSeq": {
+                        "_text": "10"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "277103456"
+                    },
+                    "stationName": {
+                        "_text": "자유로JC(경유)"
+                    },
+                    "x": {
+                        "_text": "126.7981833"
+                    },
+                    "y": {
+                        "_text": "37.6176"
+                    },
+                    "stationSeq": {
+                        "_text": "11"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "277103485"
+                    },
+                    "stationName": {
+                        "_text": "행주IC(경유)"
+                    },
+                    "x": {
+                        "_text": "126.8167833"
+                    },
+                    "y": {
+                        "_text": "37.6057833"
+                    },
+                    "stationSeq": {
+                        "_text": "12"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "277103489"
+                    },
+                    "stationName": {
+                        "_text": "북로JC(경유)"
+                    },
+                    "x": {
+                        "_text": "126.8326667"
+                    },
+                    "y": {
+                        "_text": "37.5957833"
+                    },
+                    "stationSeq": {
+                        "_text": "13"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103428"
+                    },
+                    "stationName": {
+                        "_text": "가양대교북단(경유)"
+                    },
+                    "x": {
+                        "_text": "126.8645167"
+                    },
+                    "y": {
+                        "_text": "37.5752667"
+                    },
+                    "stationSeq": {
+                        "_text": "14"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103426"
+                    },
+                    "stationName": {
+                        "_text": "성산대교북단(경유)"
+                    },
+                    "x": {
+                        "_text": "126.8936667"
+                    },
+                    "y": {
+                        "_text": "37.55755"
+                    },
+                    "stationSeq": {
+                        "_text": "15"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "113000129"
+                    },
+                    "stationName": {
+                        "_text": "합정역"
+                    },
+                    "x": {
+                        "_text": "126.9151333"
+                    },
+                    "y": {
+                        "_text": "37.5501833"
+                    },
+                    "stationSeq": {
+                        "_text": "16"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "113000422"
+                    },
+                    "stationName": {
+                        "_text": "홍대입구역(중)"
+                    },
+                    "x": {
+                        "_text": "126.9234833"
+                    },
+                    "y": {
+                        "_text": "37.5565833"
+                    },
+                    "stationSeq": {
+                        "_text": "17"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "113000420"
+                    },
+                    "stationName": {
+                        "_text": "신촌오거리.현대백화점(중)"
+                    },
+                    "x": {
+                        "_text": "126.9356833"
+                    },
+                    "y": {
+                        "_text": "37.5554833"
+                    },
+                    "stationSeq": {
+                        "_text": "18"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "113000117"
+                    },
+                    "stationName": {
+                        "_text": "이화여대입구"
+                    },
+                    "x": {
+                        "_text": "126.94575"
+                    },
+                    "y": {
+                        "_text": "37.5559667"
+                    },
+                    "stationSeq": {
+                        "_text": "19"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "113000121"
+                    },
+                    "stationName": {
+                        "_text": "서강대학교후문"
+                    },
+                    "x": {
+                        "_text": "126.9439667"
+                    },
+                    "y": {
+                        "_text": "37.5505833"
+                    },
+                    "stationSeq": {
+                        "_text": "20"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "113000089"
+                    },
+                    "stationName": {
+                        "_text": "공덕역1번출구"
+                    },
+                    "x": {
+                        "_text": "126.9493667"
+                    },
+                    "y": {
+                        "_text": "37.5444833"
+                    },
+                    "stationSeq": {
+                        "_text": "21"
+                    },
+                    "turnYn": {
+                        "_text": "Y"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277102323"
+                    },
+                    "stationName": {
+                        "_text": "마포세무서앞(경유)"
+                    },
+                    "x": {
+                        "_text": "126.9410167"
+                    },
+                    "y": {
+                        "_text": "37.5467167"
+                    },
+                    "stationSeq": {
+                        "_text": "22"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "113000199"
+                    },
+                    "stationName": {
+                        "_text": "마포아트센터"
+                    },
+                    "x": {
+                        "_text": "126.9437667"
+                    },
+                    "y": {
+                        "_text": "37.5497833"
+                    },
+                    "stationSeq": {
+                        "_text": "23"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "112000058"
+                    },
+                    "stationName": {
+                        "_text": "신촌기차역입구"
+                    },
+                    "x": {
+                        "_text": "126.9439667"
+                    },
+                    "y": {
+                        "_text": "37.5568333"
+                    },
+                    "stationSeq": {
+                        "_text": "24"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "113000416"
+                    },
+                    "stationName": {
+                        "_text": "신촌오거리.현대백화점(중)"
+                    },
+                    "x": {
+                        "_text": "126.9344667"
+                    },
+                    "y": {
+                        "_text": "37.5560167"
+                    },
+                    "stationSeq": {
+                        "_text": "25"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "113000414"
+                    },
+                    "stationName": {
+                        "_text": "홍대입구역(중)"
+                    },
+                    "x": {
+                        "_text": "126.9244"
+                    },
+                    "y": {
+                        "_text": "37.5573833"
+                    },
+                    "stationSeq": {
+                        "_text": "26"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "113000468"
+                    },
+                    "stationName": {
+                        "_text": "합정역"
+                    },
+                    "x": {
+                        "_text": "126.9148833"
+                    },
+                    "y": {
+                        "_text": "37.5505333"
+                    },
+                    "stationSeq": {
+                        "_text": "27"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103427"
+                    },
+                    "stationName": {
+                        "_text": "성산대교북단(경유)"
+                    },
+                    "x": {
+                        "_text": "126.8948333"
+                    },
+                    "y": {
+                        "_text": "37.5572167"
+                    },
+                    "stationSeq": {
+                        "_text": "28"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103429"
+                    },
+                    "stationName": {
+                        "_text": "가양대교북단(경유)"
+                    },
+                    "x": {
+                        "_text": "126.8659333"
+                    },
+                    "y": {
+                        "_text": "37.5749333"
+                    },
+                    "stationSeq": {
+                        "_text": "29"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "277103490"
+                    },
+                    "stationName": {
+                        "_text": "북로JC(경유)"
+                    },
+                    "x": {
+                        "_text": "126.8336"
+                    },
+                    "y": {
+                        "_text": "37.5953833"
+                    },
+                    "stationSeq": {
+                        "_text": "30"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "277103486"
+                    },
+                    "stationName": {
+                        "_text": "행주IC(경유)"
+                    },
+                    "x": {
+                        "_text": "126.8181167"
+                    },
+                    "y": {
+                        "_text": "37.6058333"
+                    },
+                    "stationSeq": {
+                        "_text": "31"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "277103457"
+                    },
+                    "stationName": {
+                        "_text": "자유로JC(경유)"
+                    },
+                    "x": {
+                        "_text": "126.7991333"
+                    },
+                    "y": {
+                        "_text": "37.6176667"
+                    },
+                    "stationSeq": {
+                        "_text": "32"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "277103459"
+                    },
+                    "stationName": {
+                        "_text": "장항IC(경유)"
+                    },
+                    "x": {
+                        "_text": "126.75815"
+                    },
+                    "y": {
+                        "_text": "37.6402"
+                    },
+                    "stationSeq": {
+                        "_text": "33"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "277103461"
+                    },
+                    "stationName": {
+                        "_text": "자유로출입(경유)"
+                    },
+                    "x": {
+                        "_text": "126.74005"
+                    },
+                    "y": {
+                        "_text": "37.6529833"
+                    },
+                    "stationSeq": {
+                        "_text": "34"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20716"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219001155"
+                    },
+                    "stationName": {
+                        "_text": "현대모터스튜디오고양"
+                    },
+                    "x": {
+                        "_text": "126.7475"
+                    },
+                    "y": {
+                        "_text": "37.6657667"
+                    },
+                    "stationSeq": {
+                        "_text": "35"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20650"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000674"
+                    },
+                    "stationName": {
+                        "_text": "킨텍스"
+                    },
+                    "x": {
+                        "_text": "126.7417"
+                    },
+                    "y": {
+                        "_text": "37.6682833"
+                    },
+                    "stationSeq": {
+                        "_text": "36"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20085"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000366"
+                    },
+                    "stationName": {
+                        "_text": "대화역"
+                    },
+                    "x": {
+                        "_text": "126.7473833"
+                    },
+                    "y": {
+                        "_text": "37.6759667"
+                    },
+                    "stationSeq": {
+                        "_text": "37"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20587"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000618"
+                    },
+                    "stationName": {
+                        "_text": "성저마을14단지"
+                    },
+                    "x": {
+                        "_text": "126.7580167"
+                    },
+                    "y": {
+                        "_text": "37.6790833"
+                    },
+                    "stationSeq": {
+                        "_text": "38"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20126"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000124"
+                    },
+                    "stationName": {
+                        "_text": "서울도시가스"
+                    },
+                    "x": {
+                        "_text": "126.7595167"
+                    },
+                    "y": {
+                        "_text": "37.68875"
+                    },
+                    "stationSeq": {
+                        "_text": "39"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20627"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000691"
+                    },
+                    "stationName": {
+                        "_text": "경남아너스빌.탄현역"
+                    },
+                    "x": {
+                        "_text": "126.76425"
+                    },
+                    "y": {
+                        "_text": "37.6934"
+                    },
+                    "stationSeq": {
+                        "_text": "40"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20148"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000295"
+                    },
+                    "stationName": {
+                        "_text": "탄현큰마을.쌍용아파트"
+                    },
+                    "x": {
+                        "_text": "126.7631667"
+                    },
+                    "y": {
+                        "_text": "37.6993167"
+                    },
+                    "stationSeq": {
+                        "_text": "41"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20640"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219000668"
+                    },
+                    "stationName": {
+                        "_text": "하이파크시티3.5단지"
+                    },
+                    "x": {
+                        "_text": "126.7547333"
+                    },
+                    "y": {
+                        "_text": "37.6994167"
+                    },
+                    "stationSeq": {
+                        "_text": "42"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:07.909"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "02942"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "201000447"
+                    },
+                    "stationName": {
+                        "_text": "능실마을21단지.수원여대입구"
+                    },
+                    "x": {
+                        "_text": "126.9619167"
+                    },
+                    "y": {
+                        "_text": "37.2542833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "02943"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "201000448"
+                    },
+                    "stationName": {
+                        "_text": "능실마을21단지.수원여대입구"
+                    },
+                    "x": {
+                        "_text": "126.9620167"
+                    },
+                    "y": {
+                        "_text": "37.2542"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:08.222"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "04280"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "203000274"
+                    },
+                    "stationName": {
+                        "_text": "광교센트럴타운60단지.힐스테이트레이크"
+                    },
+                    "x": {
+                        "_text": "127.0611333"
+                    },
+                    "y": {
+                        "_text": "37.2891"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "04290"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "203000275"
+                    },
+                    "stationName": {
+                        "_text": "광교센트럴타운60단지.힐스테이트레이크"
+                    },
+                    "x": {
+                        "_text": "127.0607"
+                    },
+                    "y": {
+                        "_text": "37.2890833"
+                    }
+                }
+            ]
+        }
+    }
+}

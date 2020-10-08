@@ -1,0 +1,72 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:20.878"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "29765"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228000920"
+                    },
+                    "stationName": {
+                        "_text": "한성아파트.한국아파트.현대1차아파트"
+                    },
+                    "x": {
+                        "_text": "127.09385"
+                    },
+                    "y": {
+                        "_text": "37.32475"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "29095"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228000911"
+                    },
+                    "stationName": {
+                        "_text": "한성아파트.한국아파트.현대1차아파트"
+                    },
+                    "x": {
+                        "_text": "127.09405"
+                    },
+                    "y": {
+                        "_text": "37.3250333"
+                    }
+                }
+            ]
+        }
+    }
+}

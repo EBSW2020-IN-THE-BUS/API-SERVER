@@ -1,0 +1,84 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:02:36.315"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busRouteInfoItem": {
+                "companyId": {
+                    "_text": "4105000"
+                },
+                "companyName": {
+                    "_text": "용남버스"
+                },
+                "companyTel": {
+                    "_text": "031-295-7105"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "endMobileNo": {
+                    "_text": "90112"
+                },
+                "endStationId": {
+                    "_text": "121000220"
+                },
+                "endStationName": {
+                    "_text": "시민의숲.양재꽃시장"
+                },
+                "peekAlloc": {
+                    "_text": "90"
+                },
+                "regionName": {
+                    "_text": "서울,수원"
+                },
+                "routeId": {
+                    "_text": "200000295"
+                },
+                "routeName": {
+                    "_text": "M5443예약"
+                },
+                "routeTypeCd": {
+                    "_text": "14"
+                },
+                "routeTypeName": {
+                    "_text": "광역급행형시내버스"
+                },
+                "startMobileNo": {
+                    "_text": "2943"
+                },
+                "startStationId": {
+                    "_text": "201000448"
+                },
+                "startStationName": {
+                    "_text": "능실마을21단지.수원여대입구"
+                },
+                "upFirstTime": {
+                    "_text": "06:20"
+                },
+                "upLastTime": {
+                    "_text": "07:50"
+                },
+                "nPeekAlloc": {
+                    "_text": "0"
+                }
+            }
+        }
+    }
+}

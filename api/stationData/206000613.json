@@ -1,0 +1,150 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:08.753"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07560"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000618"
+                    },
+                    "stationName": {
+                        "_text": "이매촌한신.서현역.AK프라자"
+                    },
+                    "x": {
+                        "_text": "127.1258333"
+                    },
+                    "y": {
+                        "_text": "37.38685"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07170"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000316"
+                    },
+                    "stationName": {
+                        "_text": "이매촌한신.서현역.AK프라자"
+                    },
+                    "x": {
+                        "_text": "127.1246333"
+                    },
+                    "y": {
+                        "_text": "37.3884833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07483"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000515"
+                    },
+                    "stationName": {
+                        "_text": "이매촌한신.서현역.AK프라자"
+                    },
+                    "x": {
+                        "_text": "127.126"
+                    },
+                    "y": {
+                        "_text": "37.3872"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07561"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000613"
+                    },
+                    "stationName": {
+                        "_text": "이매촌한신.서현역.AK프라자"
+                    },
+                    "x": {
+                        "_text": "127.1243"
+                    },
+                    "y": {
+                        "_text": "37.3887167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07168"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000239"
+                    },
+                    "stationName": {
+                        "_text": "이매촌한신.서현역.AK프라자"
+                    },
+                    "x": {
+                        "_text": "127.1241833"
+                    },
+                    "y": {
+                        "_text": "37.38835"
+                    }
+                }
+            ]
+        }
+    }
+}

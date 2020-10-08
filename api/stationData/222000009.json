@@ -1,0 +1,131 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:15.534"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23753"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222001660"
+                    },
+                    "stationName": {
+                        "_text": "마석장터.청소년도움센터"
+                    },
+                    "x": {
+                        "_text": "127.30665"
+                    },
+                    "y": {
+                        "_text": "37.6530333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23625"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000009"
+                    },
+                    "stationName": {
+                        "_text": "청소년도움센터"
+                    },
+                    "x": {
+                        "_text": "127.3075667"
+                    },
+                    "y": {
+                        "_text": "37.6523333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23619"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000013"
+                    },
+                    "stationName": {
+                        "_text": "청소년도움센터"
+                    },
+                    "x": {
+                        "_text": "127.30695"
+                    },
+                    "y": {
+                        "_text": "37.65235"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "49098"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222001010"
+                    },
+                    "stationName": {
+                        "_text": "청소년도움센터앞"
+                    },
+                    "x": {
+                        "_text": "127.3065333"
+                    },
+                    "y": {
+                        "_text": "37.65215"
+                    }
+                }
+            ]
+        }
+    }
+}

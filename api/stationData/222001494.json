@@ -1,0 +1,79 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:18.190"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "49350"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222001495"
+                    },
+                    "stationName": {
+                        "_text": "대원칸타빌.모아미래도.유승한내들이든힐즈"
+                    },
+                    "x": {
+                        "_text": "127.1265167"
+                    },
+                    "y": {
+                        "_text": "37.6632333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "49342"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222001494"
+                    },
+                    "stationName": {
+                        "_text": "대원칸타빌.모아미래도.유승한내들이든힐즈"
+                    },
+                    "x": {
+                        "_text": "127.1265"
+                    },
+                    "y": {
+                        "_text": "37.6635333"
+                    }
+                }
+            ]
+        }
+    }
+}

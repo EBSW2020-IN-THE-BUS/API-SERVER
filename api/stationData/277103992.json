@@ -1,0 +1,44 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:18.675"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": "00000"
+                },
+                "regionName": {
+                    "_text": "화성"
+                },
+                "stationId": {
+                    "_text": "277103992"
+                },
+                "stationName": {
+                    "_text": "호수공원미래체험관(경유)"
+                },
+                "x": {
+                    "_text": "127.1069167"
+                },
+                "y": {
+                    "_text": "37.1683167"
+                }
+            }
+        }
+    }
+}

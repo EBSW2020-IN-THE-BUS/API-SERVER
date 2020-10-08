@@ -1,0 +1,183 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:18.300"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "49429"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222001502"
+                    },
+                    "stationName": {
+                        "_text": "KCC스위첸아파트"
+                    },
+                    "x": {
+                        "_text": "127.11835"
+                    },
+                    "y": {
+                        "_text": "37.65655"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "49430"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222001503"
+                    },
+                    "stationName": {
+                        "_text": "KCC스위첸아파트"
+                    },
+                    "x": {
+                        "_text": "127.1177333"
+                    },
+                    "y": {
+                        "_text": "37.6558667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "12097"
+                    },
+                    "regionName": {
+                        "_text": "부천"
+                    },
+                    "stationId": {
+                        "_text": "211000062"
+                    },
+                    "stationName": {
+                        "_text": "KCC스위첸아파트.한신아파트"
+                    },
+                    "x": {
+                        "_text": "126.7996667"
+                    },
+                    "y": {
+                        "_text": "37.4752667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "24106"
+                    },
+                    "regionName": {
+                        "_text": "오산"
+                    },
+                    "stationId": {
+                        "_text": "223000525"
+                    },
+                    "stationName": {
+                        "_text": "갈곶동.KCC스위첸아파트"
+                    },
+                    "x": {
+                        "_text": "127.0684167"
+                    },
+                    "y": {
+                        "_text": "37.1316"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "15314"
+                    },
+                    "regionName": {
+                        "_text": "평택"
+                    },
+                    "stationId": {
+                        "_text": "214001748"
+                    },
+                    "stationName": {
+                        "_text": "건지미.KCC스위첸아파트"
+                    },
+                    "x": {
+                        "_text": "127.0702833"
+                    },
+                    "y": {
+                        "_text": "37.0813833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "12098"
+                    },
+                    "regionName": {
+                        "_text": "부천"
+                    },
+                    "stationId": {
+                        "_text": "211000081"
+                    },
+                    "stationName": {
+                        "_text": "한신아파트.KCC스위첸아파트"
+                    },
+                    "x": {
+                        "_text": "126.79945"
+                    },
+                    "y": {
+                        "_text": "37.47515"
+                    }
+                }
+            ]
+        }
+    }
+}

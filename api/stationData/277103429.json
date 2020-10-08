@@ -1,0 +1,66 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:19.487"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103428"
+                    },
+                    "stationName": {
+                        "_text": "가양대교북단(경유)"
+                    },
+                    "x": {
+                        "_text": "126.8645167"
+                    },
+                    "y": {
+                        "_text": "37.5752667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103429"
+                    },
+                    "stationName": {
+                        "_text": "가양대교북단(경유)"
+                    },
+                    "x": {
+                        "_text": "126.8659333"
+                    },
+                    "y": {
+                        "_text": "37.5749333"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "_declaration": {
+        "_attributes": {
+            "version": "1.0",
+            "encoding": "UTF-8",
+            "standalone": "yes"
+        }
+    },
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "LIMITED NUMBER OF SERVICE REQUESTS EXCEEDS ERROR."
+            },
+            "returnCode": {
+                "_text": "22"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-03 17:47:58.349"
+            },
+            "resultCode": {
+                "_text": "50"
+            },
+            "resultMessage": {
+                "_text": "comMsgHeader의 에러 메시지를 참조하세요."
+            }
+        }
+    }
+}

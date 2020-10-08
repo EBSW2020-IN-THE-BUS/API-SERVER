@@ -1,0 +1,228 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:15.565"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "07209"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "106000114"
+                    },
+                    "stationName": {
+                        "_text": "용마산역"
+                    },
+                    "x": {
+                        "_text": "127.0865833"
+                    },
+                    "y": {
+                        "_text": "37.5737833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "07208"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "106000113"
+                    },
+                    "stationName": {
+                        "_text": "용마산역"
+                    },
+                    "x": {
+                        "_text": "127.08675"
+                    },
+                    "y": {
+                        "_text": "37.5735"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "35684"
+                    },
+                    "regionName": {
+                        "_text": "김포"
+                    },
+                    "stationId": {
+                        "_text": "232000777"
+                    },
+                    "stationName": {
+                        "_text": "마산역"
+                    },
+                    "x": {
+                        "_text": "126.6427333"
+                    },
+                    "y": {
+                        "_text": "37.6402667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "35685"
+                    },
+                    "regionName": {
+                        "_text": "김포"
+                    },
+                    "stationId": {
+                        "_text": "232000781"
+                    },
+                    "stationName": {
+                        "_text": "마산역"
+                    },
+                    "x": {
+                        "_text": "126.64255"
+                    },
+                    "y": {
+                        "_text": "37.64055"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23013"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222001705"
+                    },
+                    "stationName": {
+                        "_text": "천마산역1번출구"
+                    },
+                    "x": {
+                        "_text": "127.2858667"
+                    },
+                    "y": {
+                        "_text": "37.6595667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23019"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222001707"
+                    },
+                    "stationName": {
+                        "_text": "천마산역1번출구"
+                    },
+                    "x": {
+                        "_text": "127.2858"
+                    },
+                    "y": {
+                        "_text": "37.6594333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23014"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222001706"
+                    },
+                    "stationName": {
+                        "_text": "천마산역3번출구"
+                    },
+                    "x": {
+                        "_text": "127.2834833"
+                    },
+                    "y": {
+                        "_text": "37.6588167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23020"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222001708"
+                    },
+                    "stationName": {
+                        "_text": "천마산역3번출구"
+                    },
+                    "x": {
+                        "_text": "127.28355"
+                    },
+                    "y": {
+                        "_text": "37.6586833"
+                    }
+                }
+            ]
+        }
+    }
+}

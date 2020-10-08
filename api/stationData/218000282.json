@@ -1,0 +1,183 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:09.190"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "19128"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "218000283"
+                    },
+                    "stationName": {
+                        "_text": "원당역"
+                    },
+                    "x": {
+                        "_text": "126.84255"
+                    },
+                    "y": {
+                        "_text": "37.6537833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "19135"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "218000267"
+                    },
+                    "stationName": {
+                        "_text": "원당역"
+                    },
+                    "x": {
+                        "_text": "126.8438667"
+                    },
+                    "y": {
+                        "_text": "37.65295"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "57324"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "218001083"
+                    },
+                    "stationName": {
+                        "_text": "원당역"
+                    },
+                    "x": {
+                        "_text": "126.84385"
+                    },
+                    "y": {
+                        "_text": "37.65305"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "19130"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "218000282"
+                    },
+                    "stationName": {
+                        "_text": "원당역"
+                    },
+                    "x": {
+                        "_text": "126.8434167"
+                    },
+                    "y": {
+                        "_text": "37.6527333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "57269"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "218001004"
+                    },
+                    "stationName": {
+                        "_text": "원당역"
+                    },
+                    "x": {
+                        "_text": "126.8426167"
+                    },
+                    "y": {
+                        "_text": "37.6538833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "19123"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "218000095"
+                    },
+                    "stationName": {
+                        "_text": "원당역"
+                    },
+                    "x": {
+                        "_text": "126.8420167"
+                    },
+                    "y": {
+                        "_text": "37.6534167"
+                    }
+                }
+            ]
+        }
+    }
+}

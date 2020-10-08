@@ -1,0 +1,44 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:18.425"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": "49418"
+                },
+                "regionName": {
+                    "_text": "남양주"
+                },
+                "stationId": {
+                    "_text": "222001510"
+                },
+                "stationName": {
+                    "_text": "쌍용예가.미리내마을4-4단지"
+                },
+                "x": {
+                    "_text": "127.1179167"
+                },
+                "y": {
+                    "_text": "37.6461667"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:17.800"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23052"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000609"
+                    },
+                    "stationName": {
+                        "_text": "별내하우스토리.중말사거리"
+                    },
+                    "x": {
+                        "_text": "127.1344"
+                    },
+                    "y": {
+                        "_text": "37.6697333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23049"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000616"
+                    },
+                    "stationName": {
+                        "_text": "별내하우스토리.중말사거리"
+                    },
+                    "x": {
+                        "_text": "127.1340833"
+                    },
+                    "y": {
+                        "_text": "37.6697333"
+                    }
+                }
+            ]
+        }
+    }
+}

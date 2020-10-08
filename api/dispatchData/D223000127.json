@@ -1,0 +1,84 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:02:36.346"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busRouteInfoItem": {
+                "companyId": {
+                    "_text": "4105000"
+                },
+                "companyName": {
+                    "_text": "용남버스"
+                },
+                "companyTel": {
+                    "_text": "031-295-7105"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "downFirstTime": {
+                    "_text": "06:00"
+                },
+                "downLastTime": {
+                    "_text": "00:00"
+                },
+                "endStationId": {
+                    "_text": "120000059"
+                },
+                "endStationName": {
+                    "_text": "사당역4번출구"
+                },
+                "peekAlloc": {
+                    "_text": "40"
+                },
+                "regionName": {
+                    "_text": "서울,오산"
+                },
+                "routeId": {
+                    "_text": "223000127"
+                },
+                "routeName": {
+                    "_text": "M5532"
+                },
+                "routeTypeCd": {
+                    "_text": "14"
+                },
+                "routeTypeName": {
+                    "_text": "광역급행형시내버스"
+                },
+                "startStationId": {
+                    "_text": "277102407"
+                },
+                "startStationName": {
+                    "_text": "갈곶리삼거리(경유)"
+                },
+                "upFirstTime": {
+                    "_text": "05:00"
+                },
+                "upLastTime": {
+                    "_text": "22:50"
+                },
+                "nPeekAlloc": {
+                    "_text": "50"
+                }
+            }
+        }
+    }
+}

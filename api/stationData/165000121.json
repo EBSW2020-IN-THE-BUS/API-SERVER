@@ -1,0 +1,51 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:07.597"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "3"
+                },
+                "mobileNo": {
+                    "_text": "39121"
+                },
+                "regionName": {
+                    "_text": "인천"
+                },
+                "stationId": {
+                    "_text": "165000121"
+                },
+                "stationName": {
+                    "_text": "논현10단지별빛마을웰카운티A정문"
+                },
+                "x": {
+                    "_text": "126.7317333"
+                },
+                "y": {
+                    "_text": "37.4063"
+                }
+            }
+        }
+    }
+}

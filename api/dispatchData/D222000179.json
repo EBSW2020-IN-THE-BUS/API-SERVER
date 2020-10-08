@@ -1,0 +1,84 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:02:36.346"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busRouteInfoItem": {
+                "companyId": {
+                    "_text": "4100500"
+                },
+                "companyName": {
+                    "_text": "대원운수"
+                },
+                "companyTel": {
+                    "_text": "02-3436-6366"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "downFirstTime": {
+                    "_text": "06:20"
+                },
+                "downLastTime": {
+                    "_text": "23:50"
+                },
+                "endStationId": {
+                    "_text": "123000611"
+                },
+                "endStationName": {
+                    "_text": "잠실광역환승센터"
+                },
+                "peekAlloc": {
+                    "_text": "20"
+                },
+                "regionName": {
+                    "_text": "남양주,서울"
+                },
+                "routeId": {
+                    "_text": "222000179"
+                },
+                "routeName": {
+                    "_text": "M2341"
+                },
+                "routeTypeCd": {
+                    "_text": "14"
+                },
+                "routeTypeName": {
+                    "_text": "광역급행형시내버스"
+                },
+                "startStationId": {
+                    "_text": "277101680"
+                },
+                "startStationName": {
+                    "_text": "대성리차고지(경유)"
+                },
+                "upFirstTime": {
+                    "_text": "05:20"
+                },
+                "upLastTime": {
+                    "_text": "22:50"
+                },
+                "nPeekAlloc": {
+                    "_text": "25"
+                }
+            }
+        }
+    }
+}

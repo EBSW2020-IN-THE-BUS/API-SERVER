@@ -1,0 +1,102 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:07.690"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "인천"
+                    },
+                    "stationId": {
+                        "_text": "277102508"
+                    },
+                    "stationName": {
+                        "_text": "미추홀외고(경유)"
+                    },
+                    "x": {
+                        "_text": "126.7273667"
+                    },
+                    "y": {
+                        "_text": "37.3926833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "3"
+                    },
+                    "mobileNo": {
+                        "_text": "39690"
+                    },
+                    "regionName": {
+                        "_text": "인천"
+                    },
+                    "stationId": {
+                        "_text": "165000690"
+                    },
+                    "stationName": {
+                        "_text": "미추홀외고"
+                    },
+                    "x": {
+                        "_text": "126.7239667"
+                    },
+                    "y": {
+                        "_text": "37.3896"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "3"
+                    },
+                    "mobileNo": {
+                        "_text": "39689"
+                    },
+                    "regionName": {
+                        "_text": "인천"
+                    },
+                    "stationId": {
+                        "_text": "165000689"
+                    },
+                    "stationName": {
+                        "_text": "미추홀외고"
+                    },
+                    "x": {
+                        "_text": "126.7240167"
+                    },
+                    "y": {
+                        "_text": "37.38995"
+                    }
+                }
+            ]
+        }
+    }
+}

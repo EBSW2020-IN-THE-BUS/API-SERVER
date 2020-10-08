@@ -1,0 +1,1249 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 20:53:06.553"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busRouteStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07058"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000040"
+                    },
+                    "stationName": {
+                        "_text": "오리역"
+                    },
+                    "x": {
+                        "_text": "127.1092167"
+                    },
+                    "y": {
+                        "_text": "37.3399167"
+                    },
+                    "stationSeq": {
+                        "_text": "1"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07333"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000087"
+                    },
+                    "stationName": {
+                        "_text": "미금역.청솔마을.2001아울렛"
+                    },
+                    "x": {
+                        "_text": "127.1091833"
+                    },
+                    "y": {
+                        "_text": "37.3509667"
+                    },
+                    "stationSeq": {
+                        "_text": "2"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "277102794"
+                    },
+                    "stationName": {
+                        "_text": "불정교사거리(경유)"
+                    },
+                    "x": {
+                        "_text": "127.1084333"
+                    },
+                    "y": {
+                        "_text": "37.3600833"
+                    },
+                    "stationSeq": {
+                        "_text": "3"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07624"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000725"
+                    },
+                    "stationName": {
+                        "_text": "정자역"
+                    },
+                    "x": {
+                        "_text": "127.1082833"
+                    },
+                    "y": {
+                        "_text": "37.3667833"
+                    },
+                    "stationSeq": {
+                        "_text": "4"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "277102795"
+                    },
+                    "stationName": {
+                        "_text": "백궁삼거리(경유)"
+                    },
+                    "x": {
+                        "_text": "127.10845"
+                    },
+                    "y": {
+                        "_text": "37.3723667"
+                    },
+                    "stationSeq": {
+                        "_text": "5"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07302"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000299"
+                    },
+                    "stationName": {
+                        "_text": "서현역.AK플라자"
+                    },
+                    "x": {
+                        "_text": "127.1245333"
+                    },
+                    "y": {
+                        "_text": "37.3839833"
+                    },
+                    "stationSeq": {
+                        "_text": "6"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07561"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000613"
+                    },
+                    "stationName": {
+                        "_text": "이매촌한신.서현역.AK프라자"
+                    },
+                    "x": {
+                        "_text": "127.1243"
+                    },
+                    "y": {
+                        "_text": "37.3887167"
+                    },
+                    "stationSeq": {
+                        "_text": "7"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "277103149"
+                    },
+                    "stationName": {
+                        "_text": "판교TG(경유)"
+                    },
+                    "x": {
+                        "_text": "127.1031667"
+                    },
+                    "y": {
+                        "_text": "37.39595"
+                    },
+                    "stationSeq": {
+                        "_text": "8"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "277103679"
+                    },
+                    "stationName": {
+                        "_text": "금토JC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0853167"
+                    },
+                    "y": {
+                        "_text": "37.4152833"
+                    },
+                    "stationSeq": {
+                        "_text": "9"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103441"
+                    },
+                    "stationName": {
+                        "_text": "서울진입(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0665833"
+                    },
+                    "y": {
+                        "_text": "37.43385"
+                    },
+                    "stationSeq": {
+                        "_text": "10"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277104177"
+                    },
+                    "stationName": {
+                        "_text": "청계산입구역(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0542"
+                    },
+                    "y": {
+                        "_text": "37.4483667"
+                    },
+                    "stationSeq": {
+                        "_text": "11"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103388"
+                    },
+                    "stationName": {
+                        "_text": "양재IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.04045"
+                    },
+                    "y": {
+                        "_text": "37.4632833"
+                    },
+                    "stationSeq": {
+                        "_text": "12"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103390"
+                    },
+                    "stationName": {
+                        "_text": "서초IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0263333"
+                    },
+                    "y": {
+                        "_text": "37.4831333"
+                    },
+                    "stationSeq": {
+                        "_text": "13"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103391"
+                    },
+                    "stationName": {
+                        "_text": "반포IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0188667"
+                    },
+                    "y": {
+                        "_text": "37.50285"
+                    },
+                    "stationSeq": {
+                        "_text": "14"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103400"
+                    },
+                    "stationName": {
+                        "_text": "한남IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0175833"
+                    },
+                    "y": {
+                        "_text": "37.5224833"
+                    },
+                    "stationSeq": {
+                        "_text": "15"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277104180"
+                    },
+                    "stationName": {
+                        "_text": "한남1고가차도(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0026333"
+                    },
+                    "y": {
+                        "_text": "37.5414667"
+                    },
+                    "stationSeq": {
+                        "_text": "16"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277104186"
+                    },
+                    "stationName": {
+                        "_text": "남산1호터널TG(경유)"
+                    },
+                    "x": {
+                        "_text": "126.99315"
+                    },
+                    "y": {
+                        "_text": "37.55585"
+                    },
+                    "stationSeq": {
+                        "_text": "17"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "101000292"
+                    },
+                    "stationName": {
+                        "_text": "남대문세무서.국가인권위원회"
+                    },
+                    "x": {
+                        "_text": "126.9878"
+                    },
+                    "y": {
+                        "_text": "37.5652333"
+                    },
+                    "stationSeq": {
+                        "_text": "18"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "100000001"
+                    },
+                    "stationName": {
+                        "_text": "종로2가사거리(중)"
+                    },
+                    "x": {
+                        "_text": "126.9877333"
+                    },
+                    "y": {
+                        "_text": "37.5697833"
+                    },
+                    "stationSeq": {
+                        "_text": "19"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "72014"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "101000141"
+                    },
+                    "stationName": {
+                        "_text": "을지로입구역.광교"
+                    },
+                    "x": {
+                        "_text": "126.9824667"
+                    },
+                    "y": {
+                        "_text": "37.5675333"
+                    },
+                    "stationSeq": {
+                        "_text": "20"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "101000264"
+                    },
+                    "stationName": {
+                        "_text": "북창동.남대문시장"
+                    },
+                    "x": {
+                        "_text": "126.9771667"
+                    },
+                    "y": {
+                        "_text": "37.5609667"
+                    },
+                    "stationSeq": {
+                        "_text": "21"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277101742"
+                    },
+                    "stationName": {
+                        "_text": "서울역교차로(경유)"
+                    },
+                    "x": {
+                        "_text": "126.9726333"
+                    },
+                    "y": {
+                        "_text": "37.5571"
+                    },
+                    "stationSeq": {
+                        "_text": "22"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "101000026"
+                    },
+                    "stationName": {
+                        "_text": "숭례문"
+                    },
+                    "x": {
+                        "_text": "126.9744"
+                    },
+                    "y": {
+                        "_text": "37.5587833"
+                    },
+                    "stationSeq": {
+                        "_text": "23"
+                    },
+                    "turnYn": {
+                        "_text": "Y"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "101000114"
+                    },
+                    "stationName": {
+                        "_text": "남대문시장앞.이회영활동터"
+                    },
+                    "x": {
+                        "_text": "126.9787333"
+                    },
+                    "y": {
+                        "_text": "37.5610167"
+                    },
+                    "stationSeq": {
+                        "_text": "24"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "101000148"
+                    },
+                    "stationName": {
+                        "_text": "명동국민은행앞"
+                    },
+                    "x": {
+                        "_text": "126.9826"
+                    },
+                    "y": {
+                        "_text": "37.5646833"
+                    },
+                    "stationSeq": {
+                        "_text": "25"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "101000001"
+                    },
+                    "stationName": {
+                        "_text": "남대문세무서.서울백병원(중)"
+                    },
+                    "x": {
+                        "_text": "126.9875333"
+                    },
+                    "y": {
+                        "_text": "37.5649667"
+                    },
+                    "stationSeq": {
+                        "_text": "26"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277104181"
+                    },
+                    "stationName": {
+                        "_text": "남산1호터널TG(경유)"
+                    },
+                    "x": {
+                        "_text": "126.9927167"
+                    },
+                    "y": {
+                        "_text": "37.5557"
+                    },
+                    "stationSeq": {
+                        "_text": "27"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277104179"
+                    },
+                    "stationName": {
+                        "_text": "한남1고가차도(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0024833"
+                    },
+                    "y": {
+                        "_text": "37.5413333"
+                    },
+                    "stationSeq": {
+                        "_text": "28"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103399"
+                    },
+                    "stationName": {
+                        "_text": "한남IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0172833"
+                    },
+                    "y": {
+                        "_text": "37.5220333"
+                    },
+                    "stationSeq": {
+                        "_text": "29"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103392"
+                    },
+                    "stationName": {
+                        "_text": "반포IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0184333"
+                    },
+                    "y": {
+                        "_text": "37.5028167"
+                    },
+                    "stationSeq": {
+                        "_text": "30"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103389"
+                    },
+                    "stationName": {
+                        "_text": "서초IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0256667"
+                    },
+                    "y": {
+                        "_text": "37.48365"
+                    },
+                    "stationSeq": {
+                        "_text": "31"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103387"
+                    },
+                    "stationName": {
+                        "_text": "양재IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0394333"
+                    },
+                    "y": {
+                        "_text": "37.46365"
+                    },
+                    "stationSeq": {
+                        "_text": "32"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277104178"
+                    },
+                    "stationName": {
+                        "_text": "청계산입구역(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0538333"
+                    },
+                    "y": {
+                        "_text": "37.4481833"
+                    },
+                    "stationSeq": {
+                        "_text": "33"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103440"
+                    },
+                    "stationName": {
+                        "_text": "성남진입(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0661833"
+                    },
+                    "y": {
+                        "_text": "37.43355"
+                    },
+                    "stationSeq": {
+                        "_text": "34"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "277103678"
+                    },
+                    "stationName": {
+                        "_text": "금토JC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.08445"
+                    },
+                    "y": {
+                        "_text": "37.4155"
+                    },
+                    "stationSeq": {
+                        "_text": "35"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "277103148"
+                    },
+                    "stationName": {
+                        "_text": "판교TG(경유)"
+                    },
+                    "x": {
+                        "_text": "127.1021333"
+                    },
+                    "y": {
+                        "_text": "37.3956667"
+                    },
+                    "stationSeq": {
+                        "_text": "36"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07168"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000239"
+                    },
+                    "stationName": {
+                        "_text": "이매촌한신.서현역.AK프라자"
+                    },
+                    "x": {
+                        "_text": "127.1241833"
+                    },
+                    "y": {
+                        "_text": "37.38835"
+                    },
+                    "stationSeq": {
+                        "_text": "37"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07169"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000026"
+                    },
+                    "stationName": {
+                        "_text": "서현역.AK플라자"
+                    },
+                    "x": {
+                        "_text": "127.1242333"
+                    },
+                    "y": {
+                        "_text": "37.3842667"
+                    },
+                    "stationSeq": {
+                        "_text": "38"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07049"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000189"
+                    },
+                    "stationName": {
+                        "_text": "정자역"
+                    },
+                    "x": {
+                        "_text": "127.1079"
+                    },
+                    "y": {
+                        "_text": "37.3657667"
+                    },
+                    "stationSeq": {
+                        "_text": "39"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07331"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000095"
+                    },
+                    "stationName": {
+                        "_text": "미금역.청솔마을.2001아울렛"
+                    },
+                    "x": {
+                        "_text": "127.1086"
+                    },
+                    "y": {
+                        "_text": "37.3506667"
+                    },
+                    "stationSeq": {
+                        "_text": "40"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07057"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000215"
+                    },
+                    "stationName": {
+                        "_text": "오리역"
+                    },
+                    "x": {
+                        "_text": "127.1087667"
+                    },
+                    "y": {
+                        "_text": "37.3402167"
+                    },
+                    "stationSeq": {
+                        "_text": "41"
+                    },
+                    "turnYn": {
+                        "_text": "N"
+                    }
+                }
+            ]
+        }
+    }
+}

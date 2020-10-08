@@ -1,0 +1,90 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:02:36.330"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busRouteInfoItem": {
+                "companyId": {
+                    "_text": "4108500"
+                },
+                "companyName": {
+                    "_text": "가온누리엠"
+                },
+                "companyTel": {
+                    "_text": "031-995-7300"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "downFirstTime": {
+                    "_text": "07:20"
+                },
+                "downLastTime": {
+                    "_text": "01:20"
+                },
+                "endMobileNo": {
+                    "_text": "87213"
+                },
+                "endStationId": {
+                    "_text": "118000511"
+                },
+                "endStationName": {
+                    "_text": "영등포소방서.타임스퀘어"
+                },
+                "peekAlloc": {
+                    "_text": "25"
+                },
+                "regionName": {
+                    "_text": "고양,서울"
+                },
+                "routeId": {
+                    "_text": "218000112"
+                },
+                "routeName": {
+                    "_text": "M7646"
+                },
+                "routeTypeCd": {
+                    "_text": "14"
+                },
+                "routeTypeName": {
+                    "_text": "광역급행형시내버스"
+                },
+                "startMobileNo": {
+                    "_text": "20035"
+                },
+                "startStationId": {
+                    "_text": "219000434"
+                },
+                "startStationName": {
+                    "_text": "송포초교"
+                },
+                "upFirstTime": {
+                    "_text": "06:00"
+                },
+                "upLastTime": {
+                    "_text": "00:20"
+                },
+                "nPeekAlloc": {
+                    "_text": "40"
+                }
+            }
+        }
+    }
+}

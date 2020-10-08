@@ -1,0 +1,833 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:08.941"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22168"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000092"
+                    },
+                    "stationName": {
+                        "_text": "서초동진흥아파트"
+                    },
+                    "x": {
+                        "_text": "127.0227667"
+                    },
+                    "y": {
+                        "_text": "37.4966167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22165"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000089"
+                    },
+                    "stationName": {
+                        "_text": "진흥아파트"
+                    },
+                    "x": {
+                        "_text": "127.0237833"
+                    },
+                    "y": {
+                        "_text": "37.4976167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "23173"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "122000071"
+                    },
+                    "stationName": {
+                        "_text": "진흥아파트"
+                    },
+                    "x": {
+                        "_text": "127.0520833"
+                    },
+                    "y": {
+                        "_text": "37.5193333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22166"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000090"
+                    },
+                    "stationName": {
+                        "_text": "진흥아파트"
+                    },
+                    "x": {
+                        "_text": "127.0240333"
+                    },
+                    "y": {
+                        "_text": "37.4976167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "23186"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "122000083"
+                    },
+                    "stationName": {
+                        "_text": "진흥아파트청담역"
+                    },
+                    "x": {
+                        "_text": "127.0523333"
+                    },
+                    "y": {
+                        "_text": "37.5190167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "01339"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "200000366"
+                    },
+                    "stationName": {
+                        "_text": "대림.진흥아파트"
+                    },
+                    "x": {
+                        "_text": "126.9870667"
+                    },
+                    "y": {
+                        "_text": "37.3006833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "01340"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "200000367"
+                    },
+                    "stationName": {
+                        "_text": "대림.진흥아파트"
+                    },
+                    "x": {
+                        "_text": "126.9872167"
+                    },
+                    "y": {
+                        "_text": "37.30055"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "10089"
+                    },
+                    "regionName": {
+                        "_text": "안양"
+                    },
+                    "stationId": {
+                        "_text": "209000086"
+                    },
+                    "stationName": {
+                        "_text": "무궁화진흥아파트"
+                    },
+                    "x": {
+                        "_text": "126.9567833"
+                    },
+                    "y": {
+                        "_text": "37.3807"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "10250"
+                    },
+                    "regionName": {
+                        "_text": "안양"
+                    },
+                    "stationId": {
+                        "_text": "209000284"
+                    },
+                    "stationName": {
+                        "_text": "무궁화진흥아파트"
+                    },
+                    "x": {
+                        "_text": "126.9590333"
+                    },
+                    "y": {
+                        "_text": "37.38025"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "29343"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228000692"
+                    },
+                    "stationName": {
+                        "_text": "상지석.대우.진흥아파트"
+                    },
+                    "x": {
+                        "_text": "127.1401833"
+                    },
+                    "y": {
+                        "_text": "37.2619167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "29344"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228000687"
+                    },
+                    "stationName": {
+                        "_text": "상지석.대우.진흥아파트"
+                    },
+                    "x": {
+                        "_text": "127.1408833"
+                    },
+                    "y": {
+                        "_text": "37.26145"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "09309"
+                    },
+                    "regionName": {
+                        "_text": "안양"
+                    },
+                    "stationId": {
+                        "_text": "208000345"
+                    },
+                    "stationName": {
+                        "_text": "안양1동행정복지센터.진흥아파트"
+                    },
+                    "x": {
+                        "_text": "126.9275333"
+                    },
+                    "y": {
+                        "_text": "37.3998833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07322"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000227"
+                    },
+                    "stationName": {
+                        "_text": "이매역.농업기술센터.진흥아파트.동신아파트"
+                    },
+                    "x": {
+                        "_text": "127.1287333"
+                    },
+                    "y": {
+                        "_text": "37.3975"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "56571"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228003348"
+                    },
+                    "stationName": {
+                        "_text": "진흥아파트"
+                    },
+                    "x": {
+                        "_text": "127.1385833"
+                    },
+                    "y": {
+                        "_text": "37.2609667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "35821"
+                    },
+                    "regionName": {
+                        "_text": "김포"
+                    },
+                    "stationId": {
+                        "_text": "232000874"
+                    },
+                    "stationName": {
+                        "_text": "진흥아파트"
+                    },
+                    "x": {
+                        "_text": "126.7245667"
+                    },
+                    "y": {
+                        "_text": "37.62325"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "03150"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "202000238"
+                    },
+                    "stationName": {
+                        "_text": "진흥아파트"
+                    },
+                    "x": {
+                        "_text": "126.9850667"
+                    },
+                    "y": {
+                        "_text": "37.2894833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "03149"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "202000237"
+                    },
+                    "stationName": {
+                        "_text": "진흥아파트"
+                    },
+                    "x": {
+                        "_text": "126.9851333"
+                    },
+                    "y": {
+                        "_text": "37.2890667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "56572"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228003349"
+                    },
+                    "stationName": {
+                        "_text": "진흥아파트"
+                    },
+                    "x": {
+                        "_text": "127.1383167"
+                    },
+                    "y": {
+                        "_text": "37.2610333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "09337"
+                    },
+                    "regionName": {
+                        "_text": "안양"
+                    },
+                    "stationId": {
+                        "_text": "208000373"
+                    },
+                    "stationName": {
+                        "_text": "진흥아파트"
+                    },
+                    "x": {
+                        "_text": "126.9109833"
+                    },
+                    "y": {
+                        "_text": "37.40005"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "29069"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228000971"
+                    },
+                    "stationName": {
+                        "_text": "진흥아파트"
+                    },
+                    "x": {
+                        "_text": "127.0854"
+                    },
+                    "y": {
+                        "_text": "37.3184667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "김포"
+                    },
+                    "stationId": {
+                        "_text": "232514670"
+                    },
+                    "stationName": {
+                        "_text": "진흥아파트"
+                    },
+                    "x": {
+                        "_text": "126.7242833"
+                    },
+                    "y": {
+                        "_text": "37.6232333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "07175"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "206000103"
+                    },
+                    "stationName": {
+                        "_text": "진흥아파트"
+                    },
+                    "x": {
+                        "_text": "127.1252333"
+                    },
+                    "y": {
+                        "_text": "37.3953"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "09177"
+                    },
+                    "regionName": {
+                        "_text": "안양"
+                    },
+                    "stationId": {
+                        "_text": "208000115"
+                    },
+                    "stationName": {
+                        "_text": "진흥아파트"
+                    },
+                    "x": {
+                        "_text": "126.9306167"
+                    },
+                    "y": {
+                        "_text": "37.3971333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "09106"
+                    },
+                    "regionName": {
+                        "_text": "안양"
+                    },
+                    "stationId": {
+                        "_text": "208000180"
+                    },
+                    "stationName": {
+                        "_text": "진흥아파트"
+                    },
+                    "x": {
+                        "_text": "126.9126333"
+                    },
+                    "y": {
+                        "_text": "37.4004333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "09338"
+                    },
+                    "regionName": {
+                        "_text": "안양"
+                    },
+                    "stationId": {
+                        "_text": "208000374"
+                    },
+                    "stationName": {
+                        "_text": "진흥아파트"
+                    },
+                    "x": {
+                        "_text": "126.9110333"
+                    },
+                    "y": {
+                        "_text": "37.39995"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "29070"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228000952"
+                    },
+                    "stationName": {
+                        "_text": "진흥아파트"
+                    },
+                    "x": {
+                        "_text": "127.0853333"
+                    },
+                    "y": {
+                        "_text": "37.3181167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "09105"
+                    },
+                    "regionName": {
+                        "_text": "안양"
+                    },
+                    "stationId": {
+                        "_text": "208000191"
+                    },
+                    "stationName": {
+                        "_text": "진흥아파트"
+                    },
+                    "x": {
+                        "_text": "126.9124667"
+                    },
+                    "y": {
+                        "_text": "37.4003167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "277101913"
+                    },
+                    "stationName": {
+                        "_text": "진흥아파트입구사거리(경유)"
+                    },
+                    "x": {
+                        "_text": "127.1406833"
+                    },
+                    "y": {
+                        "_text": "37.2617833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "10299"
+                    },
+                    "regionName": {
+                        "_text": "안양"
+                    },
+                    "stationId": {
+                        "_text": "209000335"
+                    },
+                    "stationName": {
+                        "_text": "진흥아파트정문"
+                    },
+                    "x": {
+                        "_text": "126.9304333"
+                    },
+                    "y": {
+                        "_text": "37.39785"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "20756"
+                    },
+                    "regionName": {
+                        "_text": "고양"
+                    },
+                    "stationId": {
+                        "_text": "219001168"
+                    },
+                    "stationName": {
+                        "_text": "탄현임광.진흥아파트"
+                    },
+                    "x": {
+                        "_text": "126.7666333"
+                    },
+                    "y": {
+                        "_text": "37.7026167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "3"
+                    },
+                    "mobileNo": {
+                        "_text": "39297"
+                    },
+                    "regionName": {
+                        "_text": "인천"
+                    },
+                    "stationId": {
+                        "_text": "165000297"
+                    },
+                    "stationName": {
+                        "_text": "진흥아파트"
+                    },
+                    "x": {
+                        "_text": "126.74055"
+                    },
+                    "y": {
+                        "_text": "37.44585"
+                    }
+                }
+            ]
+        }
+    }
+}

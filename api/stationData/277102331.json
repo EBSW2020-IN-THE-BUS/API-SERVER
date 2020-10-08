@@ -1,0 +1,124 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:18.565"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "김포"
+                    },
+                    "stationId": {
+                        "_text": "277103995"
+                    },
+                    "stationName": {
+                        "_text": "김포한강신도시IC(경유)"
+                    },
+                    "x": {
+                        "_text": "126.70035"
+                    },
+                    "y": {
+                        "_text": "37.64875"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "김포"
+                    },
+                    "stationId": {
+                        "_text": "277103533"
+                    },
+                    "stationName": {
+                        "_text": "김포한강신도시IC(경유)"
+                    },
+                    "x": {
+                        "_text": "126.7033833"
+                    },
+                    "y": {
+                        "_text": "37.64885"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "김포"
+                    },
+                    "stationId": {
+                        "_text": "277103532"
+                    },
+                    "stationName": {
+                        "_text": "김포한강신도시IC(경유)"
+                    },
+                    "x": {
+                        "_text": "126.7031333"
+                    },
+                    "y": {
+                        "_text": "37.64865"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "김포"
+                    },
+                    "stationId": {
+                        "_text": "277102331"
+                    },
+                    "stationName": {
+                        "_text": "김포한강신도시IC(경유)"
+                    },
+                    "x": {
+                        "_text": "126.7027333"
+                    },
+                    "y": {
+                        "_text": "37.6487"
+                    }
+                }
+            ]
+        }
+    }
+}

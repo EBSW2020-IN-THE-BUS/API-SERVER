@@ -1,0 +1,66 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:16.956"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103502"
+                    },
+                    "stationName": {
+                        "_text": "동작대교북단(경유)"
+                    },
+                    "x": {
+                        "_text": "126.9835833"
+                    },
+                    "y": {
+                        "_text": "37.5165"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103501"
+                    },
+                    "stationName": {
+                        "_text": "동작대교북단(경유)"
+                    },
+                    "x": {
+                        "_text": "126.9827"
+                    },
+                    "y": {
+                        "_text": "37.5159333"
+                    }
+                }
+            ]
+        }
+    }
+}

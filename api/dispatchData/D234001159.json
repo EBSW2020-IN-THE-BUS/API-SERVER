@@ -1,0 +1,87 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:02:36.377"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busRouteInfoItem": {
+                "companyId": {
+                    "_text": "4100200"
+                },
+                "companyName": {
+                    "_text": "경기고속"
+                },
+                "companyTel": {
+                    "_text": "02-455-2114"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "downFirstTime": {
+                    "_text": "05:20"
+                },
+                "downLastTime": {
+                    "_text": "23:40"
+                },
+                "endStationId": {
+                    "_text": "101000026"
+                },
+                "endStationName": {
+                    "_text": "숭례문"
+                },
+                "peekAlloc": {
+                    "_text": "8"
+                },
+                "regionName": {
+                    "_text": "서울,성남"
+                },
+                "routeId": {
+                    "_text": "234001159"
+                },
+                "routeName": {
+                    "_text": "M4102"
+                },
+                "routeTypeCd": {
+                    "_text": "14"
+                },
+                "routeTypeName": {
+                    "_text": "광역급행형시내버스"
+                },
+                "startMobileNo": {
+                    "_text": "7058"
+                },
+                "startStationId": {
+                    "_text": "206000040"
+                },
+                "startStationName": {
+                    "_text": "오리역"
+                },
+                "upFirstTime": {
+                    "_text": "04:40"
+                },
+                "upLastTime": {
+                    "_text": "23:00"
+                },
+                "nPeekAlloc": {
+                    "_text": "20"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:02:36.362"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busRouteInfoItem": {
+                "companyId": {
+                    "_text": "4101100"
+                },
+                "companyName": {
+                    "_text": "김포운수"
+                },
+                "companyTel": {
+                    "_text": "031-983-8245"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "downFirstTime": {
+                    "_text": "05:50"
+                },
+                "downLastTime": {
+                    "_text": "00:00"
+                },
+                "endStationId": {
+                    "_text": "121000009"
+                },
+                "endStationName": {
+                    "_text": "신분당선강남역(중)"
+                },
+                "peekAlloc": {
+                    "_text": "20"
+                },
+                "regionName": {
+                    "_text": "김포,서울"
+                },
+                "routeId": {
+                    "_text": "232000075"
+                },
+                "routeName": {
+                    "_text": "M6427"
+                },
+                "routeTypeCd": {
+                    "_text": "14"
+                },
+                "routeTypeName": {
+                    "_text": "광역급행형시내버스"
+                },
+                "startMobileNo": {
+                    "_text": "35719"
+                },
+                "startStationId": {
+                    "_text": "232000810"
+                },
+                "startStationName": {
+                    "_text": "양곡터미널"
+                },
+                "upFirstTime": {
+                    "_text": "04:30"
+                },
+                "upLastTime": {
+                    "_text": "22:40"
+                },
+                "nPeekAlloc": {
+                    "_text": "45"
+                }
+            }
+        }
+    }
+}

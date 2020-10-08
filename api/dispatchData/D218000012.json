@@ -1,0 +1,84 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:02:36.315"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busRouteInfoItem": {
+                "companyId": {
+                    "_text": "4108500"
+                },
+                "companyName": {
+                    "_text": "가온누리엠"
+                },
+                "companyTel": {
+                    "_text": "031-995-7300"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "downFirstTime": {
+                    "_text": "06:20"
+                },
+                "downLastTime": {
+                    "_text": "01:20"
+                },
+                "endStationId": {
+                    "_text": "101000022"
+                },
+                "endStationName": {
+                    "_text": "숭례문"
+                },
+                "peekAlloc": {
+                    "_text": "10"
+                },
+                "regionName": {
+                    "_text": "고양,서울"
+                },
+                "routeId": {
+                    "_text": "218000012"
+                },
+                "routeName": {
+                    "_text": "M7106"
+                },
+                "routeTypeCd": {
+                    "_text": "14"
+                },
+                "routeTypeName": {
+                    "_text": "광역급행형시내버스"
+                },
+                "startStationId": {
+                    "_text": "277103703"
+                },
+                "startStationName": {
+                    "_text": "킨텍스제2전시장(경유)"
+                },
+                "upFirstTime": {
+                    "_text": "05:30"
+                },
+                "upLastTime": {
+                    "_text": "00:30"
+                },
+                "nPeekAlloc": {
+                    "_text": "20"
+                }
+            }
+        }
+    }
+}

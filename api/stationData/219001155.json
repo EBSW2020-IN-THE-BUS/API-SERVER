@@ -1,0 +1,44 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:15.534"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": "20716"
+                },
+                "regionName": {
+                    "_text": "고양"
+                },
+                "stationId": {
+                    "_text": "219001155"
+                },
+                "stationName": {
+                    "_text": "현대모터스튜디오고양"
+                },
+                "x": {
+                    "_text": "126.7475"
+                },
+                "y": {
+                    "_text": "37.6657667"
+                }
+            }
+        }
+    }
+}

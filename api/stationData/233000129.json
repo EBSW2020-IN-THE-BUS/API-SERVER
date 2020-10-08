@@ -1,0 +1,58 @@
+{
+    "_declaration": {
+        "_attributes": {
+            "version": "1.0",
+            "encoding": "UTF-8",
+            "standalone": "yes"
+        }
+    },
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-03 17:47:57.146"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": " 36460"
+                },
+                "regionName": {
+                    "_text": "화성"
+                },
+                "stationId": {
+                    "_text": "233000129"
+                },
+                "stationName": {
+                    "_text": "신안2차.반도4차"
+                },
+                "x": {
+                    "_text": "127.11605"
+                },
+                "y": {
+                    "_text": "37.1999833"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:07.675"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "3"
+                    },
+                    "mobileNo": {
+                        "_text": "39622"
+                    },
+                    "regionName": {
+                        "_text": "인천"
+                    },
+                    "stationId": {
+                        "_text": "165000622"
+                    },
+                    "stationName": {
+                        "_text": "청능로사거리"
+                    },
+                    "x": {
+                        "_text": "126.72415"
+                    },
+                    "y": {
+                        "_text": "37.4024"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "3"
+                    },
+                    "mobileNo": {
+                        "_text": "39623"
+                    },
+                    "regionName": {
+                        "_text": "인천"
+                    },
+                    "stationId": {
+                        "_text": "165000623"
+                    },
+                    "stationName": {
+                        "_text": "청능로사거리"
+                    },
+                    "x": {
+                        "_text": "126.72385"
+                    },
+                    "y": {
+                        "_text": "37.4023833"
+                    }
+                }
+            ]
+        }
+    }
+}

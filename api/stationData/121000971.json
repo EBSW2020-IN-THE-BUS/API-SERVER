@@ -1,0 +1,51 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:07.003"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "1"
+                },
+                "mobileNo": {
+                    "_text": "22919"
+                },
+                "regionName": {
+                    "_text": "서울"
+                },
+                "stationId": {
+                    "_text": "121000971"
+                },
+                "stationName": {
+                    "_text": "양재역커피빈앞"
+                },
+                "x": {
+                    "_text": "127.0353333"
+                },
+                "y": {
+                    "_text": "37.4828833"
+                }
+            }
+        }
+    }
+}

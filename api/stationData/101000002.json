@@ -1,0 +1,51 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:05.878"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "Y"
+                },
+                "districtCd": {
+                    "_text": "1"
+                },
+                "mobileNo": {
+                    "_text": "02002"
+                },
+                "regionName": {
+                    "_text": "서울"
+                },
+                "stationId": {
+                    "_text": "101000002"
+                },
+                "stationName": {
+                    "_text": "서울백병원.국가인권위.안중근활동터(중)"
+                },
+                "x": {
+                    "_text": "126.98785"
+                },
+                "y": {
+                    "_text": "37.5643167"
+                }
+            }
+        }
+    }
+}

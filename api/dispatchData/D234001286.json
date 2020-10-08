@@ -1,0 +1,87 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:02:36.409"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busRouteInfoItem": {
+                "companyId": {
+                    "_text": "4100200"
+                },
+                "companyName": {
+                    "_text": "경기고속"
+                },
+                "companyTel": {
+                    "_text": "02-455-2114"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "downFirstTime": {
+                    "_text": "06:10"
+                },
+                "downLastTime": {
+                    "_text": "23:50"
+                },
+                "endStationId": {
+                    "_text": "101000006"
+                },
+                "endStationName": {
+                    "_text": "서울역버스환승센터(6번승강장)(중)"
+                },
+                "peekAlloc": {
+                    "_text": "20"
+                },
+                "regionName": {
+                    "_text": "서울,수원"
+                },
+                "routeId": {
+                    "_text": "234001286"
+                },
+                "routeName": {
+                    "_text": "M5115"
+                },
+                "routeTypeCd": {
+                    "_text": "14"
+                },
+                "routeTypeName": {
+                    "_text": "광역급행형시내버스"
+                },
+                "startMobileNo": {
+                    "_text": "4277"
+                },
+                "startStationId": {
+                    "_text": "203000287"
+                },
+                "startStationName": {
+                    "_text": "상현역"
+                },
+                "upFirstTime": {
+                    "_text": "05:10"
+                },
+                "upLastTime": {
+                    "_text": "22:50"
+                },
+                "nPeekAlloc": {
+                    "_text": "30"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:02:36.330"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busRouteInfoItem": {
+                "companyId": {
+                    "_text": "4100200"
+                },
+                "companyName": {
+                    "_text": "경기고속"
+                },
+                "companyTel": {
+                    "_text": "02-455-2114"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "downFirstTime": {
+                    "_text": "06:15"
+                },
+                "downLastTime": {
+                    "_text": "00:00"
+                },
+                "endStationId": {
+                    "_text": "123000611"
+                },
+                "endStationName": {
+                    "_text": "잠실광역환승센터"
+                },
+                "peekAlloc": {
+                    "_text": "12"
+                },
+                "regionName": {
+                    "_text": "남양주,서울"
+                },
+                "routeId": {
+                    "_text": "222000105"
+                },
+                "routeName": {
+                    "_text": "M2316"
+                },
+                "routeTypeCd": {
+                    "_text": "14"
+                },
+                "routeTypeName": {
+                    "_text": "광역급행형시내버스"
+                },
+                "startMobileNo": {
+                    "_text": "23604"
+                },
+                "startStationId": {
+                    "_text": "222000757"
+                },
+                "startStationName": {
+                    "_text": "영남아파트.풍림아이원아파트"
+                },
+                "upFirstTime": {
+                    "_text": "05:20"
+                },
+                "upLastTime": {
+                    "_text": "23:05"
+                },
+                "nPeekAlloc": {
+                    "_text": "25"
+                }
+            }
+        }
+    }
+}

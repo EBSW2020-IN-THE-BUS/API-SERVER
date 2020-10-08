@@ -1,0 +1,254 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:06.831"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22156"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000080"
+                    },
+                    "stationName": {
+                        "_text": "BC카드.남부터미널"
+                    },
+                    "x": {
+                        "_text": "127.0143"
+                    },
+                    "y": {
+                        "_text": "37.4847833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22154"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000078"
+                    },
+                    "stationName": {
+                        "_text": "남부터미널"
+                    },
+                    "x": {
+                        "_text": "127.0173833"
+                    },
+                    "y": {
+                        "_text": "37.4817667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22153"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000077"
+                    },
+                    "stationName": {
+                        "_text": "남부터미널"
+                    },
+                    "x": {
+                        "_text": "127.0168833"
+                    },
+                    "y": {
+                        "_text": "37.4819833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22109"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000033"
+                    },
+                    "stationName": {
+                        "_text": "남부터미널"
+                    },
+                    "x": {
+                        "_text": "127.0174833"
+                    },
+                    "y": {
+                        "_text": "37.4834"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22157"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000081"
+                    },
+                    "stationName": {
+                        "_text": "남부터미널"
+                    },
+                    "x": {
+                        "_text": "127.01545"
+                    },
+                    "y": {
+                        "_text": "37.4846833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22155"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121500100"
+                    },
+                    "stationName": {
+                        "_text": "서울남부터미널"
+                    },
+                    "x": {
+                        "_text": "127.0156333"
+                    },
+                    "y": {
+                        "_text": "37.4841833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22974"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121500090"
+                    },
+                    "stationName": {
+                        "_text": "서울남부터미널"
+                    },
+                    "x": {
+                        "_text": "127.0159"
+                    },
+                    "y": {
+                        "_text": "37.4842833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "제천"
+                    },
+                    "stationId": {
+                        "_text": "273500170"
+                    },
+                    "stationName": {
+                        "_text": "남부터미널"
+                    },
+                    "x": {
+                        "_text": "128.2028833"
+                    },
+                    "y": {
+                        "_text": "37.1329667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "제천"
+                    },
+                    "stationId": {
+                        "_text": "273500180"
+                    },
+                    "stationName": {
+                        "_text": "남부터미널"
+                    },
+                    "x": {
+                        "_text": "128.20265"
+                    },
+                    "y": {
+                        "_text": "37.1331"
+                    }
+                }
+            ]
+        }
+    }
+}

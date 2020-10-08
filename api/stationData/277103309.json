@@ -1,0 +1,89 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:18.143"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277101638"
+                    },
+                    "stationName": {
+                        "_text": "올림픽대교북단(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0997833"
+                    },
+                    "y": {
+                        "_text": "37.5377833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103310"
+                    },
+                    "stationName": {
+                        "_text": "올림픽대교북단(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0997"
+                    },
+                    "y": {
+                        "_text": "37.5375333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103309"
+                    },
+                    "stationName": {
+                        "_text": "올림픽대교북단(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0994667"
+                    },
+                    "y": {
+                        "_text": "37.5377333"
+                    }
+                }
+            ]
+        }
+    }
+}

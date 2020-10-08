@@ -1,0 +1,79 @@
+{
+    "_declaration": {
+        "_attributes": {
+            "version": "1.0",
+            "encoding": "UTF-8",
+            "standalone": "yes"
+        }
+    },
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-03 17:47:58.396"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 00000"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "277102832"
+                    },
+                    "stationName": {
+                        "_text": "평내IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.2491333"
+                    },
+                    "y": {
+                        "_text": "37.6465667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 00000"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "277102831"
+                    },
+                    "stationName": {
+                        "_text": "평내IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.2479333"
+                    },
+                    "y": {
+                        "_text": "37.6457667"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "_declaration": {
+        "_attributes": {
+            "version": "1.0",
+            "encoding": "UTF-8",
+            "standalone": "yes"
+        }
+    },
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-03 17:47:56.755"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": " 35493"
+                },
+                "regionName": {
+                    "_text": "김포"
+                },
+                "stationId": {
+                    "_text": "232000546"
+                },
+                "stationName": {
+                    "_text": "뉴고려병원.이니스더원"
+                },
+                "x": {
+                    "_text": "126.6604167"
+                },
+                "y": {
+                    "_text": "37.6417833"
+                }
+            }
+        }
+    }
+}

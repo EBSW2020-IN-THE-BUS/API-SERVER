@@ -1,0 +1,87 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:02:36.330"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busRouteInfoItem": {
+                "companyId": {
+                    "_text": "4101600"
+                },
+                "companyName": {
+                    "_text": "명성운수"
+                },
+                "companyTel": {
+                    "_text": "031-912-7031"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "downFirstTime": {
+                    "_text": "06:05"
+                },
+                "downLastTime": {
+                    "_text": "23:40"
+                },
+                "endStationId": {
+                    "_text": "100000034"
+                },
+                "endStationName": {
+                    "_text": "광화문.광화문빌딩"
+                },
+                "peekAlloc": {
+                    "_text": "25"
+                },
+                "regionName": {
+                    "_text": "고양,서울"
+                },
+                "routeId": {
+                    "_text": "218000020"
+                },
+                "routeName": {
+                    "_text": "M7129"
+                },
+                "routeTypeCd": {
+                    "_text": "14"
+                },
+                "routeTypeName": {
+                    "_text": "광역급행형시내버스"
+                },
+                "startMobileNo": {
+                    "_text": "19025"
+                },
+                "startStationId": {
+                    "_text": "218000193"
+                },
+                "startStationName": {
+                    "_text": "능곡역.능곡시장"
+                },
+                "upFirstTime": {
+                    "_text": "05:30"
+                },
+                "upLastTime": {
+                    "_text": "23:00"
+                },
+                "nPeekAlloc": {
+                    "_text": "45"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:09.065"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": "09138"
+                },
+                "regionName": {
+                    "_text": "안양"
+                },
+                "stationId": {
+                    "_text": "208000158"
+                },
+                "stationName": {
+                    "_text": "시외버스터미널.교보생명"
+                },
+                "x": {
+                    "_text": "126.919"
+                },
+                "y": {
+                    "_text": "37.40145"
+                }
+            }
+        }
+    }
+}

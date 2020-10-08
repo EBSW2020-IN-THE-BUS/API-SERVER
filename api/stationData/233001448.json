@@ -1,0 +1,44 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:18.659"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": "36678"
+                },
+                "regionName": {
+                    "_text": "화성"
+                },
+                "stationId": {
+                    "_text": "233001448"
+                },
+                "stationName": {
+                    "_text": "나루마을.월드반도"
+                },
+                "x": {
+                    "_text": "127.0765167"
+                },
+                "y": {
+                    "_text": "37.1908"
+                }
+            }
+        }
+    }
+}

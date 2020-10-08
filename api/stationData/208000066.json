@@ -1,0 +1,209 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:08.894"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "09153"
+                    },
+                    "regionName": {
+                        "_text": "안양"
+                    },
+                    "stationId": {
+                        "_text": "208000066"
+                    },
+                    "stationName": {
+                        "_text": "남부시장"
+                    },
+                    "x": {
+                        "_text": "126.9238667"
+                    },
+                    "y": {
+                        "_text": "37.39615"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "09163"
+                    },
+                    "regionName": {
+                        "_text": "안양"
+                    },
+                    "stationId": {
+                        "_text": "208000123"
+                    },
+                    "stationName": {
+                        "_text": "남부시장"
+                    },
+                    "x": {
+                        "_text": "126.9266167"
+                    },
+                    "y": {
+                        "_text": "37.3966833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "09164"
+                    },
+                    "regionName": {
+                        "_text": "안양"
+                    },
+                    "stationId": {
+                        "_text": "208000124"
+                    },
+                    "stationName": {
+                        "_text": "남부시장"
+                    },
+                    "x": {
+                        "_text": "126.92635"
+                    },
+                    "y": {
+                        "_text": "37.3971833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "09307"
+                    },
+                    "regionName": {
+                        "_text": "안양"
+                    },
+                    "stationId": {
+                        "_text": "208000343"
+                    },
+                    "stationName": {
+                        "_text": "안양1번가.남부시장앞"
+                    },
+                    "x": {
+                        "_text": "126.923"
+                    },
+                    "y": {
+                        "_text": "37.3976333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "09308"
+                    },
+                    "regionName": {
+                        "_text": "안양"
+                    },
+                    "stationId": {
+                        "_text": "208000344"
+                    },
+                    "stationName": {
+                        "_text": "안양1번가.남부시장입구"
+                    },
+                    "x": {
+                        "_text": "126.9232167"
+                    },
+                    "y": {
+                        "_text": "37.3979333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "12134"
+                    },
+                    "regionName": {
+                        "_text": "부천"
+                    },
+                    "stationId": {
+                        "_text": "211000130"
+                    },
+                    "stationName": {
+                        "_text": "역곡역.역곡남부시장"
+                    },
+                    "x": {
+                        "_text": "126.8110333"
+                    },
+                    "y": {
+                        "_text": "37.4841833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "12137"
+                    },
+                    "regionName": {
+                        "_text": "부천"
+                    },
+                    "stationId": {
+                        "_text": "211000118"
+                    },
+                    "stationName": {
+                        "_text": "역곡역.역곡남부시장"
+                    },
+                    "x": {
+                        "_text": "126.8119833"
+                    },
+                    "y": {
+                        "_text": "37.4842167"
+                    }
+                }
+            ]
+        }
+    }
+}

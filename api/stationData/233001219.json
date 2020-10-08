@@ -1,0 +1,86 @@
+{
+    "_declaration": {
+        "_attributes": {
+            "version": "1.0",
+            "encoding": "UTF-8",
+            "standalone": "yes"
+        }
+    },
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-03 17:47:57.224"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 36666"
+                    },
+                    "regionName": {
+                        "_text": "화성"
+                    },
+                    "stationId": {
+                        "_text": "233001218"
+                    },
+                    "stationName": {
+                        "_text": "메타폴리스(중)"
+                    },
+                    "x": {
+                        "_text": "127.0674833"
+                    },
+                    "y": {
+                        "_text": "37.2042667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 36667"
+                    },
+                    "regionName": {
+                        "_text": "화성"
+                    },
+                    "stationId": {
+                        "_text": "233001219"
+                    },
+                    "stationName": {
+                        "_text": "메타폴리스(중)"
+                    },
+                    "x": {
+                        "_text": "127.0675167"
+                    },
+                    "y": {
+                        "_text": "37.2037333"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:09.128"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": "15563"
+                },
+                "regionName": {
+                    "_text": "평택"
+                },
+                "stationId": {
+                    "_text": "214000519"
+                },
+                "stationName": {
+                    "_text": "미주아파트.서울제일병원"
+                },
+                "x": {
+                    "_text": "127.0635167"
+                },
+                "y": {
+                    "_text": "37.0787667"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:06:05.157"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busLocationList": [
+                {
+                    "endBus": {
+                        "_text": "0"
+                    },
+                    "lowPlate": {
+                        "_text": "0"
+                    },
+                    "plateNo": {
+                        "_text": "경기76아3931"
+                    },
+                    "plateType": {
+                        "_text": "3"
+                    },
+                    "remainSeatCnt": {
+                        "_text": "16"
+                    },
+                    "routeId": {
+                        "_text": "234001577"
+                    },
+                    "stationId": {
+                        "_text": "277103385"
+                    },
+                    "stationSeq": {
+                        "_text": "48"
+                    }
+                },
+                {
+                    "endBus": {
+                        "_text": "0"
+                    },
+                    "lowPlate": {
+                        "_text": "0"
+                    },
+                    "plateNo": {
+                        "_text": "경기77바1175"
+                    },
+                    "plateType": {
+                        "_text": "3"
+                    },
+                    "remainSeatCnt": {
+                        "_text": "15"
+                    },
+                    "routeId": {
+                        "_text": "234001577"
+                    },
+                    "stationId": {
+                        "_text": "233002165"
+                    },
+                    "stationSeq": {
+                        "_text": "52"
+                    }
+                },
+                {
+                    "endBus": {
+                        "_text": "0"
+                    },
+                    "lowPlate": {
+                        "_text": "0"
+                    },
+                    "plateNo": {
+                        "_text": "경기76아3932"
+                    },
+                    "plateType": {
+                        "_text": "3"
+                    },
+                    "remainSeatCnt": {
+                        "_text": "36"
+                    },
+                    "routeId": {
+                        "_text": "234001577"
+                    },
+                    "stationId": {
+                        "_text": "277104180"
+                    },
+                    "stationSeq": {
+                        "_text": "24"
+                    }
+                },
+                {
+                    "endBus": {
+                        "_text": "0"
+                    },
+                    "lowPlate": {
+                        "_text": "0"
+                    },
+                    "plateNo": {
+                        "_text": "서울71바3244"
+                    },
+                    "plateType": {
+                        "_text": "3"
+                    },
+                    "remainSeatCnt": {
+                        "_text": "38"
+                    },
+                    "routeId": {
+                        "_text": "234001577"
+                    },
+                    "stationId": {
+                        "_text": "277104179"
+                    },
+                    "stationSeq": {
+                        "_text": "39"
+                    }
+                },
+                {
+                    "endBus": {
+                        "_text": "0"
+                    },
+                    "lowPlate": {
+                        "_text": "0"
+                    },
+                    "plateNo": {
+                        "_text": "경기76아3930"
+                    },
+                    "plateType": {
+                        "_text": "3"
+                    },
+                    "remainSeatCnt": {
+                        "_text": "40"
+                    },
+                    "routeId": {
+                        "_text": "234001577"
+                    },
+                    "stationId": {
+                        "_text": "233000995"
+                    },
+                    "stationSeq": {
+                        "_text": "6"
+                    }
+                },
+                {
+                    "endBus": {
+                        "_text": "0"
+                    },
+                    "lowPlate": {
+                        "_text": "0"
+                    },
+                    "plateNo": {
+                        "_text": "경기77바1176"
+                    },
+                    "plateType": {
+                        "_text": "3"
+                    },
+                    "remainSeatCnt": {
+                        "_text": "22"
+                    },
+                    "routeId": {
+                        "_text": "234001577"
+                    },
+                    "stationId": {
+                        "_text": "277103399"
+                    },
+                    "stationSeq": {
+                        "_text": "40"
+                    }
+                },
+                {
+                    "endBus": {
+                        "_text": "0"
+                    },
+                    "lowPlate": {
+                        "_text": "0"
+                    },
+                    "plateNo": {
+                        "_text": "경기77바1174"
+                    },
+                    "plateType": {
+                        "_text": "3"
+                    },
+                    "remainSeatCnt": {
+                        "_text": "37"
+                    },
+                    "routeId": {
+                        "_text": "234001577"
+                    },
+                    "stationId": {
+                        "_text": "101000006"
+                    },
+                    "stationSeq": {
+                        "_text": "32"
+                    }
+                }
+            ]
+        }
+    }
+}

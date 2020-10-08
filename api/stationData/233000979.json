@@ -1,0 +1,58 @@
+{
+    "_declaration": {
+        "_attributes": {
+            "version": "1.0",
+            "encoding": "UTF-8",
+            "standalone": "yes"
+        }
+    },
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-03 17:47:57.208"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": " 36465"
+                },
+                "regionName": {
+                    "_text": "화성"
+                },
+                "stationId": {
+                    "_text": "233000979"
+                },
+                "stationName": {
+                    "_text": "포스코더샵.롯데캐슬"
+                },
+                "x": {
+                    "_text": "127.09895"
+                },
+                "y": {
+                    "_text": "37.1999"
+                }
+            }
+        }
+    }
+}

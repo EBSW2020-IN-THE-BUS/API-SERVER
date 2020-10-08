@@ -1,0 +1,157 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:15.534"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23567"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222001029"
+                    },
+                    "stationName": {
+                        "_text": "주공아파트.창현초등학교.신한아파트"
+                    },
+                    "x": {
+                        "_text": "127.3010667"
+                    },
+                    "y": {
+                        "_text": "37.6448"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "49165"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000953"
+                    },
+                    "stationName": {
+                        "_text": "주공아파트.창현초등학교.신한아파트"
+                    },
+                    "x": {
+                        "_text": "127.301"
+                    },
+                    "y": {
+                        "_text": "37.6449667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23702"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000094"
+                    },
+                    "stationName": {
+                        "_text": "창현초등학교"
+                    },
+                    "x": {
+                        "_text": "127.3027167"
+                    },
+                    "y": {
+                        "_text": "37.6454833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "23703"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000095"
+                    },
+                    "stationName": {
+                        "_text": "창현초등학교"
+                    },
+                    "x": {
+                        "_text": "127.3033167"
+                    },
+                    "y": {
+                        "_text": "37.64455"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "49167"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222000772"
+                    },
+                    "stationName": {
+                        "_text": "창현초등학교"
+                    },
+                    "x": {
+                        "_text": "127.30305"
+                    },
+                    "y": {
+                        "_text": "37.6456"
+                    }
+                }
+            ]
+        }
+    }
+}

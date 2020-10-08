@@ -1,0 +1,79 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:06.550"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22003"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000003"
+                    },
+                    "stationName": {
+                        "_text": "양재역.서초문화예술회관(중)"
+                    },
+                    "x": {
+                        "_text": "127.0358833"
+                    },
+                    "y": {
+                        "_text": "37.4825667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22004"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000004"
+                    },
+                    "stationName": {
+                        "_text": "양재역.서초문화예술회관(중)"
+                    },
+                    "x": {
+                        "_text": "127.0367833"
+                    },
+                    "y": {
+                        "_text": "37.4819667"
+                    }
+                }
+            ]
+        }
+    }
+}

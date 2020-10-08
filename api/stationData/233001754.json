@@ -1,0 +1,51 @@
+{
+    "_declaration": {
+        "_attributes": {
+            "version": "1.0",
+            "encoding": "UTF-8",
+            "standalone": "yes"
+        }
+    },
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-03 17:47:57.552"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": " 55505"
+                },
+                "regionName": {
+                    "_text": "화성"
+                },
+                "stationId": {
+                    "_text": "233001754"
+                },
+                "stationName": {
+                    "_text": "아이파크.호수부영4차"
+                },
+                "x": {
+                    "_text": "127.1092667"
+                },
+                "y": {
+                    "_text": "37.1655167"
+                }
+            }
+        }
+    }
+}

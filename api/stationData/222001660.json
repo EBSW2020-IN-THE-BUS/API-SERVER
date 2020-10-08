@@ -1,0 +1,44 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:17.643"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": "23753"
+                },
+                "regionName": {
+                    "_text": "남양주"
+                },
+                "stationId": {
+                    "_text": "222001660"
+                },
+                "stationName": {
+                    "_text": "마석장터.청소년도움센터"
+                },
+                "x": {
+                    "_text": "127.30665"
+                },
+                "y": {
+                    "_text": "37.6530333"
+                }
+            }
+        }
+    }
+}

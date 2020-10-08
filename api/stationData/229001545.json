@@ -1,0 +1,79 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:17.987"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "31670"
+                    },
+                    "regionName": {
+                        "_text": "파주"
+                    },
+                    "stationId": {
+                        "_text": "229001546"
+                    },
+                    "stationName": {
+                        "_text": "운정광역보건지소(중)"
+                    },
+                    "x": {
+                        "_text": "126.7482"
+                    },
+                    "y": {
+                        "_text": "37.72955"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "31672"
+                    },
+                    "regionName": {
+                        "_text": "파주"
+                    },
+                    "stationId": {
+                        "_text": "229001545"
+                    },
+                    "stationName": {
+                        "_text": "운정광역보건지소(중)"
+                    },
+                    "x": {
+                        "_text": "126.7475833"
+                    },
+                    "y": {
+                        "_text": "37.7294333"
+                    }
+                }
+            ]
+        }
+    }
+}

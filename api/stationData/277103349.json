@@ -1,0 +1,89 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:17.941"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277102841"
+                    },
+                    "stationName": {
+                        "_text": "암사IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.1348667"
+                    },
+                    "y": {
+                        "_text": "37.5652167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103348"
+                    },
+                    "stationName": {
+                        "_text": "암사IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.1352"
+                    },
+                    "y": {
+                        "_text": "37.5662"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "277103349"
+                    },
+                    "stationName": {
+                        "_text": "암사IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.1344667"
+                    },
+                    "y": {
+                        "_text": "37.5653333"
+                    }
+                }
+            ]
+        }
+    }
+}

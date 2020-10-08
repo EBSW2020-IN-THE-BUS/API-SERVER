@@ -1,0 +1,80 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:02:36.377"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busRouteInfoItem": {
+                "companyId": {
+                    "_text": "4100300"
+                },
+                "companyName": {
+                    "_text": "대원고속"
+                },
+                "companyTel": {
+                    "_text": "02-455-2114"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "downFirstTime": {
+                    "_text": "06:00"
+                },
+                "downLastTime": {
+                    "_text": "00:00"
+                },
+                "endStationId": {
+                    "_text": "121000009"
+                },
+                "endStationName": {
+                    "_text": "신분당선강남역(중)"
+                },
+                "peekAlloc": {
+                    "_text": "4"
+                },
+                "regionName": {
+                    "_text": "서울,화성"
+                },
+                "routeId": {
+                    "_text": "234000995"
+                },
+                "routeName": {
+                    "_text": "M4403"
+                },
+                "routeTypeCd": {
+                    "_text": "14"
+                },
+                "routeTypeName": {
+                    "_text": "광역급행형시내버스"
+                },
+                "startMobileNo": {
+                    "_text": "36678"
+                },
+                "startStationId": {
+                    "_text": "233001448"
+                },
+                "startStationName": {
+                    "_text": "나루마을.월드반도"
+                },
+                "upFirstTime": {
+                    "_text": "05:20"
+                },
+                "upLastTime": {
+                    "_text": "23:15"
+                },
+                "nPeekAlloc": {
+                    "_text": "10"
+                }
+            }
+        }
+    }
+}

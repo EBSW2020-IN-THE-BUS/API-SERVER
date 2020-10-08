@@ -1,0 +1,209 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:09.144"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "47959"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "228002049"
+                    },
+                    "stationName": {
+                        "_text": "수진마을.우미아파트"
+                    },
+                    "x": {
+                        "_text": "127.0939667"
+                    },
+                    "y": {
+                        "_text": "37.33605"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "15938"
+                    },
+                    "regionName": {
+                        "_text": "평택"
+                    },
+                    "stationId": {
+                        "_text": "214000776"
+                    },
+                    "stationName": {
+                        "_text": "우미아파트"
+                    },
+                    "x": {
+                        "_text": "127.0596833"
+                    },
+                    "y": {
+                        "_text": "37.0506167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "15937"
+                    },
+                    "regionName": {
+                        "_text": "평택"
+                    },
+                    "stationId": {
+                        "_text": "214000524"
+                    },
+                    "stationName": {
+                        "_text": "우미아파트"
+                    },
+                    "x": {
+                        "_text": "127.0600833"
+                    },
+                    "y": {
+                        "_text": "37.0516667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "24060"
+                    },
+                    "regionName": {
+                        "_text": "오산"
+                    },
+                    "stationId": {
+                        "_text": "223000056"
+                    },
+                    "stationName": {
+                        "_text": "우미아파트"
+                    },
+                    "x": {
+                        "_text": "127.05995"
+                    },
+                    "y": {
+                        "_text": "37.1728667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "24058"
+                    },
+                    "regionName": {
+                        "_text": "오산"
+                    },
+                    "stationId": {
+                        "_text": "223000118"
+                    },
+                    "stationName": {
+                        "_text": "우미아파트"
+                    },
+                    "x": {
+                        "_text": "127.06025"
+                    },
+                    "y": {
+                        "_text": "37.1728167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "24400"
+                    },
+                    "regionName": {
+                        "_text": "오산"
+                    },
+                    "stationId": {
+                        "_text": "223000368"
+                    },
+                    "stationName": {
+                        "_text": "우미아파트앞"
+                    },
+                    "x": {
+                        "_text": "127.0589333"
+                    },
+                    "y": {
+                        "_text": "37.1728833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "24399"
+                    },
+                    "regionName": {
+                        "_text": "오산"
+                    },
+                    "stationId": {
+                        "_text": "223000367"
+                    },
+                    "stationName": {
+                        "_text": "우미아파트앞"
+                    },
+                    "x": {
+                        "_text": "127.0590833"
+                    },
+                    "y": {
+                        "_text": "37.1731167"
+                    }
+                }
+            ]
+        }
+    }
+}

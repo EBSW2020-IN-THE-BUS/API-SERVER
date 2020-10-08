@@ -1,0 +1,79 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:06.894"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22259"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000183"
+                    },
+                    "stationName": {
+                        "_text": "방배동래미안타워.동덕여중고"
+                    },
+                    "x": {
+                        "_text": "126.99065"
+                    },
+                    "y": {
+                        "_text": "37.47435"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22340"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000263"
+                    },
+                    "stationName": {
+                        "_text": "방배동래미안타워.동덕여중고"
+                    },
+                    "x": {
+                        "_text": "126.99055"
+                    },
+                    "y": {
+                        "_text": "37.4747667"
+                    }
+                }
+            ]
+        }
+    }
+}

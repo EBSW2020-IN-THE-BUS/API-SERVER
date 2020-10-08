@@ -1,0 +1,51 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:09.722"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": {
+                "centerYn": {
+                    "_text": "N"
+                },
+                "districtCd": {
+                    "_text": "2"
+                },
+                "mobileNo": {
+                    "_text": "57423"
+                },
+                "regionName": {
+                    "_text": "고양"
+                },
+                "stationId": {
+                    "_text": "218001183"
+                },
+                "stationName": {
+                    "_text": "원흥역5번출구"
+                },
+                "x": {
+                    "_text": "126.872"
+                },
+                "y": {
+                    "_text": "37.65105"
+                }
+            }
+        }
+    }
+}

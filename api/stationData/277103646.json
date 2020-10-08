@@ -1,0 +1,176 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:18.487"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "277103723"
+                    },
+                    "stationName": {
+                        "_text": "서판교IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0695667"
+                    },
+                    "y": {
+                        "_text": "37.3881333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "277103724"
+                    },
+                    "stationName": {
+                        "_text": "서판교IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0704167"
+                    },
+                    "y": {
+                        "_text": "37.388"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "277104448"
+                    },
+                    "stationName": {
+                        "_text": "서판교IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0697833"
+                    },
+                    "y": {
+                        "_text": "37.3892667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "277103647"
+                    },
+                    "stationName": {
+                        "_text": "서판교IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0701"
+                    },
+                    "y": {
+                        "_text": "37.3881833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "277104449"
+                    },
+                    "stationName": {
+                        "_text": "서판교IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.07045"
+                    },
+                    "y": {
+                        "_text": "37.3892"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "성남"
+                    },
+                    "stationId": {
+                        "_text": "277103646"
+                    },
+                    "stationName": {
+                        "_text": "서판교IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0699167"
+                    },
+                    "y": {
+                        "_text": "37.38875"
+                    }
+                }
+            ]
+        }
+    }
+}

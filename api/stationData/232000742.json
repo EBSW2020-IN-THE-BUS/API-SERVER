@@ -1,0 +1,86 @@
+{
+    "_declaration": {
+        "_attributes": {
+            "version": "1.0",
+            "encoding": "UTF-8",
+            "standalone": "yes"
+        }
+    },
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-03 17:47:56.806"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 35659"
+                    },
+                    "regionName": {
+                        "_text": "김포"
+                    },
+                    "stationId": {
+                        "_text": "232000741"
+                    },
+                    "stationName": {
+                        "_text": "힐스테이트.경남아너스빌"
+                    },
+                    "x": {
+                        "_text": "126.6375167"
+                    },
+                    "y": {
+                        "_text": "37.6392333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 35660"
+                    },
+                    "regionName": {
+                        "_text": "김포"
+                    },
+                    "stationId": {
+                        "_text": "232000742"
+                    },
+                    "stationName": {
+                        "_text": "힐스테이트.경남아너스빌"
+                    },
+                    "x": {
+                        "_text": "126.6344"
+                    },
+                    "y": {
+                        "_text": "37.6384833"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:19.518"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "과천"
+                    },
+                    "stationId": {
+                        "_text": "277103312"
+                    },
+                    "stationName": {
+                        "_text": "경마IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0056167"
+                    },
+                    "y": {
+                        "_text": "37.4478167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "과천"
+                    },
+                    "stationId": {
+                        "_text": "277103311"
+                    },
+                    "stationName": {
+                        "_text": "경마IC(경유)"
+                    },
+                    "x": {
+                        "_text": "127.00545"
+                    },
+                    "y": {
+                        "_text": "37.448"
+                    }
+                }
+            ]
+        }
+    }
+}

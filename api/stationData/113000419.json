@@ -1,0 +1,79 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:06.362"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "14063"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "113000419"
+                    },
+                    "stationName": {
+                        "_text": "신촌오거리.2호선신촌역(중)"
+                    },
+                    "x": {
+                        "_text": "126.9402833"
+                    },
+                    "y": {
+                        "_text": "37.5561167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "13023"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "113000417"
+                    },
+                    "stationName": {
+                        "_text": "신촌오거리.2호선신촌역(중)"
+                    },
+                    "x": {
+                        "_text": "126.9386333"
+                    },
+                    "y": {
+                        "_text": "37.5557"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:07.909"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "04184"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "203000035"
+                    },
+                    "stationName": {
+                        "_text": "경기대수원캠퍼스후문"
+                    },
+                    "x": {
+                        "_text": "127.0417667"
+                    },
+                    "y": {
+                        "_text": "37.2978333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "04008"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "203000034"
+                    },
+                    "stationName": {
+                        "_text": "경기대수원캠퍼스후문"
+                    },
+                    "x": {
+                        "_text": "127.0419167"
+                    },
+                    "y": {
+                        "_text": "37.29775"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "04178"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "203000166"
+                    },
+                    "stationName": {
+                        "_text": "경기대수원캠퍼스후문.수원박물관"
+                    },
+                    "x": {
+                        "_text": "127.0394333"
+                    },
+                    "y": {
+                        "_text": "37.29675"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "04181"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "203000165"
+                    },
+                    "stationName": {
+                        "_text": "경기대수원캠퍼스후문.수원박물관"
+                    },
+                    "x": {
+                        "_text": "127.03975"
+                    },
+                    "y": {
+                        "_text": "37.2970833"
+                    }
+                }
+            ]
+        }
+    }
+}

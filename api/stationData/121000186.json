@@ -1,0 +1,79 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:06.894"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22253"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000177"
+                    },
+                    "stationName": {
+                        "_text": "방배동래미안아트힐.국립국악원"
+                    },
+                    "x": {
+                        "_text": "127.0060667"
+                    },
+                    "y": {
+                        "_text": "37.47735"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22262"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000186"
+                    },
+                    "stationName": {
+                        "_text": "방배동래미안아트힐.국립국악원"
+                    },
+                    "x": {
+                        "_text": "127.0066167"
+                    },
+                    "y": {
+                        "_text": "37.4772167"
+                    }
+                }
+            ]
+        }
+    }
+}

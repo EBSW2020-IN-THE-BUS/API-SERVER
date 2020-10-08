@@ -1,0 +1,79 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:20.878"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "25162"
+                    },
+                    "regionName": {
+                        "_text": "시흥"
+                    },
+                    "stationId": {
+                        "_text": "224000125"
+                    },
+                    "stationName": {
+                        "_text": "풍림아파트상가"
+                    },
+                    "x": {
+                        "_text": "126.7360833"
+                    },
+                    "y": {
+                        "_text": "37.3899167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "25164"
+                    },
+                    "regionName": {
+                        "_text": "시흥"
+                    },
+                    "stationId": {
+                        "_text": "224000096"
+                    },
+                    "stationName": {
+                        "_text": "풍림아파트상가"
+                    },
+                    "x": {
+                        "_text": "126.7361"
+                    },
+                    "y": {
+                        "_text": "37.3896667"
+                    }
+                }
+            ]
+        }
+    }
+}

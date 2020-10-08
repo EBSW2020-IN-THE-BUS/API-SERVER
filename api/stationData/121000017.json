@@ -1,0 +1,157 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:06.706"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22023"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000023"
+                    },
+                    "stationName": {
+                        "_text": "구반포역(중)"
+                    },
+                    "x": {
+                        "_text": "126.9900167"
+                    },
+                    "y": {
+                        "_text": "37.5019833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22018"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000018"
+                    },
+                    "stationName": {
+                        "_text": "반포역(중)"
+                    },
+                    "x": {
+                        "_text": "127.0110333"
+                    },
+                    "y": {
+                        "_text": "37.50795"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22017"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000017"
+                    },
+                    "stationName": {
+                        "_text": "반포역(중)"
+                    },
+                    "x": {
+                        "_text": "127.0121167"
+                    },
+                    "y": {
+                        "_text": "37.5083833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22022"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000022"
+                    },
+                    "stationName": {
+                        "_text": "신반포역(중)"
+                    },
+                    "x": {
+                        "_text": "126.99445"
+                    },
+                    "y": {
+                        "_text": "37.5029833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "Y"
+                    },
+                    "districtCd": {
+                        "_text": "1"
+                    },
+                    "mobileNo": {
+                        "_text": "22021"
+                    },
+                    "regionName": {
+                        "_text": "서울"
+                    },
+                    "stationId": {
+                        "_text": "121000021"
+                    },
+                    "stationName": {
+                        "_text": "신반포역(중)"
+                    },
+                    "x": {
+                        "_text": "126.9958167"
+                    },
+                    "y": {
+                        "_text": "37.50345"
+                    }
+                }
+            ]
+        }
+    }
+}

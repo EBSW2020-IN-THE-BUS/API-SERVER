@@ -1,0 +1,424 @@
+{
+    "_declaration": {
+        "_attributes": {
+            "version": "1.0",
+            "encoding": "UTF-8",
+            "standalone": "yes"
+        }
+    },
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-03 17:47:57.474"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 25995"
+                    },
+                    "regionName": {
+                        "_text": "시흥"
+                    },
+                    "stationId": {
+                        "_text": "224000243"
+                    },
+                    "stationName": {
+                        "_text": "목감한신더휴.호반2차"
+                    },
+                    "x": {
+                        "_text": "126.84915"
+                    },
+                    "y": {
+                        "_text": "37.37585"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 25996"
+                    },
+                    "regionName": {
+                        "_text": "시흥"
+                    },
+                    "stationId": {
+                        "_text": "224000245"
+                    },
+                    "stationName": {
+                        "_text": "목감호반2차.한신더휴"
+                    },
+                    "x": {
+                        "_text": "126.8490333"
+                    },
+                    "y": {
+                        "_text": "37.3760333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 28531"
+                    },
+                    "regionName": {
+                        "_text": "하남"
+                    },
+                    "stationId": {
+                        "_text": "227000684"
+                    },
+                    "stationName": {
+                        "_text": "미사강변한신더휴"
+                    },
+                    "x": {
+                        "_text": "127.1928"
+                    },
+                    "y": {
+                        "_text": "37.57475"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 28091"
+                    },
+                    "regionName": {
+                        "_text": "하남"
+                    },
+                    "stationId": {
+                        "_text": "227000270"
+                    },
+                    "stationName": {
+                        "_text": "미사강변한신더휴.16단지"
+                    },
+                    "x": {
+                        "_text": "127.1934"
+                    },
+                    "y": {
+                        "_text": "37.5738333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 28504"
+                    },
+                    "regionName": {
+                        "_text": "하남"
+                    },
+                    "stationId": {
+                        "_text": "227000195"
+                    },
+                    "stationName": {
+                        "_text": "미사강변한신더휴.16단지"
+                    },
+                    "x": {
+                        "_text": "127.1923833"
+                    },
+                    "y": {
+                        "_text": "37.5731167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 25944"
+                    },
+                    "regionName": {
+                        "_text": "시흥"
+                    },
+                    "stationId": {
+                        "_text": "224000947"
+                    },
+                    "stationName": {
+                        "_text": "배곧한신더휴.호반더프라임"
+                    },
+                    "x": {
+                        "_text": "126.7294667"
+                    },
+                    "y": {
+                        "_text": "37.3709833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 55556"
+                    },
+                    "regionName": {
+                        "_text": "화성"
+                    },
+                    "stationId": {
+                        "_text": "233003159"
+                    },
+                    "stationName": {
+                        "_text": "한신더휴"
+                    },
+                    "x": {
+                        "_text": "127.1264"
+                    },
+                    "y": {
+                        "_text": "37.1865833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 55489"
+                    },
+                    "regionName": {
+                        "_text": "화성"
+                    },
+                    "stationId": {
+                        "_text": "233001614"
+                    },
+                    "stationName": {
+                        "_text": "한신더휴"
+                    },
+                    "x": {
+                        "_text": "127.1237833"
+                    },
+                    "y": {
+                        "_text": "37.1865167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 23991"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222001392"
+                    },
+                    "stationName": {
+                        "_text": "한신더휴6.7단지.가운중학교"
+                    },
+                    "x": {
+                        "_text": "127.1574"
+                    },
+                    "y": {
+                        "_text": "37.5990833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 23990"
+                    },
+                    "regionName": {
+                        "_text": "남양주"
+                    },
+                    "stationId": {
+                        "_text": "222001390"
+                    },
+                    "stationName": {
+                        "_text": "한신더휴6.8단지"
+                    },
+                    "x": {
+                        "_text": "127.1590667"
+                    },
+                    "y": {
+                        "_text": "37.5978333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 08590"
+                    },
+                    "regionName": {
+                        "_text": "의정부"
+                    },
+                    "stationId": {
+                        "_text": "207000400"
+                    },
+                    "stationName": {
+                        "_text": "한신더휴고산"
+                    },
+                    "x": {
+                        "_text": "127.117"
+                    },
+                    "y": {
+                        "_text": "37.74475"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 35761"
+                    },
+                    "regionName": {
+                        "_text": "김포"
+                    },
+                    "stationId": {
+                        "_text": "232000828"
+                    },
+                    "stationName": {
+                        "_text": "한신더휴테라스"
+                    },
+                    "x": {
+                        "_text": "126.6954667"
+                    },
+                    "y": {
+                        "_text": "37.6494833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 35762"
+                    },
+                    "regionName": {
+                        "_text": "김포"
+                    },
+                    "stationId": {
+                        "_text": "232000829"
+                    },
+                    "stationName": {
+                        "_text": "한신더휴테라스"
+                    },
+                    "x": {
+                        "_text": "126.6954833"
+                    },
+                    "y": {
+                        "_text": "37.6497667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 55424"
+                    },
+                    "regionName": {
+                        "_text": "화성"
+                    },
+                    "stationId": {
+                        "_text": "233003097"
+                    },
+                    "stationName": {
+                        "_text": "효행초.한신더휴에듀파크"
+                    },
+                    "x": {
+                        "_text": "126.96565"
+                    },
+                    "y": {
+                        "_text": "37.2156667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 55425"
+                    },
+                    "regionName": {
+                        "_text": "화성"
+                    },
+                    "stationId": {
+                        "_text": "233003098"
+                    },
+                    "stationName": {
+                        "_text": "효행초.한신더휴에듀파크"
+                    },
+                    "x": {
+                        "_text": "126.9669833"
+                    },
+                    "y": {
+                        "_text": "37.2161167"
+                    }
+                }
+            ]
+        }
+    }
+}

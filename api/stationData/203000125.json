@@ -1,0 +1,72 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:08.019"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "04241"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "203000125"
+                    },
+                    "stationName": {
+                        "_text": "경희대학교"
+                    },
+                    "x": {
+                        "_text": "127.07745"
+                    },
+                    "y": {
+                        "_text": "37.2477833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "00000"
+                    },
+                    "regionName": {
+                        "_text": "용인"
+                    },
+                    "stationId": {
+                        "_text": "277104476"
+                    },
+                    "stationName": {
+                        "_text": "경희대학교생명과학대학관(경유)"
+                    },
+                    "x": {
+                        "_text": "127.0807333"
+                    },
+                    "y": {
+                        "_text": "37.2429667"
+                    }
+                }
+            ]
+        }
+    }
+}

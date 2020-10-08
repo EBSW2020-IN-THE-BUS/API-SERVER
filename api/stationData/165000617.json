@@ -1,0 +1,209 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:07.534"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "25191"
+                    },
+                    "regionName": {
+                        "_text": "시흥"
+                    },
+                    "stationId": {
+                        "_text": "224000098"
+                    },
+                    "stationName": {
+                        "_text": "소래포구입구"
+                    },
+                    "x": {
+                        "_text": "126.7406167"
+                    },
+                    "y": {
+                        "_text": "37.3930833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "25178"
+                    },
+                    "regionName": {
+                        "_text": "시흥"
+                    },
+                    "stationId": {
+                        "_text": "224000084"
+                    },
+                    "stationName": {
+                        "_text": "풍림2단지.소래포구입구"
+                    },
+                    "x": {
+                        "_text": "126.7382833"
+                    },
+                    "y": {
+                        "_text": "37.3935833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "3"
+                    },
+                    "mobileNo": {
+                        "_text": "39818"
+                    },
+                    "regionName": {
+                        "_text": "인천"
+                    },
+                    "stationId": {
+                        "_text": "165000818"
+                    },
+                    "stationName": {
+                        "_text": "소래포구입구"
+                    },
+                    "x": {
+                        "_text": "126.73935"
+                    },
+                    "y": {
+                        "_text": "37.39895"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "3"
+                    },
+                    "mobileNo": {
+                        "_text": "39617"
+                    },
+                    "regionName": {
+                        "_text": "인천"
+                    },
+                    "stationId": {
+                        "_text": "165000617"
+                    },
+                    "stationName": {
+                        "_text": "소래포구입구"
+                    },
+                    "x": {
+                        "_text": "126.7358"
+                    },
+                    "y": {
+                        "_text": "37.4057167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "3"
+                    },
+                    "mobileNo": {
+                        "_text": "39815"
+                    },
+                    "regionName": {
+                        "_text": "인천"
+                    },
+                    "stationId": {
+                        "_text": "165000815"
+                    },
+                    "stationName": {
+                        "_text": "소래포구입구"
+                    },
+                    "x": {
+                        "_text": "126.7393167"
+                    },
+                    "y": {
+                        "_text": "37.4001833"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "3"
+                    },
+                    "mobileNo": {
+                        "_text": "39114"
+                    },
+                    "regionName": {
+                        "_text": "인천"
+                    },
+                    "stationId": {
+                        "_text": "165000114"
+                    },
+                    "stationName": {
+                        "_text": "소래포구입구.논현프루지오A"
+                    },
+                    "x": {
+                        "_text": "126.74035"
+                    },
+                    "y": {
+                        "_text": "37.4028667"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "3"
+                    },
+                    "mobileNo": {
+                        "_text": "39109"
+                    },
+                    "regionName": {
+                        "_text": "인천"
+                    },
+                    "stationId": {
+                        "_text": "165000109"
+                    },
+                    "stationName": {
+                        "_text": "소래포구입구.논현프루지오A"
+                    },
+                    "x": {
+                        "_text": "126.7400167"
+                    },
+                    "y": {
+                        "_text": "37.4018833"
+                    }
+                }
+            ]
+        }
+    }
+}

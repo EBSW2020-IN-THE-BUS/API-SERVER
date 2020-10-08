@@ -1,0 +1,79 @@
+{
+    "_declaration": {
+        "_attributes": {
+            "version": "1.0",
+            "encoding": "UTF-8",
+            "standalone": "yes"
+        }
+    },
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-03 17:47:57.740"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 55585"
+                    },
+                    "regionName": {
+                        "_text": "화성"
+                    },
+                    "stationId": {
+                        "_text": "233002017"
+                    },
+                    "stationName": {
+                        "_text": "현대트랜시스"
+                    },
+                    "x": {
+                        "_text": "127.10385"
+                    },
+                    "y": {
+                        "_text": "37.2162"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": " 55602"
+                    },
+                    "regionName": {
+                        "_text": "화성"
+                    },
+                    "stationId": {
+                        "_text": "233002165"
+                    },
+                    "stationName": {
+                        "_text": "현대트랜시스"
+                    },
+                    "x": {
+                        "_text": "127.1035667"
+                    },
+                    "y": {
+                        "_text": "37.21745"
+                    }
+                }
+            ]
+        }
+    }
+}

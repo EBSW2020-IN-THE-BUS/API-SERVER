@@ -1,0 +1,261 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-08 21:01:07.815"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busStationList": [
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "02091"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "201000116"
+                    },
+                    "stationName": {
+                        "_text": "서수원버스터미널"
+                    },
+                    "x": {
+                        "_text": "126.9708667"
+                    },
+                    "y": {
+                        "_text": "37.2829"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "02090"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "201000029"
+                    },
+                    "stationName": {
+                        "_text": "서수원버스터미널"
+                    },
+                    "x": {
+                        "_text": "126.9707"
+                    },
+                    "y": {
+                        "_text": "37.2834"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "02224"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "201000192"
+                    },
+                    "stationName": {
+                        "_text": "수원버스터미널"
+                    },
+                    "x": {
+                        "_text": "127.0216333"
+                    },
+                    "y": {
+                        "_text": "37.2489"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "02923"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "201000420"
+                    },
+                    "stationName": {
+                        "_text": "수원버스터미널"
+                    },
+                    "x": {
+                        "_text": "127.0195667"
+                    },
+                    "y": {
+                        "_text": "37.2523333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "02213"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "201000043"
+                    },
+                    "stationName": {
+                        "_text": "수원버스터미널"
+                    },
+                    "x": {
+                        "_text": "127.0189833"
+                    },
+                    "y": {
+                        "_text": "37.2512167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "02221"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "201000145"
+                    },
+                    "stationName": {
+                        "_text": "수원버스터미널"
+                    },
+                    "x": {
+                        "_text": "127.0204"
+                    },
+                    "y": {
+                        "_text": "37.2512167"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "02215"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "201000197"
+                    },
+                    "stationName": {
+                        "_text": "수원버스터미널"
+                    },
+                    "x": {
+                        "_text": "127.0197667"
+                    },
+                    "y": {
+                        "_text": "37.2498333"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "02219"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "201000212"
+                    },
+                    "stationName": {
+                        "_text": "수원버스터미널"
+                    },
+                    "x": {
+                        "_text": "127.0201167"
+                    },
+                    "y": {
+                        "_text": "37.25085"
+                    }
+                },
+                {
+                    "centerYn": {
+                        "_text": "N"
+                    },
+                    "districtCd": {
+                        "_text": "2"
+                    },
+                    "mobileNo": {
+                        "_text": "02214"
+                    },
+                    "regionName": {
+                        "_text": "수원"
+                    },
+                    "stationId": {
+                        "_text": "201000009"
+                    },
+                    "stationName": {
+                        "_text": "수원버스터미널"
+                    },
+                    "x": {
+                        "_text": "127.01955"
+                    },
+                    "y": {
+                        "_text": "37.25095"
+                    }
+                }
+            ]
+        }
+    }
+}
