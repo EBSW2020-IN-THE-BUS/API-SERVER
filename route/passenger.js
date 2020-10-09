@@ -2,6 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const mysql = require('mysql');
 const fs= require('fs');
+const HttpStatus= require('http');
 const { json } = require('body-parser');
 
 var router = express.Router();
@@ -40,7 +41,7 @@ var connection = mysql.createConnection({
       var json=fs.readFileSync(`/home/ebsw/ebsw-API-server/EBSW_test/api/stationData/${stationId}.json`);
       var data= JSON.parse(json);
       console.log(data); 
-      res.json(responseFormat(HttpStatus.CREATED, "Success log-in", data));
+      res.json(responseFormat(true, "", data));
   });
 
 
@@ -49,7 +50,7 @@ var connection = mysql.createConnection({
       var json=fs.readFileSync(`/home/ebsw/ebsw-API-server/EBSW_test/api/dispatchData/D${routeId}.json`);
       var data= JSON.parse(json);
       console.log(data); 
-      res.json(responseFormat(HttpStatus.OK, "...", data));
+      res.json(responseFormat(true, "...", data));
   });
 
 
@@ -57,8 +58,8 @@ var connection = mysql.createConnection({
       var body= req.body;
       var params= [body.stationId, body.vehicleNo, body.stationName];
       var resmsg=JSON.stringify({
-          "status": HttpStatus.OK,
-          "msg" : "200 OK"
+          "status": true,
+          "msg" : "reserve Ok"
       });
       connection.query('INSERT INTO reserveInfo VALUE(?, ?, ?)',params,function(err,rows){
         if(err) throw err;

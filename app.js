@@ -13,6 +13,11 @@ var app= express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
+app.use(function(err,req,res,next){
+  console.log(err.stack);
+  res.status(500).send({status:500, message:'internet error', type:'internal'});
+});
+
 app.use('/driver', driver);
 app.use('/passenger', passenger);
 

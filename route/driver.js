@@ -17,26 +17,27 @@ var connection = mysql.createConnection({
     port     : '3306'
   });
 
-function responseFormat(status, msg, data){
+function responseFormat(status, msg, data, data2){
   return{
     status: status,
     msg: msg,
-    data: data
+    data: data,
+    "reserveInfoList":
+      data2
+
   }
 };
+
+
 
 router.get('/login-success/:routeId/:vehicleNo/reserve-info',function(req,res){
   var routeId=req.params.routeId;
   var vehicleNo= req.params.vehicleNo;
   var json=fs.readFileSync(`/home/ebsw/ebsw-API-server/EBSW_test/api/routeData/${routeId}.json`);
   var data= JSON.parse(json);
-  connection.query('select *from reserveInfo where vehicleNo=?',[vehicleNo], function(err,rows){ 
-    rowData=JSON.stringify({
-      "vehicleNo": rows.vehicleNo,
-      "stationID": rows.stationID,
-      "stationName": rows.stationName
-    });
-    res.json(responseFormat(true, "", data+rows));
+  connection.query('select *from reserveInfo where vehicleNo=?',[vehicleNo], function(err,rows){
+    if(err) throw err;
+    res.send(responseFormat(true, "", data, rows));
   })
 });
 
