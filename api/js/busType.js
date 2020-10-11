@@ -15,7 +15,7 @@ request({
     // console.log('Reponse received', body);
     // var xmlToJson = convert.xml2json(body, {compact: true, spaces: 4});
     console.log(`xml to json => ${body}`);
-    fs.writeFileSync('/home/ebsw/ebsw-API-server/EBSW_test/api/xmlData/busType.xml', body);
+    fs.writeFileSync('/home/webos/EBSW/EBSW2020-API-server/api/xmlData/busType.xml', body);
 });
 
 

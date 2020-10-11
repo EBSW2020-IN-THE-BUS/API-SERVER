@@ -1,0 +1,223 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-12 00:17:49.694"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busArrivalList": [
+                {
+                    "flag": {
+                        "_text": "PASS"
+                    },
+                    "locationNo1": {
+                        "_text": "21"
+                    },
+                    "locationNo2": {},
+                    "lowPlate1": {
+                        "_text": "0"
+                    },
+                    "lowPlate2": {
+                        "_text": "0"
+                    },
+                    "plateNo1": {
+                        "_text": "경기70바5387"
+                    },
+                    "plateNo2": {},
+                    "predictTime1": {
+                        "_text": "48"
+                    },
+                    "predictTime2": {},
+                    "remainSeatCnt1": {
+                        "_text": "46"
+                    },
+                    "remainSeatCnt2": {
+                        "_text": "0"
+                    },
+                    "routeId": {
+                        "_text": "200000145"
+                    },
+                    "staOrder": {
+                        "_text": "52"
+                    },
+                    "stationId": {
+                        "_text": "203000041"
+                    }
+                },
+                {
+                    "flag": {
+                        "_text": "PASS"
+                    },
+                    "locationNo1": {
+                        "_text": "49"
+                    },
+                    "locationNo2": {
+                        "_text": "74"
+                    },
+                    "lowPlate1": {
+                        "_text": "0"
+                    },
+                    "lowPlate2": {
+                        "_text": "0"
+                    },
+                    "plateNo1": {
+                        "_text": "경기77바1762"
+                    },
+                    "plateNo2": {
+                        "_text": "경기77바1698"
+                    },
+                    "predictTime1": {
+                        "_text": "47"
+                    },
+                    "predictTime2": {
+                        "_text": "72"
+                    },
+                    "remainSeatCnt1": {
+                        "_text": "-1"
+                    },
+                    "remainSeatCnt2": {
+                        "_text": "-1"
+                    },
+                    "routeId": {
+                        "_text": "234000026"
+                    },
+                    "staOrder": {
+                        "_text": "152"
+                    },
+                    "stationId": {
+                        "_text": "203000041"
+                    }
+                },
+                {
+                    "flag": {
+                        "_text": "PASS"
+                    },
+                    "locationNo1": {
+                        "_text": "7"
+                    },
+                    "locationNo2": {},
+                    "lowPlate1": {
+                        "_text": "0"
+                    },
+                    "lowPlate2": {
+                        "_text": "0"
+                    },
+                    "plateNo1": {
+                        "_text": "경기77바3707"
+                    },
+                    "plateNo2": {},
+                    "predictTime1": {
+                        "_text": "20"
+                    },
+                    "predictTime2": {},
+                    "remainSeatCnt1": {
+                        "_text": "39"
+                    },
+                    "remainSeatCnt2": {
+                        "_text": "0"
+                    },
+                    "routeId": {
+                        "_text": "234001286"
+                    },
+                    "staOrder": {
+                        "_text": "50"
+                    },
+                    "stationId": {
+                        "_text": "203000041"
+                    }
+                },
+                {
+                    "flag": {
+                        "_text": "PASS"
+                    },
+                    "locationNo1": {
+                        "_text": "2"
+                    },
+                    "locationNo2": {},
+                    "lowPlate1": {
+                        "_text": "0"
+                    },
+                    "lowPlate2": {
+                        "_text": "0"
+                    },
+                    "plateNo1": {
+                        "_text": "경기77바3732"
+                    },
+                    "plateNo2": {},
+                    "predictTime1": {
+                        "_text": "4"
+                    },
+                    "predictTime2": {},
+                    "remainSeatCnt1": {
+                        "_text": "36"
+                    },
+                    "remainSeatCnt2": {
+                        "_text": "0"
+                    },
+                    "routeId": {
+                        "_text": "234001317"
+                    },
+                    "staOrder": {
+                        "_text": "48"
+                    },
+                    "stationId": {
+                        "_text": "203000041"
+                    }
+                },
+                {
+                    "flag": {
+                        "_text": "PASS"
+                    },
+                    "locationNo1": {
+                        "_text": "4"
+                    },
+                    "locationNo2": {},
+                    "lowPlate1": {
+                        "_text": "0"
+                    },
+                    "lowPlate2": {
+                        "_text": "0"
+                    },
+                    "plateNo1": {
+                        "_text": "경기77바2414"
+                    },
+                    "plateNo2": {},
+                    "predictTime1": {
+                        "_text": "6"
+                    },
+                    "predictTime2": {},
+                    "remainSeatCnt1": {
+                        "_text": "33"
+                    },
+                    "remainSeatCnt2": {
+                        "_text": "0"
+                    },
+                    "routeId": {
+                        "_text": "234001318"
+                    },
+                    "staOrder": {
+                        "_text": "35"
+                    },
+                    "stationId": {
+                        "_text": "203000041"
+                    }
+                }
+            ]
+        }
+    }
+}

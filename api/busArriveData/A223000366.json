@@ -1,0 +1,23 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-12 00:17:54.053"
+            },
+            "resultCode": {
+                "_text": "4"
+            },
+            "resultMessage": {
+                "_text": "결과가 존재하지 않습니다."
+            }
+        }
+    }
+}

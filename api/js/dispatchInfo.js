@@ -35,7 +35,7 @@ function dispatchData(i){
             var xmlToJson = convert.xml2json(body, options, removeJsonTextAttribute);
             console.log(`xml to json => ${xmlToJson}`);
             console.log(xmlToJson);
-            fs.writeFileSync(`/home/ebsw/ebsw-API-server/EBSW_test/api/dispatchData/D${routeid}.json`, xmlToJson);
+            fs.writeFileSync(`/home/webos/EBSW/EBSW2020-API-server/api/dispatchData/D${routeid}.json`, xmlToJson);
         });
     })
 }

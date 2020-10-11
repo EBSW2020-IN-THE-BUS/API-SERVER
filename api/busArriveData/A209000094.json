@@ -1,0 +1,69 @@
+{
+    "response": {
+        "comMsgHeader": {
+            "errMsg": {
+                "_text": "NORMAL SERVICE."
+            },
+            "returnCode": {
+                "_text": "00"
+            }
+        },
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-12 00:17:50.866"
+            },
+            "resultCode": {
+                "_text": "0"
+            },
+            "resultMessage": {
+                "_text": "정상적으로 처리되었습니다."
+            }
+        },
+        "msgBody": {
+            "busArrivalList": {
+                "flag": {
+                    "_text": "PASS"
+                },
+                "locationNo1": {
+                    "_text": "8"
+                },
+                "locationNo2": {
+                    "_text": "15"
+                },
+                "lowPlate1": {
+                    "_text": "0"
+                },
+                "lowPlate2": {
+                    "_text": "0"
+                },
+                "plateNo1": {
+                    "_text": "경기71바1739"
+                },
+                "plateNo2": {
+                    "_text": "경기71바1740"
+                },
+                "predictTime1": {
+                    "_text": "9"
+                },
+                "predictTime2": {
+                    "_text": "25"
+                },
+                "remainSeatCnt1": {
+                    "_text": "29"
+                },
+                "remainSeatCnt2": {
+                    "_text": "34"
+                },
+                "routeId": {
+                    "_text": "208000027"
+                },
+                "staOrder": {
+                    "_text": "66"
+                },
+                "stationId": {
+                    "_text": "209000094"
+                }
+            }
+        }
+    }
+}

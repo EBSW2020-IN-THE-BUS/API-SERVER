@@ -39,7 +39,7 @@ function stationData(i){
               };
             var xmlToJson = convert.xml2json(body, options,removeJsonTextAttribute);
             console.log(`xml to json => ${xmlToJson}`);
-            fs.writeFileSync(`/home/ebsw/ebsw-API-server/EBSW_test/api/stationData/${stationid}.json`, xmlToJson);
+            fs.writeFileSync(`/home/webos/EBSW/EBSW2020-API-server/api/stationData/${stationid}.json`, xmlToJson);
         });
     });
 }

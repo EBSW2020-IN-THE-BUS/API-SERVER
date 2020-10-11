@@ -61,8 +61,8 @@ function ArriveData(i){
 var connection = mysql.createConnection({
   host     : 'localhost',
   user     : 'root',
-  password : 'ebsw1!',
-  database : 'EBSW_API',
+  password : '11qqaa',
+  database : 'ebsw_api',
   port     : '3306'
 });
 

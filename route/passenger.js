@@ -13,8 +13,8 @@ router.use(express.static(__dirname+'/'));
 var connection = mysql.createConnection({
     host     : 'localhost',
     user     : 'root',
-    password : 'ebsw1!',
-    database : 'EBSW_API',
+    password : '11qqaa',
+    database : 'ebsw_api',
     port     : '3306'
   });
 
@@ -29,7 +29,7 @@ var connection = mysql.createConnection({
 
   router.get('/routeInfo/:routeId',function(req,res){
     routeId=req.params.routeId;
-    var json=fs.readFileSync(`/home/ebsw/ebsw-API-server/EBSW_test/api/routeData/${routeId}.json`);
+    var json=fs.readFileSync(`/home/webos/EBSW/EBSW2020-API-server/api/routeData/${routeId}.json`);
     var data= JSON.parse(json);
     console.log(data); 
     res.json(responseFormat(true, "Success log-in", data));
@@ -38,16 +38,18 @@ var connection = mysql.createConnection({
 
   router.get('/stationInfo/:stationId',function(req,res){
       stationId=req.params.stationId;
-      var json=fs.readFileSync(`/home/ebsw/ebsw-API-server/EBSW_test/api/stationData/${stationId}.json`);
+      var json=fs.readFileSync(`/home/webos/EBSW/EBSW2020-API-server/api/stationData/${stationId}.json`);
+      var json2=fs.readFileSync(`/home/webos/EBSW/EBSW2020-API-server/api/busArriveData/A${stationId}.json`);
       var data= JSON.parse(json);
+      var data2= JSON.parse(json2);
       console.log(data); 
-      res.json(responseFormat(true, "", data));
+      res.json(responseFormat(true, "", [data,data2]));
   });
 
 
   router.get('/info/:routeId',function(req,res){
       routeId=req.params.routeId;
-      var json=fs.readFileSync(`/home/ebsw/ebsw-API-server/EBSW_test/api/dispatchData/D${routeId}.json`);
+      var json=fs.readFileSync(`/home/webos/EBSW/EBSW2020-API-server/api/dispatchData/D${routeId}.json`);
       var data= JSON.parse(json);
       console.log(data); 
       res.json(responseFormat(true, "...", data));

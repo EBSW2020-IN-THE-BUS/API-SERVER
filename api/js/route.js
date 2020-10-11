@@ -37,7 +37,7 @@ function routeData(i){
           };
         var xmlToJson = convert.xml2json(body,options,removeJsonTextAttribute);
         console.log(`json => ${xmlToJson}`);
-        fs.writeFileSync(`/home/ebsw/ebsw-API-server/EBSW_test/api/routeData/${routeid}.json`,xmlToJson,{compact:true, spaces:4});
+        fs.writeFileSync(`/home/webos/EBSW/EBSW2020-API-server/api/routeData/${routeid}.json`,xmlToJson,{compact:true, spaces:4});
     });
     })
 }

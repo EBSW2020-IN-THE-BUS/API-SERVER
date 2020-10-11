@@ -12,8 +12,8 @@ router.use(express.static(__dirname+'/'));
 var connection = mysql.createConnection({
     host     : 'localhost',
     user     : 'root',
-    password : 'ebsw1!',
-    database : 'EBSW_API',
+    password : '11qqaa',
+    database : 'ebsw_api',
     port     : '3306'
   });
 
@@ -33,7 +33,7 @@ function responseFormat(status, msg, data, data2){
 router.get('/login-success/:routeId/:vehicleNo/reserve-info',function(req,res){
   var routeId=req.params.routeId;
   var vehicleNo= req.params.vehicleNo;
-  var json=fs.readFileSync(`/home/ebsw/ebsw-API-server/EBSW_test/api/routeData/${routeId}.json`);
+  var json=fs.readFileSync(`/home/webos/EBSW/EBSW2020-API-server/api/routeData/${routeId}.json`);
   var data= JSON.parse(json);
   connection.query('select *from reserveInfo where vehicleNo=?',[vehicleNo], function(err,rows){
     if(err) throw err;
