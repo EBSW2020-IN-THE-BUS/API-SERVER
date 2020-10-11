@@ -2,12 +2,14 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const mysql = require('mysql');
 const fs= require('fs');
+const cors= require('cors');
 
 var router = express.Router();
 
 router.use(bodyParser.json());
 router.use(bodyParser.urlencoded({ extended: true }));
 router.use(express.static(__dirname+'/'));
+router.use(cors());
 
 var connection = mysql.createConnection({
     host     : 'localhost',

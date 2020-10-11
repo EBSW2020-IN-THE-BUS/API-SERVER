@@ -2,6 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const mysql = require('mysql');
 const fs= require('fs');
+const cors= require('cors');
 var request = require('request');
 var convert= require('xml-js');
 var driver = require('./route/driver');
@@ -12,6 +13,7 @@ var port= 8080;
 var app= express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
+app.use(cors());
 
 app.use(function(err,req,res,next){
   console.log(err.stack);
