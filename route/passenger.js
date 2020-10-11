@@ -12,12 +12,12 @@ router.use(bodyParser.urlencoded({ extended: true }));
 router.use(express.static(__dirname+'/'));
 
 var connection = mysql.createConnection({
-    host     : 'localhost',
-    user     : 'root',
-    password : '11qqaa',
-    database : 'ebsw_api',
-    port     : '3306'
-  });
+  host     : 'localhost',
+  user     : 'root',
+  password : '11qqaa',
+  database : 'ebsw_api',
+  port     : '3306'
+});
 
   function responseFormat(status, msg, data){
     return{
@@ -57,7 +57,18 @@ var connection = mysql.createConnection({
   });
 
 
-  router.post('/get_off/reserve',function(req,res){  
+  router.get('/get_off/reserve/:routeId',function(req,res){  
+     var routeid= req.params.routeId;
+     var json=fs.readFileSync(`/home/webos/EBSW/EBSW2020-API-server/api/routeData/${routeid}.json`);
+     var data= JSON.parse(json);
+     console.log(data);
+     var json2=fs.readFileSync(`/home/webos/EBSW/EBSW2020-API-server/api/busLocationData/A${routeid}.json`);
+     var data2= JSON.parse(json2);
+     console.log(data2); 
+     res.json(responseFormat(true, "...", [data,data2]));
+  });
+
+  router.post('/get_off/reserve/:routeId',function(req,res){  
       var body= req.body;
       var params= [body.stationId, body.vehicleNo, body.stationName];
       var resmsg=JSON.stringify({

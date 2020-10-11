@@ -1,0 +1,16 @@
+{
+    "response": {
+        "comMsgHeader": {},
+        "msgHeader": {
+            "queryTime": {
+                "_text": "2020-10-12 03:34:36.160"
+            },
+            "resultCode": {
+                "_text": "4"
+            },
+            "resultMessage": {
+                "_text": "결과가 존재하지 않습니다."
+            }
+        }
+    }
+}

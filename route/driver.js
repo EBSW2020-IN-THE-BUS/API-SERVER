@@ -12,12 +12,12 @@ router.use(express.static(__dirname+'/'));
 router.use(cors());
 
 var connection = mysql.createConnection({
-    host     : 'localhost',
-    user     : 'root',
-    password : '11qqaa',
-    database : 'ebsw_api',
-    port     : '3306'
-  });
+  host     : 'localhost',
+  user     : 'root',
+  password : '11qqaa',
+  database : 'ebsw_api',
+  port     : '3306'
+});
 
 function responseFormat(status, msg, data, data2){
   return{

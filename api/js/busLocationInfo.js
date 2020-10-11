@@ -16,12 +16,12 @@ var connection = mysql.createConnection({
   });
 
 
-  function ArriveData(i){
-    connection.query('select *from station', function(err,rows){
-        var stationid=rows[i].stationId;
-        var uri = 'http://openapi.gbis.go.kr/ws/rest/busarrivalservice/station';
+  function LocationData(i){
+    connection.query('select *from route', function(err,rows){
+        var routeid=rows[i].routeId;
+        var uri = 'http://openapi.gbis.go.kr/ws/rest/buslocationservice';
         var queryParams = '?' + encodeURIComponent('serviceKey') + '=zrMzTNK%2BXPLjh1l7ctWyVSWVsHtBJ90tw79Bp6a%2B4p7Up33UeO3GojWL6yYasJ5EeQbEHtI0RvEW7lXgbnfbEA%3D%3D';
-        queryParams= queryParams + '&' + encodeURIComponent('stationId') + '=' + encodeURIComponent(stationid); 
+        queryParams= queryParams + '&' + encodeURIComponent('routeId') + '=' + encodeURIComponent(routeid); 
         request({
             url: uri + queryParams,
             method: 'GET'
@@ -45,16 +45,16 @@ var connection = mysql.createConnection({
               };
             var xmlToJson = convert.xml2json(body, options, removeJsonTextAttribute);
             console.log(`xml to json => ${xmlToJson}`);
-            fs.writeFileSync(`/home/webos/EBSW/EBSW2020-API-server/api/busArriveData/A${stationid}.json`, xmlToJson);
+            fs.writeFileSync(`/home/ebsw/ebsw-API-server/EBSW_test/api/busLocationData/A${routeid}.json`, xmlToJson);
         });
     })
 }
 
 
 setInterval(function(){
-  connection.query('select *from station', function(err,rows){
+  connection.query('select *from route', function(err,rows){
         for(var i=0; i<rows.length; i++){
-            ArriveData(i);
+            LocationData(i);
         }
     });
 },10000);
